@@ -1,0 +1,27 @@
+{
+  "source": "geoBoundaries gbOpen",
+  "api": "https://www.geoboundaries.org/api/current/gbOpen/IND/ADM2/",
+  "state_geojson_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM1/geoBoundaries-IND-ADM1.geojson",
+  "district_geojson_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM2/geoBoundaries-IND-ADM2.geojson",
+  "retrieved_at_utc": "2026-10-30T22:20:54+00:00",
+  "district_layer": {
+    "boundaryID": "IND-ADM2-76128533",
+    "boundaryName": "India",
+    "boundaryYearRepresented": "2021",
+    "boundarySource": "Pathways Data Pvt. Ltd., lgdirectory.gov.in",
+    "boundaryLicense": "Open Data Commons Open Database License 1.0",
+    "licenseSource": "geonode.pathwaysdata.com/layers/geonode",
+    "buildDate": "Dec 12, 2023"
+  },
+  "state_layer": {
+    "boundaryID": "IND-ADM1-1811400",
+    "boundaryYearRepresented": "2011",
+    "boundarySource": "DataMeet India community, Election Commission of India",
+    "boundaryLicense": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+    "licenseSource": "github.com/datameet/maps",
+    "buildDate": "Dec 12, 2023"
+  },
+  "feature_count": 38,
+  "geojson_sha256": "f8569015d1e12ba00d13b73a76338d82840dab392519d6e1abcdad906603ef76",
+  "attribution": "geoBoundaries; retain the source attribution and license shown in this manifest."
+}

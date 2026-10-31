@@ -1,0 +1,1712 @@
+ 
+ 
+Government of India 
+Earth System Science Organisation 
+Ministry of Earth Sciences 
+India Meteorological Department 
+ 
+IMD Chennai Scientific Report No. IMDC-SR/16 
+Report on Northeast Monsoon – 2023 
+      
+ 
+Regional Meteorological Centre, Chennai 
+March 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 1 
+ 
+ 
+Table of Contents 
+1. Background 4 
+2. Onset phase 4 
+3a. Major synoptic scale systems during the NEM 2023 season 13 
+3b. Historical rainfall event over South Tamilnadu during 17th – 19th December 
+2023 41 
+4. Sub divisional rainfall performance during NEM 2023 55 
+4.1 Seasonal rainfall 55 
+4.2 Monthly, Weekly & Daily rainfall scenario 56 
+4.3 Monsoon activity & heavy rainfall events 60 
+4.4 District rainfall scenario 66 
+5. Rainfall distribution over Tamil Nadu and Puducherry 67 
+6. Standardised Precipitation Index 71 
+7. Large & Regional scale circulation features 72 
+8. Cessation of NEM rains over peninsular India 81 
+9. Summary 82 
+Acknowledgements 83 
+Appendices 84 
+ 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 2 
+ 
+Executive Summary 
+1 Document title Report of Northeast Monsoon – 2023 
+2 Document type Scientific Report 
+3 Issue No. IMDC-SR/16 
+4 Issue Date March 2024 
+5 Security Classification Unclassified 
+6 Control Status Unclassified 
+7 No. of pages 84 
+8 No. of Figures 53 
+9 No. of Tables 13 
+10 Appendix (i)-(iii) 
+11 No. of references -- 
+12 Annexure -- 
+13 Distribution Unrestricted 
+14 Language English 
+15 Authors B.Geetha, K.Ramesh, R.V.Deepa, J. Menaka 
+Gandhi, S.Balachandran, P.Senthamarai Kannan,  
+K. Santosh, S.Stella,     Geeta Agnihotri and K. Nagaratna 
+16 Authors’ affiliation India Meteorological Department, Chennai 
+17 Originating group Research Section, Regional Meteorological Centre, 
+India Meteorological Department, Chennai 
+18 Reviewing & Approving 
+authority 
+Head, Regional Meteorological Centre, 
+India Meteorological Department, Chennai 
+19 End users State Agriculture department, State disaster       
+management authorities, Press & media, 
+Researchers and general public 
+20 Abstract Given in page 3 
+21 Key words Northeast monsoon, Southern India, Rainfall 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 3 
+ 
+Abstract 
+During the year 202 3, the southwest monsoon withdrew from the Indian region on 16th  
+October and the Northeast monsoon (NEM) of 202 3 commenced simultaneously over the 
+southeastern parts of peninsular India on 16th October 2023 against the normal date of 20 th 
+October. Of the five meteorological sub divisions benefitted by the NEM, three subdivisions 
+- Tamil Nadu (including Puducherry & Karaikal)  (TN), Coastal Andhra Pradesh (CAP)  & 
+Kerala (KER)  received normal to excess  rainfall and the other two subdivisions - 
+Rayalaseema (RYS), and South Interior Karnataka (SIK)] received deficient rainfall during 
+the NEM season (Oct ober-December) 2023. Active to vigorous monsoon conditions 
+prevailed over TN on 20 days, over KER on 12 days and over RYS, CAP & SIK – 3-5 days 
+during the season.  There were 57 days of isolated heavy rainfall activity with 24 days of 
+isolated very heavy rain including 0 7 days of isolated extremely heavy rainfall  activity over 
+TN.  Four cyclones affected the Indian seas during the season  – Extremely Severe Cyclonic 
+Storm (ESCS) TEJ over the Arabian Sea (AS) and Very Severe Cyclonic Storm (VSCS)  
+HAMOON, Cyclonic Storm (CS)  MIDHILI and Severe Cyclonic Storm (SCS)  
+MICHAUNG over the Bay of Bengal  (BOB). The SCS MICHAUNG over the BOB during 
+01st-06th December crossed south Andhra Pradesh  coast, south of Bapatla on 05 th 
+afternoon as SCS with maximum sustained surface wind speed of 90-100 kmph gusting to 
+110 kmph. Associated with the passage of this system, very heavy to extremely heavy  
+rainfall occurred over Chennai and neighbouring districts of extreme north Tamilnadu , 
+Rayalaseema & Coastal Andhra Pradesh during 04th-06th December. The other three cyclones 
+ESCS TEJ that affected AS during 20th-24th Oct 2023 moved westwards and crossed Yemen 
+coast, VSCS HAMOON that affected BOB during 21 st-25th Oct 2023 tracked northeastwards 
+and crossed Bangladesh coast and CS MIDHILI that affected BOB during 15 th-18th Nov 
+2023 also tracked northeastwards and crossed Bangladesh coast le ading to weak NEM 
+rainfall activity over the peninsular India  during the respective periods . However, associated 
+with an upper air cyclonic circulation over the Comorin area and neighbourhood, historical 
+extremely heavy  rainfall occurred over south Tamilnadu during 17 th-19th December, with 
+Kayalpattinam in Thoothukudi district recording 95 cm/day  and 30 other stations over 
+Thoothukudi, Tirunelveli, Kanyakumari and Tenkasi districts recording over 30 cm/day on 
+18th December leading to devastating floods over extreme south Tamilnadu. Ther eafter, with 
+the gradual decrease in rainfall activity, the cessation of NEM 2023 rainfall over the southern 
+peninsular India was declared on 14th January 2024. 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 4 
+ 
+1.  Background 
+The Indian southwest monsoon (SWM) season of June to September is the chief rainy 
+season for India and  about 75% of the country’s annual rainfall is realis ed during this season. 
+Subsequent to the withdrawal of S WM, the northeast monsoon (NEM), a small scale monsoon 
+confined to parts of southern peninsular India comprising of the meteorological sub -divisions of 
+Tamil Nadu, Puducherry & Karaikal  (TN), Kerala & Mahe (KER), Coastal Andhra Pradesh & 
+Yanam (CAP), Rayalaseema (RYS) and South Interior Karnataka (SIK)  occurs. For the 
+subdivision of TN, the normal SWM seasonal rainfall realised is only about 3 6% (328.5 mm) of 
+its annual rainfall (921.4 mm) as this subdivision comes under the rain-shadow region during the 
+SWM. The northeast monsoon (NEM) season of October to December (OND) is the chief rainy 
+season for this subdivision with 48% (442.8 mm) of its annual rainfall realised during this season 
+and hence its performance is a key factor for this regional agricultural activity. 
+Further, the NEM season is also the primary cyclone season for the North Indian Ocean 
+(NIO) basin comprising of the Bay of Bengal (BOB) and the Arabian Sea (AS) and cyclonic 
+disturbances (CDs; low pressure systems (LPS) with maximum sustained surface wind speed 
+(MSW) of 17 knots or more) forming over BOB and moving west/northwest -wards affect the 
+coastal areas of southeastern peninsular India and also contribute significantly to NEM rainfall. 
+As such, the NEM season assumes importance from the agricultural as well as cyclone disaster 
+management perspectives.  
+Prior to the commencement of NEM rains, after the withdrawal of SWM upto 15°N, 
+reversal of low  level winds from southwesterly to northeasterly occurs. The normal date of 
+setting in of easterlies over the southeastern peninsular India is 14 th October.  The normal date of 
+onset of NEM over Coastal TN (CTN) and south CAP is 20 th October. The normal rainfall 
+received over the five NEM su b-divisions during OND is TN -442.8 mm, KER-492.0 mm, CAP-
+322.9 mm, RYS-236.4 mm and SIK -199.0 mm.  However, the NEM seasonal rainfall shows a 
+high degree of variability with 27% co-efficient of variation.  
+The NEM rainfall is influenced by global climate parameters such as ENSO  (El Nino/La 
+Nina & Southern Oscillation Index) , Indian Ocean Dipole (IOD)  and Madden-Julian Oscillation 
+(MJO). El Nino, positive IOD and MJO in phase 2-4 with amplitude greater than one are 
+generally associated with good NEM rainfall.   
+2. Onset phase 
+During O ctober 2023, El Nino  conditions prevailed over the equatorial Pacific Ocean , 
+IOD was positive which were favourable for good NEM activity. However, MJO was in the 
+western hemisphere and Africa ( phase 7,8 &1) throughout the month which was not favourable 
+for good NEM rainfall activity. 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 5 
+ 
+Under favourable large scale climate settings (El Nino & positive IOD), atmospheric flow 
+pattern over the Indian region gradually changed from the SWM to NEM conditions during the 
+second week of October 2023  with the establishment of low level anticyclone over the central 
+India and reversal of low level winds over the southern peninsular India from westerly to easterly 
+flow pattern around 12 th October and gradually, the SWM withdrew from the entire country 
+on 16th October. Pentad mean wind flow pattern depicting the reversal of wind from westerlies 
+to easterlies during the second week of October 2023 are presented in Fig.1a. 
+Simultaneously, under the influence of an upper air cyclonic circulation over TN and 
+neighbourhood during 13 th-16th October and another cyclonic circulation over LAK and 
+neighbourhood during 15 th & 16 th October, generally scattered to fairly widespread  rainfall 
+occurred over TN during 13th-18th October and fairly widespread to widespread rainfall occurred 
+on most days over KER during the same period. With isolated rainfall activity over CAP, RYS & 
+SIK on 16 th, commencement of NEM rains over TN, KER, CAP, RYS & SIK occurred on 
+16th October 2023. Upper air streamline analysis as on 0530 IST of 13 th-16th October depicting 
+the two cyclonic circulations in the lower levels, one over TN & neighbourhood during 13 th-16th 
+and another over LAK area during 15th & 16th October are presented in Fig.1b. INSAT-3D, infra-
+red imageries during 13th-16th October depicting the associated cloudiness are shown in Fig.1c.  
+Scattered to fairly widespread  rainfall occurred over TN during 15 th-18th with isolated heavy to 
+very heavy rain as on 24-hr ending 0830 IST of 15 th & 16th & isolated heavy rain on 17th & 18th 
+October. Thereafter, with the formation of a low  pressure system over the BOB, moisture 
+incursion over TN decreased considerably and rainfall activity over TN became weak till the end 
+of October 2023. However, significant rainfall activity continued over KER till 25 th October. 
+Scattered to widespread  rainfall occurred over KER on all days during 13 th-25th October with 
+isolated heavy to extremely heavy  rainfall reports on 15 th; isolated heavy to very heavy  rainfall 
+on 24 th; and isolated heavy rain on 13 th,14th, 16 th-18th, 21 st, 23 rd & 25 th October 2023.  
+Thiruvananthapuram airport (KER) recorded 21 cm and Chertala (Alapuzha district, KER) 
+recorded 20 cm on 15th October. In TN, Mambazhathuraiyaru & Anaikedanku in Kanniyakumari 
+district reported 17 cm on the same day. 
+Active NEM conditions prevailed over TN on 17th and over KER on 24th & 25th October 2023. 
+GPM satellite-gauge merged rainfall depicting the rainfall over the southern peninsula as on 24 -
+hr ending 0830 IST of 15 th & 17 th October is presented in Fig.1d. Maps of spatial rainfall 
+distribution and rainfall intensity over TN during the 24 -hr ending 0830 IST of 14 th-17th October 
+2023 are presented in Fig.1e. 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 6 
+ 
+ 
+ 
+ 
+Fig.1a: NCEP reanalysis 850 hPa  streamline pattern indicating reversal wind from 
+westerly to easterly over peninsular India during the second week of October 2023. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 7 
+ 
+ 
+ 
+Fig.1b: Lower-mid level upper air streamline analysis as on 0530 IST of 13-16 Oct 2023 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 8 
+ 
+ 
+ 
+Fig.1b: contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 9 
+ 
+ 
+ 
+ 
+Fig.1c: INSAT-3D / 3DR infra-red imageries as on 13/1200 IST, 14/1845 IST & 16/0530 IST 
+of Oct 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 10 
+ 
+ 
+Fig.1c: contd. 
+   
+Fig.1d: GPM satellite -gauge merged rainfall as on 24 hr ending 0830 IST of 15 & 17 Oct 
+2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 11 
+ 
+ 
+ 
+Fig.1e: Maps of spatial rainfall distribution and intensity over TN during 14-17 Oct 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 12 
+ 
+ 
+ 
+Fig.1e: contd. 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 13 
+ 
+3a. Major synoptic scale systems during the NEM 2023 season 
+During the period October-December 2023, four tropical cyclones formed over the Indian seas – 
+(i) Extremely Severely Cyclonic Storm  (ESCS) ‘TEJ’  over the Arabian sea during 20 th-24th 
+October , (ii) Very Severe Cyclonic Storm  (VSCS) ‘HAMOON’ over the Bay of Bengal during 
+21st-25th October, (iii) Severe Cyclonic Storm (SCS) ‘MIDHILI’ over the Bay of Bengal during 
+15th-18th November and (iv) Severe Cyclonic Storm ‘MICHAUNG’ over the Bay of Bengal 
+during 01st-06th December 2023. 
+(B) Extremely Severely Cyclonic Storm   ‘TEJ’ over the Arabian sea during 20 th-24th 
+October & ( ii) Very Severe Cyclonic Storm  (VSCS) ‘HAMOON’ over the Bay of 
+Bengal during 21st-25th October 2023 
+Under the influence of a n upper air cyclonic circulation that formed over the Lakshadweep and 
+adjoining southeast AS on 15 th October 2023 which gradually moved west -northwestwards and 
+lay over southeast AS and adjoining Lakshadweep on 17 th, a Low Pressure Area  (LOPAR) 
+formed over southeast and adjoining eastcentral AS in the early morning (0530 IST) of 18 th.  It 
+lay as a Well Marked Low pressure Area (WML) over southwest AS in the midnight (2330 IST) 
+of 19th over the same region  and concentrated into a Depression (D) over southwest AS in the 
+early morning (0530 IST) of 20th and lay centered about 1280 km east -southeast of Al Ghaidah. 
+It moved west-northwestwards and intensified into a Deep Depression (DD) in the evening 1730 
+IST of 20th over southwest AS and lay cent ered about 1240 km east -southeast of Al Ghaidah. 
+Continuing to move further west -northwestwards, it intensified into the Cyclonic Storm  (CS) 
+“TEJ” pronounced as “TEJ” in the early morning (0530  IST) of 21 st over southwest AS and 
+further into a Severe Cyclonic Storm (SCS) around mid-day (1130 IST) over the same region. 
+From 21st afternoon (1430  IST), it started moving northwestwards and intensified into a Very 
+Severe Cyclonic Storm  (VSCS) in the night (2030 IST) of 21 st over the same region.  Moving 
+further northwestwards, it intensified rapidly into an Extremely Severe Cyclonic Storm  (ESCS) 
+in the morning (0830  IST) of 22 nd over westcentral and adjoining southwest AS.  “TEJ” 
+exhibited rapid intensification during midnight (2330 IST) of 21 st to noon (1130  IST) of 22 nd 
+reaching it’s peak intensity of 95 knots in the morning (0830  IST) of 22nd. It then maintained it’s 
+intensity till early hours (0230 IST) of 2 3rd. Thereafter, it entered into an area with less ocean 
+thermal energy and high vertical wind shear. It also experienced cold/dry air incursion from 
+Arabian Peninsula. Under these unfavourable conditions, it gradually started weakening. 
+Continuing to move northwestwards, it weakened into a VSCS in the morning (0830 IST) of 23rd 
+over westcentral AS. Weakening trend fu rther continued with land interactions and “TEJ” 
+crossed Yemen coast close to South of Al Ghaidah in the early hours (between 0230 and 0330 
+IST) of 24 th October as a VSCS with intensity of 65 knots gusting to 75 knots (120 -130 kmph 
+gusting to 140 kmph). Thereafter, it moved nearly westwards and weakened rapidly and lay as a 
+WML over Yemen in the night (2030  IST) of 24 th October 2023.  The observed track of the 
+system is presented in Fig. 2a(i). \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 14 
+ 
+ 
+Fig.2a(i): Observed track of ESCS TEJ over the Arabian Sea during 20-24 Oct 2023 
+Under the influence of an upper air  cyclonic circulation over southeast BOB during 17 th-19th 
+October 2023, a Low Pressure Area formed over southwest and adjoining southeast BOB in the 
+early morning (0530  IST) of 20 th. It lay as a Well Marked Low pressure Area  over southwest 
+and adjoining central BOB in the morning (0830 IST) of 21st and concentrated into a Depression 
+over westcentral BOB in the midnight (2330  IST) of 21st.  It moved initially northwestwards for 
+some time, then recurved gradually north-northeastwards and intensified into a Deep Depression 
+in the evening (1730  IST) of 22 nd over westcentral B OB. Continuing to move further north -
+northeastwards, it intensified into a Cyclonic Storm “HAMOON” pronounced as “HAMOON” 
+in the evening (1730 IST) of 23 rd over westcentral & adjoining southwest B OB. Thereafter, it 
+moved northeastwards and intensified into a Severe Cyclonic Storm in the early morning (0530 
+IST) of 24 th October over westcentral B OB. Continuing to move further northeastwards, it 
+rapidly intensified into a Very Severe Cyclonic Storm over the same region in the same morning 
+(0830 IST) of 24th. Thereafter, it entered into an area with high vertical wind shear and weakened 
+into an SCS .in the evening ( 1730 IST ) of 24 th.  Continuing with the w eakening trend 
+“HAMOON” crossed Bangladesh Coast to the south of Chittagong near (21.90 N/91.90 E) 
+between 2330 IST of 24 th – 0030 hours IST of 25 th October as a  Severe Cyclonic Storm with 
+maximum sustained wind speed of 90 -100 kmph gusting to 110 kmph. Thereafter, continuing to 
+move north-eastwards, it weakened rapidly into a DD over coastal Bangladesh in the morning 
+(0830 IST) of 25th, into a D over southwest Mizoram & adjoining Bangladesh & Myanmar in the 
+noon (1130 IST) and into a WML over Mizoram and adjoining areas of Manipur and Myanmar 
+the evening (1730  IST) of 25 th October 2023. The observed track of the system is presented in 
+Fig.2a(ii). 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 15 
+ 
+ 
+Fig.2a(ii): Observed track of VSCS HAMOON over the Bay of Bengal during 21-25 Oct 2023 
+As such, there was simultaneous occurrence of two cyclones – TEJ over AS & 
+HAMOON over BOB during 21 st to 24th October 2023.  INSAT-3D infra-red imagery depicting 
+the cloudiness associated with TEJ & HAMOON as on 21st / 1300 IST & 23 rd /1000 IST is 
+shown in Fig.2b (i&ii). 
+   
+Fig.2b (i&ii): INSAT-3D, infra-red imagery as on (i) 21/1300 IST & (ii) 23/1000 IST of  
+October 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 16 
+ 
+IMD-GFS 850 hPa wind analysis as on 17th/0530 IST & 22nd/0530 IST of Oct 2023 depicting the 
+low level circulation associated with cyclones TEJ & HAMOON is presented in Fig.2c. 
+ 
+ 
+Fig.2c: IMD-GFS, 850 hPa wind analysis as on 17/0530 IST & 22/0530 IST of Oct 2023 
+Due to sweeping away of moisture by cyclone HAMOON over BOB, NEM rainfall 
+activity decreased drastically over TN.  Generally, isolated light to moderate rainfall activity 
+prevailed over TN during 19 th-26th with sporadic heavy rainfall reports at one or two places on 
+21st & 24th October 2023. Subsequently, with the flow pattern gradually returning to the normal 
+seasonal pattern and gradual building up of moisture  over the southeastern peninsula , rainfall 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 17 
+ 
+activity over TN picked up gradually. Fairly widespread to widespread rainfall occurred at many 
+places over TN and at most places over KER during 30th October – 11th November 2023.  
+(iii) Severe Cyclonic Storm “MIDHILI” over Bay of Bengal during 15th-18th Nov 2023 
+Under the influence of a n upper air Cyclonic Circulation lay over Gulf of Thailand on 12th  
+November 2023 which emerged into South Andaman Sea on 13th, a Low Pressure Area formed 
+over southeast BOB and adjoining Andaman & Nicobar Islands in the early morning (0530 IST ) 
+of 14th. It lay as a Well Marked Low Pressure Area  over southeast & adjoining central B OB in 
+the evening (1730 IST) of 14 th and concentrated into a Depression over westcentral BOB in the 
+morning (0830 IST) of 15th. It moved nearly northwards till the midnight (2330 IST) of 15 th  & 
+thereafter gradually recurved north-northeastwards and intensified into a Deep Depression in the 
+early morning (0530 IST) of 16 th and further into Cyclonic Storm “MIDHILI” (pronounced as 
+“MIDHILI”) over Northwest Bay of Bengal in the early morning (0530 IST) of 17 th. It 
+intensified further into Severe Cyclonic Storm over the same region off Bangladesh coast in the 
+afternoon (1430 IST ) of 17 th and crossed Bangladesh coast close to east of Patuakhali  near 
+22.3N/90.5E during 1430-1530 IST  of 17 th November as a Severe Cyclonic Storm with the 
+maximum sustained wind speed of 85 -95 kmph gusting to 105 kmph .  Thereafter, it moved 
+northeastwards and weakened gradually into a D over Tripura and adjoining Bangladesh & 
+Mizoram in the early morning (0530 IST ) of 18th and further into a low pressure area over North 
+Tripura and neighbourhood in the forenoon (0830 IST ) of 18th November 2023. The observed 
+track of the system is presented in Fig. 2d. 
+ 
+Fig.2d: Observed track of SCS MIDHILI over the Bay of Bengal during 15-18 Nov 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 18 
+ 
+(iv) Severe Cyclonic storm “MICHAUNG” over Bay of Bengal during 01st-06th Dec 2023 
+ 
+Under the influence of a cyclonic circulation that entered Andaman sea and neighbourhood from 
+the east a Low Pressure Area  formed over south Andaman sea and neighbourhood on 27 th 
+November 2023.  It became Well Marked Low Pressure Area  over Southeast Bay of Bengal & 
+adjoining South Andaman Sea  on 29 th. Moving west -northwestwards it concentrated into a 
+Depression over Southeast and adjoining Southwest Bay of Bengal on 01 st December / 0530 IST 
+and lay centered at 0830 IST over the same region near Latitude 9.3°N and Longitude 86.2°E, 
+about 760km east-southeast of Puducherry & 780 km east-southeast of Chennai.  Moving further 
+west-northwestwards it intensified into a Deep Depression on 02nd /0530 IST and lay centered at 
+0830 IST over the same region near Latitude 10.6°N and Longitude 83.6°E,  about 440 km east -
+southeast of Puducherry&450 km east-southeast of Chennai.  
+ 
+It intensified  in to Cyclonic Storm  “MICHAUNG” (pronounced as MIGJAUM) over 
+Southwest Bay of Bengal on 03 rd /0530 IST, moved northwestwards and lay centered on 
+03rd/0830 IST over the same region near Latitude 11.5°N and Longitude 82.4°E, about 290 km 
+east-southeast of Puducherry, 290  km southeast of Chennai.  Moving northwestwards, it was 
+centered at about 145 km ESE of Chennai on 03rd midnight (2330 IST); at about 97 km ENE of 
+Chennai on 04th early morning (0530 IST).  
+ 
+Moving further northwestwards, it intensified into Severe Cyclonic Storm  over the Westcentral 
+& adjoining Southwest Bay of Bengal off south Andhra Pradesh and adjoining north Tamil nadu 
+coasts in the forenoon (0830 IST) of 4 th. Thereafter, it moved nearly northwards and crossed 
+south Andhra Pradesh coast between Nellore and Machilipatnam, close to south of Bapatla 
+during 1230 to 1430 hours IST of 5 th December 2023 as a Severe Cyclonic Storm with 
+maximum sustained wind speed of 90-100 kmph gusting to 110 kmph.   
+ 
+The system moved almost parallel t o the south Andhra Pradesh coast and was cent ered within 
+150 km from the coast from 03 rd midnight (2330 IST) (off Chennai coast) till the time of 
+crossing the coast at Balpatla on 05th /1430 IST.   
+ 
+After the landfall, it continued to moved nearly northward and weakened into a Cyclonic Storm 
+and lay cent ered at 1530 IST  of 5 th over south coastal Andhra Pradesh. It then moved north -
+northeastwards and weakened into a Deep Depression around midnight (2330 IST) of 5 th over 
+coastal Andhra Pradesh and further into a Depression over northeast Telangana and adjoining 
+areas of south Chhattisgarh, south Odisha and coastal Andhra Pradesh in the early morning 
+(0530 IST) of 6th and weakened further gradually.  The observed track of the system is presented 
+in Fig. 2e(i). CAP, RYS, extreme northeastern districts of  TN & southeastern districts of TEL 
+experienced severe weather associated with the system. 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 19 
+ 
+Surface isobaric analysis and upper air streamline analysis as on 03 rd/1730 IST & surface 
+isobaric analysis as on 04 th /0830 IST and upper air streamline analysis as on 04 th/0530 IST are 
+presented in Fig.2e(ii & iii). Plots of hourly special observations along the Andhra Pradesh coast 
+from 04th/1830 IST to 05th/1630 IST are shown in Fig.2e(iv).   
+ 
+ 
+Fig.2e(i): Observed track of SCS MICHAUNG over the Bay of Bengal during 01 -06 Dec 
+2023 
+ 
+As per the hourly coastal special observations, Nellore reported the lowest Mean Sea Level 
+Pressure (MSLP) of 987.9 hPa with a 24 -hr pressure change of -17.2 hPa on 05 th/0230 IST; 
+Kavali reported MSLP of 989.6 hPa with 24 -hr pressure change of -16.6 hPa on 05 th/0630 IST; 
+and Ongole reported MSLP of 992.3 hPa with 24 -hr pressure change of -14.7 hPa on 05 th/1330 
+IST.  Bapatla reported maximum sustained surface wind of 40 knots (74 kmph) on 05 th/1430 IST 
+and lowest MSLP of 997.4 hPa  with 24 -hr  pressure change of -8.0 hPa on 05 th/1630 IST. 
+Chennai – Nungambakkam (NBK) & Meenambakkam (MBK) reported lowest MSLP of 997.0 
+hPa with 24-hr pressure change of -8.6 hPa & 998.3 hPa with 24 -hr pressure change of -6.9 hPa 
+respectively on 04th/1530 IST.  
+ 
+Plots of Mean Sea Level Pressure and Maximum wind speed in gusts recorded by AWS stations 
+at Chennai (NBK), Ennore Port & VIT Chennai and High Wind Speed Recorder data of Chennai 
+(NBK) as on 03rd & 04th December 2023 are shown in Fig.2e(v). It may be noted that maximum 
+wind speed in gust reaching 55 kmph (30 kt), 80 kmph (44 kt) & 65 kmph (35 kt) and lowest 
+MSLP of 996.7 hPa at 14:00 IST, 995.2 hPa at 14:30 IST and 997.4 hPa at 14:15 IST were 
+recorded at Chennai (NBK), Ennore port & VIT Chennai respectively  on 04th December 2023. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 20 
+ 
+High Wind Speed Recorder at Chennai (NBK) recorded wind speed of about 75 -80 kmph (40-45 
+knots) in gusts during early hours to noon of 04th December 2023. 
+ 
+ 
+ 
+Fig. 2e(ii) Surface isobaric analysis and upper air streamline analysis as on 03rd/1730 IST 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 21 
+ 
+ 
+ 
+ 
+Fig. 2e(iii) Surface isobaric analysis as on 0830 IST and upper air streamline analysis as on 
+0530 IST of 04 Dec 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 22 
+ 
+ 
+ 
+ 
+Fig.2e(iv): Plots of hourly observations at IMD stations along (a) coastal Andhra Pradesh  
+from Nellore to Kakinada and (b) adjoining north Tamilnadu (Cuddalore to Chennai). 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 23 
+ 
+ 
+ 
+ 
+Fig.2e(v): Plots of Mean Sea Level Pressure and Maximum wind speed in gusts recorded by 
+AWS stations at Chennai (Nungambakkam), Ennore Port & VIT Chennai on 03 rd & 04th 
+December 2023   
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 24 
+ 
+ 
+ 
+Fig.2e(v): contd. 
+    
+ 
+INSAT-3D, enhanced infra -red imagery as on 03 rd/2330 IST & 04 th / 1730 IST indicating the 
+cloudiness over extreme northeastern TN, CAP & RYS are presented in Fig.2e(vi). Maximum 
+Reflectivity product of Doppler Weather Radar (DWR) Chen nai as on 04th/1840 IST and that of 
+DWR Machilipatnam as on 05th/ 0720 IST depicting the eye and the inner spiral bands are shown 
+in Fig.2e(vii). 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 25 
+ 
+ 
+   
+ 
+Fig.2e(vi): INSAT-3D enhanced infra-red imagery as on 03/2330 IST & 04/1730 IST of Dec 
+2023 
+ 
+Associated with the passage of the system,  widespread to fairly widespread  rainfall with active 
+to vigorous monsoon conditions prevailed  over CAP during the 24 -hr ending 0830 IST of 05 th, 
+06th & 07th December 2023, scattered to fairly widespread  rainfall occurred over RYS during 
+03rd-06th with vigorous monsoon conditions on 05 th and scattered rainfall occurred over TN on 
+03rd & 04 th December 2023 with active monsoon conditions over north coastal TN on 03 rd 
+December 2023. Isolated heavy to extremely heavy rain occurred over TN during the 24 -hr 
+ending 0830 IST of 04th & 05th, over RYS on 05th, over CAP on 05th & 06th and over TEL on 06th 
+December 2923. 
+Heavy to extremely heavy  rainfall reports from IMD observatories, automatic weather stations 
+(AWS), automatic raingauge stations ( ARG) and state district rainfall monitoring  stations over 
+CAP, RYS, TN & TEL during 03rd-06th December 2023 are listed in the Table-1. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 26 
+ 
+ 
+ 
+ 
+Fig.2e(vii):  Maximum Reflectivity product  of Doppler Weather Radars at (i) Chennai as 
+on 04 /18:40 IST & (ii) Machilipatnam as on 05 / 07:20 IST  
+ 
+  
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 27 
+ 
+Table-1: List of stations reporting heavy to extremely heavy rainfall and rainfall amounts 
+reported during 03rd-06th December 2023 over TN, CAP, RYS & TEL 
+ 
+TAMILNADU 
+District Station & 24 -hr accumulated rainfall (cm) ending 08:30 IST of date 
+mentioned against each 
+Chennai 03rd: Alandur, Anna University, Anna University ARG, Chennai (MBK): 8 
+each, MGR Nagar: 7; 
+04th:  Zone 14 Perungudi-29,  Alandur & Chennai (MBK)-25 each,  
+Zone 13 Adyar , Meenambakkam AWS, Zone 12 Meenambakkam, Chennai 
+(NBK)-23 each , MGR Nagar, Zone 10 Kodambakkam, CD Hospital 
+Tondiarpet -22 each , Zone 11 Valasaravakkam, Zone 15 Sholinganallur, 
+DGP Office Mylapore, NIOT_Pallikaranai ARG, Chennai (N) AWS,  Anna 
+University -21 each , Zone  03 Puzhal , Perambur, Zone 09 Ice House -20 
+each, Ayanavaram Taluk Office,   Taramani ARG, Anna Nagar – 19 each, 
+Chennai Collector Office,  Sholinganallur, Zone 09 Teynampet, Zone 08 
+Malar Colony, Anna University ARG, Valasaravakkam, YMCA Nandnam 
+ARG, Kodambakkam – 18 each, Ambathur-2 – 17, Zone 06 T.V.K Nagar,  
+Zone 04 Tondiarpet,  Teynampet, Zone 01 Kathivakkam, Thiru -Vi-Ka 
+Nagar, Zone 03 Madhavaram -16 each, Zone 08 Anna Nagar,  
+Sholinganallur, Zone 06 D65 Kolathur, Tondairpet, Zone 14 U41 Perungudi 
+, Ennore AWS-15 each , Zone 07 Ambattur -14, Zone 13 Adyar Eco Park ,, 
+Zone 05 GCC, Zone 12 Alandur -14 each,  Zone 02 Manali, Zone U39 
+Adyar-13 each, Zone D156 Mugalivakkam, Zone 15 Uthandi, Royapuram , 
+Zone 07 U18 D81 Vanagaram-12 each ;         
+05th: Chennai (N BK), Chennai(NBK) AWS – 24 each, Zone 09 Ice House -
+22, Royapuram, Zone 13 Adya, Thiru-Vi-Ka Nagar-21,Zone 05 GCC, Zone 
+10 Kodambakkam -21 each, Zone 15 Sholinganallur ,,Taramani ARG , 
+Meenambakkam AWS,  Chennai ( MBK), Kodambakkam-19 each, 
+Teynampet,Valasaravakkam, Anna University ARG ,,Zone 11 
+Valasaravakkam -18 each,  NIOT_Pallikaranai ARG-17, Zone Alandhur-12 
+Chengalpattu 03rd: Tambaram: 7; 
+04th: Mahabalipuram-22, VIT_Chennai AWS-19, Tambaram, Kelambakkam 
+– 17 each, Thirukalukundram -14, Thirupporur -13, Chengalpattu -12 ;  
+Madurantakam: 9, Cheyyur: 8;  
+05th:  Tambaram -24, Mahabalipuram -22, Kelambakkam-16, Alandur , 
+Thirupporur-14 each, Thirukalukundram: 11, Chengalpattu: 9 
+Kancheepuram 04th: Satyabama Uty ARG - 19, KVK Kattukuppam AWS -18, 
+Chembarapakkam_Rev-16, Sriperumbudur, Chembarabakkam_CMWSSB -
+13 each , Kundrathur -12; Kancheepuram, Uthiramerur: 9 each , Walajabad: \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 28 
+ 
+8; 
+05th:  KVK Kattukuppam AWS-27, Chembarapakkam_Rev-21, Kundrathur-
+19, Sriperumbudur-17, Chembarabakkam_CMWSSB-12, Walajabad: 7 
+Tiruvallur 03rd : Pallipattu -15, Uthukottai -13; Ponneri:10, Tiruttani, Avadi: 9 each , 
+Tiruvallur, Thamaraipakkam: 8 each; 
+04th :  Avadi -28,  Puzhal ARG, Cholavaram -23 each ,  Ponneri-21, Red 
+Hills-20,  Good Will School Villivakkam ARG, Thamaraipakkam -18 each, 
+Gummidipoondi-17, Tiruvallur-16, Uthukottai, Tirur  KVK AWS -15 each, 
+Poonamallee, Koratur-14 each ; Tiruttani: 10, Thiruvalangadu: 9; 
+05th : Poonamallee -34, Avadi -28, Thamaraipakkam , Tirur KVK AWS -19 
+each, Tiruvallur -18, Uthukottai, Koratur, Ponneri – 17 each, Cholavaram -
+15, Thiruvalangadu, Poondi  – 14 each, Red Hills -13, Tiruttani ,  
+Gummidipoondi -12 each, Tiruttani PTO: 8, R.K.pet, Pallipattu: 7 each 
+COASTAL ANDHRA PRADESH & YANAM 
+District Station & 24-hr accumulated rainfall (cm) ending 08:30 IST of date 
+mentioned against each 
+Bapatla 05th: Bapatla: 22; Addanki & Karamchedu: 17; Repalle: 11, 
+Santhamaguluru: 9,  
+06th: Santhamaguluru: 16, Addanki: 9 
+SPSR Nellore 04th: Nellore:19, 
+05th: Nellore: 22, Rapur: 21, Atmakur: 19, Kavali: 15, Vinjamur: 14, 
+Udayagiri:13, Kandukur: 11, Seetharamapuram: 7 
+Dr.B.R.Ambedkar 
+Konaseema 
+05th: Amalapuram: 17, 
+06th: Amalapuram: 19  
+Krishna 05th: Machilipatnam: 16, Avanigadda: 14, Gudivada: 9,  
+06th: Gudivada: 7 
+Prakasam 05th: Ongole: 12, Konakanamitla: 9, Marripudi, Veligandla,  
+Mundlamuru: 7 each,  
+06th: Darsi: 14, Mundlamuru: 9, Podili: 8 
+Guntur 05th: Tenali: 8, Guntur:7, 
+06th: Guntur: 11, Amaravati:11, Mangalagiri: 10, Lam (A): 9,  
+Kakinada 05th: Kakinada:8, Peddapuram: 7 
+06th: Prathipadu: 16, Kakinada: 14, Tuni: 12, Peddapuram: 9  
+Yanam 05th: Yanam: 8 
+West Gadavari 05th: Tanuku: 7, 
+06th: Narsapuram, Chintalapudi: 21 each, Bheemavaram: 20,  
+Palakoderu: 18, Tanuku: 17, Tadepalligudem: 14  
+NTR  05th: Vijayawada airport: 7, 
+06th: Tiruvuru: 13, Nandigama:11, Vijyawada AP: 8 
+Eluru 06th: Bhimadole: 24, Kukunoor: 22, Koyyalagudem: 20, Kaikalur, 
+Polavaram: 16 each, Velairpad: 13, Nuzvid: 12, Eluru: 11 
+Anakapalle 06th: Narsipatnam: 20, Anakapalle: 19, Yelaamanchili: 19, Chodavaram: 15, 
+Anakapalle (A): 13  
+Alluri 06th: Kunavaram: 19, Chintur: 15, Chintapalle, Paderu: 12 each  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 29 
+ 
+Sitaramaraju Vararamachandrapur: 11, Araku valley: 10 
+Palnadu 06th: Sattenapalle: 18, Piduguralla: 10, Atchampet: 8,  
+Jangamaeswarapuram: 7 
+Visakhapatnam 06th: Visakhapatnam: 15, Bheemunipatnam: 10, Visakhapatnam AP: 7 
+Vizianagaram 06th: Denkada: 15, Srungavarapukota: 13, Mentada: 12, Bondapalle, 
+Gajapathinagaram, Vepada: 11 each , Vizianagaram: 10, Pusapatirega , 
+Gandyada: 9 each, Garividi: 8, Nellimarla, Cheepurupalle: 7 each 
+Srikakulam 06th: Ranastahalam: 8 
+Yanam 
+(Puducherry) 
+06th: Yanam:10 
+RAYALASEEMA 
+District Station & 24 -hr accumulated rainfall (cm) ending 08:30 IST of date 
+mentioned below 
+Tirupati 04th: Sullurpeta: 20, Tada: 19, Gudur: 14, Srikalahasti, Thottambedu, 
+Satyavedu: 13 each, Tirupati Aero: 7, 
+05th: Gudur: 28, Srikalahasti: 24, Thottambedu, Sullurpeta: 23 each ,  
+Tada:20, Venkatagiri: 18, Satyavedu: 14, Tirupati Aero: 13 
+YSR 05th: Kodur: 24, Atlur:9, Badvel:8, Cuddapah: 7 
+Annamayya 05th: Penagaluru: 23, Rajampet: 12, Gurramkonda, Kalakada, Sambepalle, 
+Royachoti: 7 each 
+Chittoor 04th: Nagari: 12, 
+05th: Nagari: 13  
+TELANGANA 
+District Station & 24 -hr accumulated rainfall (cm) ending 08:30 IST of date 
+mentioned below 
+B.Kothagudem 06th: Aswaraopeta: 34, Palawancha: 25, Chandrugonda: 23,  
+Kothagudem: 22, Julurpad , Mulakalapalle: 20 each, Aswapuram: 19, 
+Burgampadu: 18, Bhadrachalam: 18, Tekulapalle: 15, Manuguru: 12, 
+Pinapaka: 10, Gundala:8, Yellandu: 7 
+Khammam 06th: Sathupalle: 16, Madhira, Enkuru: 14 each, Bonakal: 13,  
+Wyra KVK: 12, Thollada: 10, Konijerla: 9, Chinthakam: 7 
+Mulugu 06th: Venkatapur: 7 
+ 
+It may be noted that isolated extremely heavy  rainfall occurred over Nellore, Bapatla, West 
+Godavari & Eluru districts of CAP on 05 th/06th; over Tirupati, YSR & Annamayya districts of 
+RYS on 05th; over B.Kothagudem district of TEL on 06 th December 2023. Highest rainfall of 34 
+cm was reported at Poonamallee in Tiruvallur district of TN on 05th and over Aswaraopeta in 
+B.Kothagudem district of TEL on 06th December 2023. 
+ 
+Spatial rainfall maps of TN, CAP & RYS for 24-hr ending 0830 IST of 03rd, 04th  & 05th and that 
+for TN, CAP, RYS & TEL for 06th December 2023 are presented in Fig. 2e(viii).  
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 30 
+ 
+ 
+ 
+Fig.2e(viii): Spatial rainfall maps of TN, AP (CAP & RYS ) for 24-hr ending 0830 IST of 
+03rd, 04th  & 05th  & that for TN, AP & TEL for 06th December 2023 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 31 
+ 
+ 
+  
+ 
+Fig.2e(viii): contd. 
+Very heavy to extremely heavy  rainfall occurred at many places over Chennai, Chengalpattu, 
+Kancheepuram & Tiruvallur districts of TN on 04th & 05th December 2023.  Maps depicting very 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 32 
+ 
+heavy to extremely heavy  rainfall reports over Chennai & neighbourhood as on 24 -hr ending 
+0830 IST of 04th & 05th December 2023 are presented in Fgi.2e(ix).  
+ 
+ 
+ 
+Fig.2e(ix): 24-hr rainfall over Chennai and adjoining districts as on 0830 IST of 04  & 05 
+Dec 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 33 
+ 
+Catastrophic urban flooding occurred over the mega city of Chennai and its suburbs leading to 
+loss of lives and property. As per media reports, 17 deaths were reported due to rain related 
+incidents in Chennai and neighbourhood and properties worth hundreds of crores of rupees were 
+damaged.   
+Charts of self-recording raingauge (SRRG) at Chennai (NBK) for the 24 -hr period ending 08:30 
+IST of 04 th & 05 th December indicating intense rain spells from 03 rd late night to 04 th night 
+leading 230.2 mm (23 cm) & 238.3 mm (24 cm) of rainfall on 04th & 05th December respectively 
+are shown in Fig.2e(x).  
+ 
+ 
+ 
+Fig.2e(x):  Charts of  self recording raingauge at Chennai (NBK) as on 24 -hr ending 0830 
+IST of 04 & 05 Dec 2023 
+Plots of hourly rainfall recorded by AWS & ARG stations at Chennai & neighbourhood are 
+depicted in Fig.2e(xi). 
+As seen, rainfall of 01-03 cm/hr were recorded in AWS /ARG stations from 03rd evening/night to 
+04th evening/night (20:30 IST) with occasional spells of 3-5 cm/hr in some areas. 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 34 
+ 
+ 
+ 
+ 
+  
+   
+Fig.2e(xi):  AWS/ARG rainfall data plotted at hourly intervals on 03rd  & 04th Dec 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 35 
+ 
+Early warnings for very heavy to extremely heavy rainfall and gale force winds during the 
+landfall with frequent updates were issued to the state administrative & disaster management 
+authorities, agriculture and fisheries departments of Andhra Pradesh & Tamilnadu and to the port 
+authorities along Andhra Pradesh & Tamilnadu coasts. Warnings and frequent updates were also 
+disseminated to the Press and media (in English & Regional language) and to the general public 
+through social media and website updates. Sample heavy rainfall & strong wind warnings issued 
+for Chennai & neighbourhood on 03 rd December 2023 & posted in the social media and website 
+is shown in Fig.2e(xii). 
+ 
+ 
+ 
+Fig.2e(xii): Heavy rainfall & gale wind warnings issued for Chennai & 
+neighbourhood on 03rd Dec 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 36 
+ 
+The following videos posted by the media depict the gravity of the flood situation in Chennai & 
+neighbourhood  and the extent of damages caused by the cyclone ‘Michaung”. 
+https://www.youtube.com/watch?v=o-DIQeNccz4 
+https://www.youtube.com/watch?v=GybOaa63Lv4 
+https://www.youtube.com/watch?v=07GsfzTsngs 
+https://www.youtube.com/watch?v=YgjtuljMO5A 
+A few media reports and photographs depicting the damages caused by the cyclone Michaung 
+including the gravity of the flood situation in Chennai & neighbourhood are presented in 
+Fig.2e(xiii). 
+ 
+ 
+Fig.2e(xiii): Media reports dated 04 th/05th December 2023 on damages due to the cyclone 
+Michaung  
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 37 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.2e(xiii) contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 38 
+ 
+ 
+ 
+Fig.2e(xiii) contd. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 39 
+ 
+Damages over Chennai & neighbourhood 
+ 
+Fig.2e(xiii) contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 40 
+ 
+ 
+Fig.2e(xiii) contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 41 
+ 
+ 
+ 
+Fig.2e(xiii) contd. 
+ 
+3b. Historical rainfall event over South Tamilnadu during 17th-19th December 2023 
+An upper air circulation was observed over southwest Bay of Bengal and adjoining equatorial 
+Indian ocean in the lower tropospheric levels on 15th December 2023. It was seen over equatorial 
+Indian Ocean and adjoining southwest Bay of Bengal off south Sri Lanka coast on 16 th morning 
+and over Comorin area and neighbourhood extending up to mid tropospheric levels on 17 th and 
+18th December 2023.   
+IMD-GFS 850 hPa wind analysis depicting the cyclonic circulation during 15 th-18th December 
+are presented in Fig.3a(i) and NCMRWF-NCUM 850 hPa analysis as on 16 th/0530 IST is shown 
+in Fig.3a(ii). ASCAT (METOP-C) scatterometer data depicting the cyclonic circulation off south 
+Sri Lanka coast on 15 th night is shown in Fig. 3b.  INSAT -3D, TIR1 product depicting the 
+cloudiness as on 17 th/2130 IST and Doppler Weather Radar, Kochi, Maximum Reflectivity 
+product as on 17 th/2112 IST depicting the rainfall activity over extreme south Tamilnadu are 
+presented in Fig.3c. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 42 
+ 
+Associated with this circulation, moderate to strong easterlies / southeasterlies prevailed over 
+extreme south Tamilnadu and Gulf of Mannar area [Fig. 3a(ii)]. CIMSS dynamical products 
+indicated (i) cyclonic vorticity of about 50 -100 x 10 -5 per sec in the lower to mid tropospheric 
+levels  over the Comorin area  (Fig.3d). Low Level convergence over the Comorin and adjoining 
+areas increased from 20 to 40 x 10 -5 per sec and Upper level Divergence increased from was 20 
+to 30 x 10-5 per sec during 17th night [Fig.3e(i&ii)].  Thiruchendur AWS (Thoothukudi district in 
+south coastal Tamilnadu) indicated 15 -20 knots (25 -30 kmph) winds gusting to 30 knots (50 
+kmph) on 17 th morning (Fig. 3f). Under the influence of strong maritime winds  and moisture 
+convergence, very high precipitable water of more than 70 mm prevailed over the Gulf of 
+Mannar area and adjoining south Tamilnadu (Fig.3g). 
+ 
+      
+      
+Fig.3a(i): IMD-GFS analysis based on 0530 IST of 15th, 16th, 17th & 18th Dec 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 43 
+ 
+ 
+Fig.3a(ii): NCUM, 850 hPa wind analysis as on 0530 IST of 16th Dec 2023 
+ 
+Fig.3b: ASCAT (METOP-C) scatterometer wind as on 21:12 IST of 15th Dec 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 44 
+ 
+ 
+ 
+ 
+Fig.3c: INSAT-3D, TIR1 product as on 17 th/2130 IST & Doppler Weather Radar, Kochi, 
+Maximum Reflectivity product as on 17th/2142 IST 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 45 
+ 
+ 
+        
+       
+Fig.3d: CIMSS Relative  vorticity product for 850 hPa, 700 hPa & 500 hPa levels as on 
+16th/0530 IST and 17th/0230 IST 
+     
+Fig.3e(i): CIMSS Low Level Convergence & Upper Level Divergence products as on 
+17th/1730 IST of Dec 2023 
+ 
+  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 46 
+ 
+ 
+ 
+   
+Fig.3e(ii): same as Fig.3e(i), but for 17th/ 2330 IST of Dec 2023 
+ 
+ 
+ 
+Fig.3f: Wind speed (mean & gust) recorded by Thiruchendur AWS during 16 th / 0530 IST 
+19th / 0530 IST of Dec 2023  
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 47 
+ 
+ 
+ 
+ 
+ 
+Fig.3g: MIMIC (Morphed Integrated Microwave Imagery at CIMSS) -Total Precipitable 
+Water as on 16th/1730 IST and 17th/ 2030 IST   
+Under these favourable conditions, fairly widespread - widespread rainfall activity occurred over 
+extreme southern districts of Tamilnadu with many places recording extremely heavy  rainfall 
+over Thoothukudi, Tirunelveli, Thenkasi and Kanyakumari districts  during 17th-19th December 
+2023.   
+Light to moderate rainfall occurred (i) at most places over South Tamilnadu & at many places 
+over North Coastal Tamilnadu with isolated very heavy rain over Tirunelveli district and 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 48 
+ 
+isolated heavy rain over Kanyakumari, Ramanathapuram, Pudukottai, Thanjavur, 
+Tiruvarur & Nagapattinam districts during the 24 hours ending 08:30 IST of 17 th (ii) at most 
+places over South Tamilnadu and at a few places over North Tamilnadu with very heavy to 
+extremely heavy rain over the Thoothukudi & Tirunelveli districts; heavy to very heavy rain at 
+many places and  extremely heavy  rain at one or two  places over Thenkasi & Kanyakumari  
+districts; heavy to very heavy rain at a few  places over Theni, Virudhunagar & 
+Ramanathapuram districts & at isolated places over Sivagangai district; and heavy rain at 
+isolated places over Madurai, Dindigul & Tiruppur  districts during the 24 hours ending 
+08:30 IST 18th and (iii) at many places over South Tamilnadu and at isolated places over North 
+Tamilnadu with heavy to extremely heavy  rain over Thoothukudi district and heavy to very 
+heavy rain over Tirunelveli district during the 24 hours ending 08:30 IST of 19 th December 
+2023.  
+On 18th, there were 37 extremely heavy, 37 very heavy and 36 heavy rainfall reports (total: 110 
+stations) from South Tamilnadu. All 19 stations that reported rainfall from Tirunelveli district 
+recorded extremely heavy rain. There were 12 extremely heavy and 4 very heavy rainfall reports 
+from Thoothukudi district; 5 extremely heavy, 3 very heavy and 2 heavy rainfall reports from 
+Thenkasi district and 1 extremely heavy, 14 very heavy  and 11 heavy rainfall reports from 
+Kanyakumari district also on that day. 
+Kayalpattinam in Thoothukudi  district reported the highest rainfall of 95 cm  followed by 
+Thiruchendur & Srivaikuntam (both – Thoothukudi district) reported 69 cm  and 62 cm  
+respectively on 18th Dec 2023. 12 other stations (9 from Tirunelveli, 2 from Thoothukudi and 1 
+from Thenkasi district) reported more than 40 cm  on that day.   Thiruchendur (Thoothukudi 
+district) reported 23 cm followed by Kayalpattinam – 21 cm on 19th December 2023. 
+District-wise list of heavy to extremely heavy  rainfall reported during 17 th-19th December are 
+given in Table -2 and are also presented in map form in Fig. 4a. Thiruchendur AWS data 
+indicating more than 60 cm of rain on 17 th; with steady increase in rainfall from 17 th/1730 IST 
+onwards in presented in Fig.4b. 
+Prior to this event, the cumulative seasonal rainfall (as on 08:30 IST of 16th December 2023) was 
++75% (Large Excess) over Kanyakumari district, +51% & +35% (Excess) over Tirunelveli 
+& Thenkasi districts respectively. Thoothukudi was under Normal category (-16%) during the 
+same period. After this event, as on 08:30 IST of 19th December 2023 , cumulative seasonal 
+rainfall figures rose to Large Excess  for all the four districts with +151%, +103%, +92% 
+&+81% for Tirunelveli, Kanyakumari, Thoothukudi &Thenkasi districts respectively. 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 49 
+ 
+Table -2: District-wise list of heavy-extremely heavy rainfall reports during 17th-19th Dec 2023 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 50 
+ 
+ 
+ 
+ 
+Fig.4a: 24 -hr accumulated rainfall over Thoothukudi, Tirunelveli, Thenkasi & 
+Kanyakumari districts as on 0830 IST of 17th, 18th & 19th December 2023 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 51 
+ 
+ 
+ 
+Fig.4a (contd.) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 52 
+ 
+ 
+Fig.4b: Thiruchendur AWS data indicating rainfall during 16th-18th December 2023 
+ 
+Forecast and warnings issued 
+The system was continuously monitored from 13 th December. Warning for isolated heavy  
+rainfall on 16th & 17th was issued for south coastal districts on 14th; warning for isolated heavy to 
+very heavy rainfall on 16 th & 17th was issued for coastal districts on 15 th; warning for isolated 
+heavy to very heavy  rain on 16 th & 17 th over Kanyakumari, Tirunelveli, Thoothukudi & 
+Thenkasi districts was issued on 16 th which was upgraded to isolated heavy to very heavy rain 
+with extremely heavy rain at one or two places  for the same districts on 17 th. Day -1warning 
+issued for 16th rainfall and Day-2 and Day -1 warning issued on 16 th & 17th respectively for 17th 
+rainfall are presented in Fig.4c. 
+ 
+Associated impacts 
+Devastating floods occurred over Tirunelveli, Toothukudi, Tenkasi & Kanyakumari districts. 
+Even as low lying areas were inundated due to intense rainfall activity, riverine flooding due to 
+over flowing rivers and breaching of many tanks and other water bodies resulted in cutting of 
+road transport ways and railway tracks. Power supply and communication channels were totally 
+disrupted. Though the torrential rain was the main factor for the floods, another equally 
+significant contribution was from overflowing rivers and breaching of lakes & ponds. River 
+Thamirabarani was in spate as release of water from reservoirs such as Papanasam and 
+Manimuthar dams has been increased manifold when the extrem e rainfall event was happening. 
+The cascading effects of torrential rains coupled with release of huge volume of water from 
+reservoirs and breaching of lakes and other water bodies have led to the devastating floods 
+leading to loss of lives and property (Fig.4d&e). 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 53 
+ 
+    
+ 
+Fig.4c: Heavy rainfall warning issued on 16th for 16th & 17th  and on 17th for 17th Dec 2023 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 54 
+ 
+ 
+ 
+Fig.4d: Drone view of an inundated area (Source: Mint dated 19 Dec 2023) 
+ 
+Fig.4e: An extract of The New Indian Express dated 19th December 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 55 
+ 
+4.  Subdivisional rainfall performance during NEM 2023 
+4.1 Seasonal rainfall 
+During October-December 2023, the northeast monsoon seasonal rainfall was normal (-19% to 
++19%) to excess (+20% to +59%) over three meteorological subdivisions benefitted by the NEM 
+viz., KER (+27%, excess), TN (+4%: normal),  & CAP (-18%, normal), and was deficient (-20% 
+to -59%) over RYS (-30%) and SIK (-26%). Fig.5a and Table-3 present the season ending (01 st 
+Oct-31st December 2023) rainfall figures over these subdivisions. 
+ 
+Fig.5a:  Seasonal rainfall performance of NEM 20 23 over the five meteorological 
+subdivisions benefitted by the NEM 
+Table-3:  Subdivisional seasonal rainfall during October-December 2023 
+Subdivision 01st October – 31st December 2023 
+Actual (mm) Normal (mm) PDN (%) 
+Tamilnadu, Puducherry & Karaikal (TN) 458.9 442.8 +4 
+Coastal Andhra Pradesh & Yanam (CAP) 265.8 322.9 -18 
+Rayalaseema (RYS) 164.7 236.4 -30 
+South Interior Karnataka (SIK) 146.8 199.0 -26 
+Kerala & Mahe (KER) 624.9 492.0 +27 
+PDN: Percentage Departure from Normal 
+Legend: 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 56 
+ 
+4.2 Monthly, Weekly & Daily rainfall scenario 
+The intra -seasonal rainfall distribution over various sub -divisions during Oct -Dec 20 23 is 
+presented in monthly and daily scales. Month-wise rainfall statistics are presented in Table-4 and 
+Fig.5b. Tables-5a&b present the weekly rainfall over the various subdivisions and Tables-6a&b 
+present the daily rainfall scenario in terms of spatial rainfall distribution ( Widespread: WS, 
+Fairly widespread: FWS, Scattered: SCT, Isolated: ISOL and DRY). 
+ 
+Table-4:  Subdivisional monthly rainfall during NEM 2023 
+2023 OCT NOV DEC 
+SUB-DIVISION Actual 
+rainfall  
+Normal 
+rainfall 
+PDN 
+(%) 
+Actual 
+rainfall  
+Normal 
+rainfall 
+PDN 
+(%) 
+Actual 
+rainfall  
+Normal 
+rainfall 
+PDN (%) (mm)  (mm) (mm)  (mm) (mm)  (mm) 
+CAP & Yanam 19.4 182.2 -89 82.7 113.1 -27 171.4 27.6 +521 
+RYS 12.7 132.1 -90 68.9 78.4 -12 83.2 25.9 +221 
+TN, PDC & KKL 98.4 171.9 -43 233 181.7 +28 127.5 89.2 +43 
+SIK 64.0 137.2 -53 76.4 51.2 +49 6.4 10.6 -40 
+KER & Mahe 310.5 306.5 +1 240.1 153.1 +57 74.3 32.4 +129 
+ 
+ 
+ 
+ 
+Fig.5b: Subdivisional monthly rainfall performance during October-December 2023 
+ 
+During October, despite setting in of easterlies and commencement of NEM by 16 th October (4 
+days prior to the normal date of 20 th October), under the influence of formation and 
+northeastward movement of VSCS HAMOON over the BOB during 21 st-25th October, there 
+were changes in the flow pattern and sweeping away of moisture from the NEM region such that 
+excepting KER that received normal rainfall of +1% , all the other four subdivisions became 
+deficient to largely deficient. RYS & CAP were reported largely deficient  rainfall of -90% &       
+-89% respectively; TN & SIK recorded deficient rainfall of -43% & -53% respectively.  In 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 57 
+ 
+November, under the influence of troughs in easterlies and upper air cyclonic circulations, 
+excepting CAP that became deficient at -27%, all the other four subdivisions received normal to 
+excess rainfall with KER, SIK & TN recording excess rainfall of +57%, +49% & +28% 
+respectively. In December, under the influence of the SCS MICHAUNG that crossed south AP 
+coast and the historical extreme rainfall event over south TN, excepting SIK that became 
+deficient (-40%), all the other four subdivisions received excess to large excess  rainfall. CAP, 
+RYS & KER received large excess rainfall of +521%, +221% & +129% respectively and TN 
+received excess rainfall of +43% during the month.  
+ 
+Table 5a: Weekly rainfall performance over various subdivisions during Oct-Dec 2023 
+ 
+ 
+Table 5b: Cumulative week ending scenario during Oct-Dec 2023 
+ 
+ 
+In the weekly scale  (tables 5a&b), the major rainfall weeks were the weeks ending 06 th 
+December when four subdivisions received large excess rainfall, mainly under the influence of 
+the SCS MICHAUNG, and 29 th November when four subdivisions received excess to large 
+excess rainfall. KER received large excess rainfall during six weeks - weeks ending 04th October, 
+08th & 29th November and 06th, 13th & 20th December and excess rainfall during the three weeks 
+ending 18 th October, 15th & 22nd November. TN received large excess  rainfall during the two 
+weeks ending 06 th & 20th December and excess rainfall during the weeks ending 18 th October, 
+08th, 15th & 29th November. Over CAP & RYS, there was only one week each of normal, excess 
+& large excess  rainfall during the weeks ending 08 th November, 29 th November and 06 th 
+December respectively and during all the other 10 weeks , both these subdivisions became 
+deficient- largely deficient.  
+ 
+ 
+ 
+ 
+04-Oct 11-Oct 18-Oct 25-Oct 01-Nov 08-Nov 15-Nov 22-Nov 29-Nov 06-Dec 13-Dec 20-Dec 27-Dec
+CAP -24 -95 -99 -96 -95 +5 -77 -62 +38 +1753 -31 -96 -100
+RYS -45 -84 -95 -96 -90 +5 -50 -53 +24 +688 -67 -60 -100
+TN -32 -40 31 -88 -53 +49 +33 -34 +49 +64 -37 +220 -63
+SIK -59 -17 -32 -98 -68 +129 +120 -99 0 -35 +56 -99 -100
+KER +163 -72 46 -14 -30 +76 +24 +27 +170 +65 +255 +165 -75
+2023 WEEK-BY-WEEK: PDN (%)
+04-Oct 11-Oct 18-Oct 25-Oct 01-Nov 08-Nov 15-Nov 22-Nov 29-Nov 06-Dec 13-Dec 20-Dec 27-Dec
+CAP -24 -78 -86 -86 -90 -74 -75 -74 -67 -14 -15 -17 -17
+RYS -45 -86 -89 -91 -90 -76 -74 -72 -65 -27 -28 -29 -30
+TN 8 -42 -11 -39 -43 -21 -13 -15 -8 -2 -4 6 4
+SIK -64 -19 -36 -51 -54 -30 -22 -27 -26 -26 -24 -25 -26
+KER 113 -3 17 9 1 12 13 14 20 21 26 28 28
+2023 CUMULATIVE WEEK ENDING : PDN (%)\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 58 
+ 
+ 
+Table-6a: Spatial rainfall distribution during 01st October -31st December 2023 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 59 
+ 
+Table-6a (contd.) 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 60 
+ 
+Table-6b: Percentage frequency of various categories of daily spatial rainfall distribution  
+Category OCT - DEC 2023 
+TN CAP RYS SIK KER 
+WS 5 2 0 3 15 
+FWS 16 4 3 4 16 
+SCT 29 13 13 16 27 
+ISOL 48 52 47 40 36 
+DRY 1 28 37 36 5 
+WD: Widespread 
+(76-100% of stations reporting rainfall) 
+FWD : Fairly widespread 
+(51-75% of stations reporting rainfall) 
+SCT: Scattered 
+(26-50% of stations reporting rainfall) 
+ISOL: Isolated 
+(≤25% of stations reporting rainfall) 
+DRY: No rain  
+ 
+Whereas the seasonal cumulative weekly rainfall figures were generally normal - excess during 
+all the weeks over KER, it was deficient - largely deficient during all the weeks over RYS. Over 
+TN, it was generally deficient- normal till the week ending 08 th November and subsequently it 
+was under normal category throughout. Over CAP, it was deficient-largely deficient till the week 
+ending 29 th November. During the week ending 06 th December, under the influence of SCS 
+MICHAUNG, the seasonal rainfall figures improved from largely deficient (-67%) to normal   
+(-14%) and thereafter, it remained under  normal category for the rest of the season. Over SIK, it 
+was generally under deficient category throughout. 
+ 
+In the daily scale, fairly widespread to widespread rainfall occurred over KER on 3 1% of the 
+days during the season; over TN on 2 1% of the days and over CAP, RYS & SIK – on about 3 to 
+7% of the days. TN &  KER recorded isolated to scattered rainfall activity on about 77% & 63% 
+respectively of the days during the season. On about 28-37% of the days during the season, CAP, 
+RYS & SIK remained dry.  
+ 
+4.3 Monsoon activity & heavy rainfall events 
+Table-7a&b present the frequency of active and vigorous monsoon days and frequency of heavy 
+rainfall days ( Heavy rainfall ≥ 7cm/day ;   Very Heavy rainfall  ≥ 12cm/day; Extremely Heavy 
+rainfall ≥ 21 cm/day) during the season. 
+Active to vigorous monsoon conditions prevailed over TN on 22% of the days during the season 
+(20 days out of 92 days); over KER, 13% of the days; and over CAP, RYS & SIK, on about 3 -
+5% of the days during the season.   In October, there were 5 days of active to vigorous monsoon 
+conditions over KER; and 2 days each over TN & SIK. In November, 12 days & 5 days of active 
+to vigorous monsoon conditions prevailed over TN & KER respectively; and 1 -3 days over SIK, 
+CAP & RYS. In December, 6 days of active to vigorous monsoon activity occurred over TN; and 
+1-3 days over CAP, RYS & KER. 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 61 
+ 
+ 
+Table-7a:    Frequencies of active and vigorous monsoon days during Oct-Dec 2023 
+  No. of days of active and vigorous monsoon conditions 
+Subdivision OCT NOV DEC OCT-DEC 
+ACT VIG ACT VIG ACT VIG ACT VIG 
+TN 2 0 11 1 4 2 17 3 
+CAP 0 0 1 0 1 2 2 2 
+RYS 0 0 2 0 0 1 2 1 
+SIK 2 0 0 3 0 0 2 3 
+KER 4 1 2 3 0 2 6 6 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 times the normal 
+with at least two stations reporting more than or equal to 3 cm in coastal Tamil Nadu, south coastal Andhra Pradesh 
+and 2 cm elsewhere in the NEM region. 
+Vigorous: Fairly widespread to widespread sub-divisional rainfall with rainfall more than 4 times the normal with at 
+least two stations reporting more than or equal to 5 cm in coastal Tamil Nadu, south coastal Andhra Pradesh and 3 
+cm elsewhere in the NEM region. 
+ 
+ 
+Table-7b: Frequency of heavy rainfall days during Oct-Dec 2023 
+ 
+Heavy:   rainfall ≥ 7cm/day;        Very Heavy:   rainfall ≥ 12cm/day;  Extremely Heavy:   rainfall ≥21 cm/day 
+ 
+ Regarding heavy rainfall occurrences (≥ 7 cm/day), TN experienced 57 days (62%) of 
+isolated heavy rainfall events during the season including  24 days (26%) of isolated very heavy  
+rain with isolated extremely heavy  falls on 7 days (8%). Over Kerala, isolated heavy rain 
+occurred on 59 days including 12 days of isolated very heavy  rain and 1 day of isolated 
+extremely heavy rain. Over CAP, isolated heavy rain occurred on 17 days including 7 days of 
+isolated very heavy  rainfall & 2 days of isolated extremely heavy  rain. There were 15 days of 
+isolated heavy  rainfall activity  over RYS including 5 days of isolated very heavy  rain with 
+isolated extremely heavy falls on 1 day. SIK experienced 27 days of isolated heavy rain including 
+1 day of isolated very heavy  rain. District-wise l ist of very heavy  to extremely heavy  rainfall 
+events over various subdivisions is presented in Table-7c. 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 62 
+ 
+Table-7c:  List of very heavy to extremely heavy rainfall events during Oct-Dec 2023 
+DISTRICT 
+Date, Station and 24-hr accumulated rainfall (in cm) 
+(ending 0830 IST of the specified date) 
+ 
+TAMILNADU, PUDUCHERRY & KARAIKAL 
+CHENNAI 
+Nov : 04th : Zone 12 Alandur-12; 15th : DGP Office-12;  
+30th - Zone 06 D65 Kolathur – 15, Zone 06 T.V.K.Nagar-15,  
+Zone 07 Ambattur -14, Zone 08 Malar Colony -14, Zone 12 
+Alandhur-13,  Anna University -12, Ambattur-12, Zone 13 Adyar 
+Eco Park-12, Zone 11 U32 Maduravoyal-12  
+Dec : 04th :  Zone 14 Perungudi-29,  Alandur-25, Chennai (AP)-25, 
+Zone 13 Adyar- 23, Zone 12 Meenambakkam -23, Meenambakkam 
+AWS-23,  Chennai (N) -23,  MGR Nagar -22, , Zone 10 
+Kodambakkam-22, CD Hospital Tondiarpet -22, Zone 11 
+Valasaravakkam-21, Zone 15 Sholinganallur -21, DGP Office -
+21,NIOT_Pallikaranai ARG -21,Chennai (N) AWS -21, Anna 
+University -21, Zone 03 Puzhal -20,Perambur -20, Zone 09 Ice 
+House -20, Ayanavaram Taluk Office -19, Taramani ARG -19, 
+Anna Nagar -19, Chennai Collector Office -18, Sholinganallur -
+18,Zone 09 Teynampet -18, Zone 08 Malar Colony -18, Ambattur-
+18,  Anna University ARG -18, Valasaravakkam -18, YMCA 
+Nandnam ARG-18, Kodambakkam -18, Ambathur-2 -17, Zone 06 
+T.V.K Nagar-16,  Zone 04 Tondiarpet -16,  Teynampet-16, Zone 01 
+Kathivakkam-16, Thiru-Vi-Ka Nagar -16, Zone 03 Madhavaram -
+16, Zone 08 Anna Nagar -15, Sholinganallur-15 , Zone 06 D65 
+Kolathur-15, Tondairpet -15, Zone 14 U41 Perungudi -15 , Ennore 
+AWS-15 ,  Zone 05 GCC -14, Zone 07 Ambattur -14, Zone 13 
+Adyar Eco Park -14, Zone 12 Alandur -14,   Zone U39 Adyar -13 , 
+Zone 02 Manali -13,  Zone 15 Uthandi -12, Zone D156 
+Mugalivakkam-12, Royapuram-12 , Zone 07 U18 D81 Vanagaram -
+12; 05th : Chennai (N) -24, Chennai(N) AWS -24 , Zone 09 Ice 
+House-22, Royapuram -21, Zone 13 Adyar -21, Zone 05 GCC -21, 
+Thiru-Vi-Ka Nagar  -21, ,Zone 10 Kodambakkam -21 , Zone 15 
+Sholinganallur -19,  Kodambakkam-19, Chennai (AP) -19, 
+Meenambakkam AWS -19, Taramani ARG -19, Teynampet-
+18,Valasaravakkam-18 , Anna University ARG -18 ,Zone 11 
+Valasaravakkam -18, NIOT_Pallikaranai ARG-17, Zone Alandhur-
+12 
+CHENGALPATTU 
+Dec : 04th :  Mahabalipuram-22, VIT_Chennai AWS-19, 
+Tambaram-17, Kelambakkam-17, Thirukalukundram-14, 
+Thirupporur-13, Chengalpattu-12 ;   05th :  Kelambakkam-16, 
+Alandur-14 ,Thirupporur-14, Tambaram-24, Mahabalipuram-22 
+CUDDALORE Nov: 14th :  Cuddalore-12,Parangipettai-12; 22nd : Parangipettai-13;                  
+26th : Sethiathope-17; 
+COIMBATORE Nov : 04th : Pillur Dam Mettupalayam -13; 05th : Valparai PAP-13,  
+,Valparai Taluk Office-13; 09th : Pillur Dam Mettupalayam-15; 23rd \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 63 
+ 
+: Mettupalayam-37  
+ERODE Nov: 07th : Bhavani-12; 23rd : Kavundapadi-15 
+KANCHIPURAM 
+Dec : 04th : Satyabama Uty ARG-19, KVK Kattukuppam AWS -18, 
+Chembarapakkam_Rev -16, Sriperumbudur-13, 
+Chembarabakkam_CMWSSB-13, Kundrathur-12; 05th :  KVK 
+Kattukuppam AWS-27, Chembarapakkam_Rev-21, Kundrathur-19 , 
+Sriperumbudur-17, Chembarabakkam_CMWSSB-12 
+KANYAKUMARI 
+Oct : 03rd  : Kurunthancode-13; 15th :  Mambzhathuraiyaru-17, 
+Anaikedanku-17, Mullanginavillai -16, Kalial -16, Kuzhithurai -15, 
+Thirparappu-14,  
+Kozhiporvilai-14, Chittar-13, Sivalogam-12 
+Nov: 07th :  Sivalogam (Chittar II)-12; 23rd :  Kozhiporvilai-13, 
+Thuckalay-12 
+Dec: 18th : Mylaudy-30, Nagercoil-18, Kottaram-18, 
+Kanniyakumari-17,  Kannimar-16, Bhoothapandy-14, 
+Thirupathisaram AWS-13, Suralacode-13, Mambzhathuraiyaru-12,  
+Anaikedanku-12, , Pechiparai-12, Perunchani Dam-12, 
+Kurunthancode-12, Chittar-I-12, Thirparappu-12 
+KARUR Oct : 15th : Karur Paramathi-14, Anaippalayam-13 
+KARAIKAL Nov: 14th : Karaikal-14; 15th : Karaikal-14 
+MADURAI Oct: 12th:  Madurai City-12, Madurai North-12 
+Nov: 22nd : Andipatti-14 
+NAGAPATTINAM Nov: 14th : Velankanni-17,Nagapattinam-15; 30th : Thalaignayer - 
+13 
+NILGIRIS 
+Nov: 09th :Kil Kotagiri Estate-23; 23rd : Kil Kotagiri Estate-
+24,Coonoor PTO-13 
+Dec : 09th : Kil Kotagiri Estate-12 
+PUDUKKOTTAI Nov : 23rd : Vamban KVK AWS-13 
+PUDUCHERRY Nov: 14th : Puducherry-12; 15th : Puducherry-12 
+RAMANATHAPURAM 
+Nov: 04th : Kamudhi -12; 11th : Thangachimadam-15, Mandapam-
+14;               23rd : Kadaladi-17, Valinokam-15 
+Dec : 18th :  Kamudhi -13 
+SIVAGANGAI Dec : 18th :  Manamadurai-17 
+THENI Oct : 16th :  : Periyakulam PTO-14,  Periya   kulam AWS -12 
+Dec : 18th :  Sothuparai-13 
+THENKASI 
+Nov: 04th : Sivagiri-12; 06th : Thenkasi-12; 23rd : Ayikudi-13 
+Dec : 18th : Gundar Dam-51,Shencottah-30,Gadana Dam-
+22,Ayikudi – 21,  Ramanadhi Dam Section-21,  Thenkasi-17, 
+Sivagiri-16, Karuppanadhi Dam-13 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 64 
+ 
+THOOTHUKUDI 
+Nov : 20th : Kulasekarapattinam-16,Satankulam-12 
+Dec : 18th : Kayalpattinam-95,Tiruchendur-69,Old Taluk Office 
+Srivaikuntam- 62, Thiruchendur AWS-61,Kovilpatti-53,Maniyachi-
+42, Ottapadiram-37,  
+Kadambur-37, Kulasekarapattinam-33, Vedanatham-30,  
+Kayatha –27, Vilathikulam-26, Vaippar-22, Kalugumalai-19, 
+Ettayapuram-17, Surangudi-16, Kadalkudi-13; 19th : Tiruchendur-
+23, Kayalpattinam – 21, Kulasekarapattinam-18,Old Taluk Office 
+Srivaikuntam-17 
+TIRUNELVELI 
+Nov: 09th : Moolaikaraipatti-14 
+Dec : 17th : Nalumukku-19,Oothu-17,Kakkachi-15,Manjolai-13 
+18th : Moolaikaraipatti-61, Manjolai-55, Oothu-50, Nalumukku-47, 
+Palayamkottai-44, Ambasamudram-43, Cheranmahadevi-41,  
+Kannadaian Anicut-41, Kakkachi-36, Nambiyar Dam-36, 
+Papanasam-35, Nanguneri-33, Manimutharu-33, Kalakadu-32, 
+Tirunelveli-31, Kodumudiyaru Dam – 30, Radhapuram-27, Servalar 
+Dam-27; 19th: Nalumukku-19, Kakkachi-18,  
+Manjolai-17, Oothu-15, Moolaikaraipatti-13, Ambasamudram-12;  
+29th:  Kakkachi-16, Oothu-16, Nalumukku-15; 30th:  Oothu-22, 
+Nalumukku-21, Kakkachi-20 
+THIRUVARUR Nov: 14th : Nannilam-12; 15th : Nannilam-12 
+THIRUVALLUR 
+Nov: 30th: Avadi – 19, Ponneri-15, Choloavaram-13, Puzhal ARG -
+12,  
+Red Hills -12 
+Dec : 03rd : Pallipattu-15, Uthukottai-13; 04th :  Avadi -28,  Puzhal 
+ARG-23, Cholavaram -23,  Ponneri -21, Red Hills -20,   
+Thamaraipakkam -18, 
+Good Will School Villivakkam ARG -18, Gummidipoondi -17, 
+Tiruvallur-16, Uthukottai-15, Tirur KVK AWS -15, Poonamallee-14 
+, Koratur-14 ; 05th : Poonamallee -34, Avadi -28, Thamaraipakkam-
+19, Tirur KVK AWS-19,  
+Tiruvallur-18,Uthukottai-17, Koratur-17 , Ponneri -17, Cholavaram-
+15, Thiruvalangadu -14, Poondi -14, Red Hills -13, Tiruttani -12  
+,Gummidipoondi -12  
+TIRUPPUR Nov: 09th : Avinasi-12; 22nd :  PWD-17,Avinasi-14 
+VIRUDHUNAGAR 
+Nov : 22nd : Watrap-12 
+Dec : 18th :  Sattur -20, Vembakottai-18, Sivakasi-17, Aruppukottai 
+KVK AWS -17, Kovilankulam -17, Srivilliputhur -15, Thiruchuzhi -
+15, Virudunagar AWS -15, Watrap-15, Pilavakkal_Periyar Dam -14, 
+Rajapalayam-14, Virudhunagar-13, Aruppukottai-12 
+COASTAL ANDHRA PRADESH & YANAM 
+ALLURI 
+SITHARAMARAJU Dec : 06th : Kunavaram -19, Chintur -15,Chintapalle-12,Paderu-12 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 65 
+ 
+ANAKAPALLI Dec : 06th : Narsipatnam-20, Anakapalle-19, Yelamanchili-19,  
+Chodavaram-15,Anakapalle-13 
+B R AMBEDKAR 
+KONASEEMA Dec : 05th : Amalapuram -17; 06th :  Amalapuram-19 
+BAPATLA Dec : 05th : Bapatla-22, Addanki-17, Karamchedu-17;  
+06th : Santhamaguluru-16 
+ELURU 
+Dec : 06th : Bhimadole -24, Kukunoor -22, Chintalapudi -21, 
+Koyyalagudem-20, Kaikalur -16,Polavaram-16,Velairpad-
+13,Nuzvid-12 
+KAKINADA Dec : 06th : Prathipadu -16,Kakinada-14,Tuni-12 
+KRISHNA Dec : 05th :  Masulipatnam Cdr-16, Avanigada-14 
+NTR Dec : 06th : Tiruvuru-13 
+PALNADU Dec : 06th : Sattenapalle-18 
+PRAKASAM Dec : 05th : Ongole-12;06th : Darsi-14 
+WEST GODAVARI Dec : 06th : Narsapuram-21, Bheemavaram-20, Palakoderu-18,  
+Tanuku-17, Tadepalligudem-14 
+SPSR NELLORE 
+Nov: 06th : Kandukur-12 
+Dec : 04th : Nellore-19;  05th :   Nellore-22,  Rapur-21, Atmakur-19; 
+Kavali-15, Vinjamur-14, Udayagiri-13 
+VISHAKHAPATNAM Dec : 06th : Visakhapatnam-15 
+VIZIANAGARAM Dec : 06th : Denkada-15, Srungavarapukota-13,Mentada-12 
+RAYALASEEMA 
+ANNAMAYYA Dec : 05th : Penagaluru -23, Rajampet-12 
+CHITTOOR Dec : 04th : Nagari-12; 05th :  Nagari-13 
+YSR Dec : 05th : Kodur-24 
+TIRUPATI 
+Dec : 03rd : Thottambedu-15,Srikalahasti-14,Tirupati Aero-13;  
+04th: Sullurpeta-20, Tada-19, Gudur-14, Srikalahasti-13, 
+Thottambedu- 13, Satyavedu-13; 05th :  Gudur -28, Srikalahasti-24, 
+Thottambedu-23, Sullurpeta -23, Tada -20, Venkatagiri -18, 
+Satyavedu-14, Tirupati Aero-13 
+SOUTH INTERIOR KARNATAKA 
+CHIKKAMAGALURU 
+Oct : 01st : Kottigehara-12 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 66 
+ 
+ 
+ 
+4.4   District rainfall scenario 
+Fig.5c presents the district wise seasonal rainfall during October to December 202 3. As seen, all 
+districts in KER received normal – excess rainfall with Pathanamthitta receiving large excess  
+rainfall (+94%) during the season. In TN, all southern districts received normal to largely excess 
+rainfall; and in north TN, western ghat & s ome adjoining districts,  and extreme northe astern 
+districts received normal-excess rainfall; generally normal rainfall was recorded in the delta 
+districts; and all other north interior districts came under deficient category.  In SIK, excepting 
+Mysuru that received excess rainfall (+32%), all other districts received deficient-normal rainfall. 
+In RYS, excepting Tirupati that received normal rainfall (+5%), all other districts ended up 
+deficient-largely deficient  (-26% to -89%). In CAP, Eluru, Konaseema & Palnadu received 
+excess rainfall; East Godavari & Srikakulam ended up largely deficient  at -98% & -75% 
+respectively; and all other districts recorded deficient-normal rainfall during the season. 
+ 
+ 
+KERALA & MAHE 
+ALAPPUZHA Oct : 15th : Cherthala-20,  Mavelikara-17, Alapuzha-13 
+Nov : 04th : Mancompu-12 
+ERNAKULAM Oct : 12th :  Neeleswaram Arg-18; 15th :  Ernakulam South-13 
+Nov: 05th : Kochi C.i.a.l.-19,  Neeleswaram Arg-17 
+IDUKKI Nov : 23rd : Peerumedu -12 
+KANNUR Oct : 01st : Taliparamba -13 
+Nov: 09th :  Kannur-16,  Kannur Icar AWS-13 
+KOTTAYAM Oct : 01st : Vaikom-13 
+KOLLAM Oct : 15th : Paripalli Aws-12; 24th :  Chavara AWS-12 
+Nov : 07th : Punalur-14 
+KOZHIKODE Nov: 09th :  Peruvannamuzhi ARG-13 
+THIRUVANANTHAPU
+RAM 
+Oct: 15th : Trivandrum Aero -21,  Pirappancode Aws -13,  
+Thiruvananthapuram -12 
+Nov : 23rd : Thiruvananthapuram-15 
+THRISSUR Oct : 15th : Lower Sholayar Aws-13 
+Nov: 05th : Irinjalakuda-12, Peringalkuthu Aws-12 
+PALAKKAD Oct : 15th : Palakkad-12, Malampuzha Dam Aws-12 
+Dec : 09th : Chittur-13 
+PATHANAMTHITTA 
+Oct : 15th : Thiruvalla Aws-15, Kunnathanam Aws-12 
+Nov : 23rd : Kunnathanam Aws-15, Enadimangalam Aws-13 
+Dec : 09th : Kurudamannil-18 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 67 
+ 
+ 
+Fig.5c: District-wise rainfall performance in various subdivisions during Oct-Dec 2023 
+ 
+5. Rainfall distribution over Tamil Nadu and Puducherry 
+Spatial and temporal distribution  of rainfall  over the TN subdivision during Oct -Dec 
+2023 are depicted by the district-wise rainfall distribution and area averaged daily rainfall 
+distribution over TN . Fig. 6a presents the daily rainfall distribution over the TN subdivision 
+(including Puducherry and Karaikal) during Oct -Dec 2023. The daily TN subdivisional rainfall 
+was below normal from 20 th-30th October and above normal on many days d uring the period 
+from 30th October to 20th December.  
+State / UT & District-wise seasonal rainfall during Oct-dec 2023 are presented in Tables-
+8a&b and Fig.5c and district -wise monthly rainfall performance is depicted in Fig.6b. as seen, 
+the extreme southern districts of Kanyakumari, Tirunelveli, Th ootukudi, Tenkasi and 
+Virudunagar districts of TN received large excess rainfall (+76% to +158%) during the season . 
+The other southern districts of Ramanathapuram, Sivagangai, Madurai, Dindigul & Theni 
+districts, th e western ghat & adjoining districts of  Nilgiris, Coimbatore, Tiruppur, Erode & 
+Namakkal in north interior TN,   the extreme northeastern districts of Ch ennai, Tiruvallur, 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 68 
+ 
+Ranipet, Kancheepuram & Chengalpattu  districts received normal to excess  rainfall.  
+Mayiladuthurai, Nagapattinam, Tiruvarur & Karikal area of the delta districts received normal 
+rainfall and the rest of the 15 districts in north TN & Puducherry ended up deficient at the end of 
+the season.  
+In the monthly scale, in October, but for Kanyakumari that received large excess rainfall 
+and the western ghat districts of Coimbatore, Tiruppur, Theni, Tenkasi, Tirunelveli  & Madurai 
+adjoining the Theni district that received normal rainfall all the other 33 districts (including 
+Puducherry & Karaikal) became deficient-largely deficient.  
+ 
+Fig.6a:  Area averaged daily rainfall over TN subdivision during Oct-Dec 2023 
+ 
+Table-8a: State /UT wise rainfall figures of Tamil Nadu, Puducherry& Karaikal  during 
+Oct-Dec 2023 
+Subdivision / State /  UT 
+Actual 
+rainfall 
+(mm) 
+Normal 
+rainfall 
+(mm) 
+Percentage 
+departure from 
+normal (%) 
+TN subdivision  458.9 442.3 +4 
+Puducherry& Karaikal (UT) 776.8 896.0 -13 
+Tamil Nadu State 457.8 441.2 +4 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 69 
+ 
+Table-8b: District -wise rai nfall figures of Tamil Nadu, Puducherry& Karaikal                                                    
+during Oct-Dec 2023 
+District 
+  Oct-Dec 2023 
+Actual  Normal PDN 
+(mm) (mm) (%) 
+Ariyalur 284.2 501.9 -43 
+Chengalpattu 747.1 707.7 +6 
+Chennai 1088.9 809.6 +35 
+Coimbatore 500.8 337.6 +48 
+Cuddalore 537.7 701.5 -23 
+Dharmapuri 182.8 314.2 -42 
+Dindigul 416.2 460.0 -10 
+Erode 396.0 307.1 +29 
+Kallakurichi 206.8 455.5 -55 
+Kancheepuram 703.5 591.7 +19 
+Kanyakumari 1050.9 532.6 +97 
+Karaikal 1083.4 1014.2 +7 
+Karur 181.4 313.2 -42 
+Krishnagiri 139.1 278.7 -50 
+Madurai 475.5 370.0 +29 
+Mayiladuthurai 752.5 888.1 -15 
+Nagapattinam 969.0 935.3 +4 
+Namakkal 230.6 270.4 -15 
+Nilgiris 502.4 501.3 0 
+Perambalur 232.5 432.0 -46 
+Puducherry 609.5 831.6 -27 
+Pudukkottai 309.0 385.6 -20 
+Ramanathapuram 667.6 531.4 +26 
+Ranipet 351.3 406.0 -13 
+Salem 229.3 331.7 -31 
+Sivaganga 440.3 422.7 +4 
+Tenkasi 821.3 465.7 +76 
+Thanjavur 345.5 579.4 -40 
+Theni 537.7 364.3 +48 
+Tirunelveli 1329.6 514.9 +158 
+Tirupattur 141.7 266.3 -47 
+Tiruppur 329.8 305.7 +8 
+Tiruvallur 754.5 623.9 +21 
+Tiruvannamalai 276.5 450.4 -39 
+Tiruvarur 598.0 725.4 -18 
+Toothukudi 812.4 441.9 +84 
+Trichy 202.5 379.4 -47 
+Vellore 286.8 375.8 -24 
+Villupuram 353.4 531.3 -33 
+Virudhunagar 660.0 398.5 +66 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 70 
+ 
+ 
+ 
+ 
+Fig.6b:  District-wise rainfall distribution over the TN subdivision during Oc t, Nov & Dec 
+2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 71 
+ 
+In November, but for Thanjavur, Thiruchirapalli, Karur, Kallakurichi & Ranipet districts 
+that received deficient rainfall all the other 35 districts received normal to large excess  rainfall. 
+In south TN, excepting Dindigul that received normal rainfall, all the other districts received 
+excess-large excess  rainfall. In the north interior districts of Nilgiris, Coimbatore, Tiruppur, 
+Erode & Namakkal and north coastal districts of Tiruvallur, Mayiladuthurai, Nagapattinam, 
+Tiruvarur & Karaikal area received excess to large excess rainfall. All the other northern districts 
+received normal rainfall during the month. 
+In December, the western ghat & the other southern districts, the extreme northeastern districts 
+and Nagapattinam district received normal to large excess  rainfall. All the other northern 
+districts became deficient to largely deficient . Whereas the southern districts largely benefitted 
+from the historical rainfall event  of 17th-19th December, the extreme northeastern districts of 
+Chennai, Chengalpattu, Kancheepuram, Tiruvallur, Ranipet & Vellore benefitted from the 
+passage of SCS MICHAUNG close to the coast. 
+6. Standardised Precipitation Index 
+ The Standardized Precipitation Index (SPI) is an index used for monitoring drought and 
+is based on precipitation. This index is negative for dry and positive for wet conditions. As the 
+dry or wet conditions become more severe, the index becomes more ne gative or positive. For 
+October to December 20 23, SPI indicated Severely-Extremely wet conditions over Tirunelveli, 
+Tenkasi, Thootukudi, Kanyakumari & Virudunagar districts of TN & Pathanamtitta district of 
+Kerala; and mild-moderately wet conditions over all other districts of KER  & Mahe area , and 
+neighbouring Kodagu, Mysuru, Hassan & Chikkmagaluru districts of SIK,  Nilgiris, Coimbatore, 
+Erode, Tiruppur, Theni, Madurai, Sivagangai, Ramanathapuram, Nagapattinam, Mayiladuthurai, 
+Chennai, Chengalpattu, Kancheepuram, Tiruvallur districts & Karaikal area of TN, Eluru, 
+Krishna, NTR & West Godavari districts of CAP.  Severely- Extremely dry conditions prevailed 
+over Kakinada, B.R.Ambedkar Konaseema, East Godavari districts of AP & Yanam area ; 
+Anantapuramu. Sri Sathyasai & YSR districts of Rayalaseema ; and  Ballari & Vijayanagara 
+districts of SIK. All other districts in TN, RYS, SIK & CAP were mildly-moderately dry during 
+Oct-Dec 2023 (Fig.7).   
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 72 
+ 
+ 
+Fig.7: Standardised Precipitation Index for October -December 20 23 over the southern 
+peninsular India. 
+ 
+7. Large & Regional scale circulation features  
+(a) Flow pattern: The mean and anomalous wind pattern over the Indian region at 850 hPa, 500 
+hPa and 250 hPa levels during October –December 2023 are presented in Fig.8a(i)-(iii). The 250 
+hPa velocity potential & 850 hPa stream function over the Indian region during October -
+December 2023 are presented in Fig.8b & Fig.8c respectively. 
+In October 202 3, unfavourable anomalous anticyclonic circulation was observed in the lower 
+tropospheric levels (850 hPa ) over the southern peninsular region [Fig.8a(i) & Fig.8c ] and 
+anomalous northwesterlies were observed over the central and adjoining peninsular region in the 
+mid levels (500 hPa). In the upper tropospheric levels (250 hPa), anomalous cyclonic circulation 
+was present over the Himalayan and neighbouring regions  [Fig.8a(i)]. There was anomalous 
+upper level convergence over the southern parts of Bay of Bengal and equatorial Indian ocean 
+that restricted the upper level divergence to the eastern parts of Bay of Bengal and unfavourable 
+upper level convergence over the southern peninsular region & adjoining western parts of Bay of 
+Bengal [Fig.8b]. 
+  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 73 
+ 
+   
+ 
+ 
+  
+ 
+ 
+  Fig.8a(i): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during October 2023 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+    
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 74 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.8a(ii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during Nov 2023 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 75 
+ 
+ 
+   
+   
+ 
+ 
+   
+Fig.8a(iii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa and 250 
+hPa levels during December 2023 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 76 
+ 
+   
+   
+   
+Fig.8b: 250 hPa velocity potential (x 106 m2/s) over the Indian region during Oct , Nov & 
+Dec 2023 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 77 
+ 
+   
+   
+  
+Fig.8c: 850 hPa stream function (x 106 m2/s) over the Indian region during Oct , Nov & Dec 
+2023 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 78 
+ 
+In November 2023, at 850 hPa level, there was anomalous anticyclonic circulation over the 
+peninsular region [Fig.8c] and  anomalous easterlies over the equatorial Indian Ocean and 
+adjoining southern parts of Bay of Bengal and anomalous southerlies / southwesterlies over the 
+southern peninsular region and the Arabian sea [Fig.8a(ii)].  In the mid-upper tropospheric levels 
+there was anomalous cyclonic circulation over the central and northern parts of India [Fig.8a(ii). 
+Upper level divergence was present over the southern peninsular and eastern parts India and it 
+was more over the southern parts of Bay of Bengal and adjoining equatorial Indian ocean 
+[Fig.8b]. 
+In December 2023, at 850 hPa level, there was anomalous cyclonic circulation over the central 
+Arabian sea and adjoining central India [Fig.8a(iii)]. Upper tropospheric divergence was present 
+over the southern parts of peninsular region, southern Bay of Bengal and equatorial Indian ocean 
+[Fig.8b] and low level cyclonic vorticity was observed over the extreme southern parts of the 
+southern peninsular region [Fig.8c]. 
+(b) Monthly OLR patterns: Monthly OLR anomalies over the Indian region are shown in Fig.8d. 
+In October 202 3, positive OLR anomalies were observed over the southern and the southern 
+peninsular region.  
+In November, negative OLR anomalies were observed over the NEM region. The anomalies 
+were upto about -20 W/m2 to -30 W/m2 over coastal TN, -10 W/m2 to -20 W/m2 over interior TN 
+& most parts of KER & upto -10 W/m2 over the rest of the NEM region.  
+In December, negative OLR anomalies of about -30 W/m 2 were observed over southern parts 
+and -20 W/m2 to -30 W/m2 over northern parts of TN and KER. 
+(c) Large scale features : Based on MoES- MMCFS (Ministry of Earth Sciences - Monsoon 
+mission: Climate Forecasting System) analysis and reports of various global climate monitoring 
+centres, the large scale climate parameters during  October-December 2023 were as follows: 
+(i) El Nino conditions (positive sea surface temperature anomalies) prevailed over the equatorial 
+Pacific region.  
+(ii) Indian Ocean Dipole was also strongly positive during the season.  
+(iii) MJO was in the western hemisphere or significant during the entire October 2023. It was in 
+phase 2-3 for a brief period of 02 nd-05th November and again during 22 nd-30th November, but 
+was insignificant or in the western hemisphere during the other days of the month. In December 
+2023, it was in phase 3 -4 during the first week and was in the western hemisphere or 
+insignificant on most of the days during the rest of the month. (Fig.8e (i)-(iii). 
+Even though both El Nino & positive IOD were favourable for good NEM, MJO was not 
+favourable on many days during the season. \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 79 
+ 
+ 
+   
+ 
+ 
+Fig.8d:  OLR anomalies over the Indian region during Oct, Nov & Dec 2023 (Source: Climate 
+Diagnostic Bulletin of India, IMD Pune) 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 80 
+ 
+ 
+ 
+Fig.8e(i): Sea surface temperature over the equatorial Pacific Ocean  (Source: Bureau of 
+Meteorology, Australia) 
+ 
+Fig.8e(ii): Indian Ocean Dipole mode index(Source: Bureau of Meteorology, Australia) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 81 
+ 
+ 
+Fig.8e(iii): MJO during Oct-Dec 2023  (Source: Bureau of Meteorology, Australia) 
+ 
+8. Cessation of NEM rains over peninsular India 
+Subsequent to the historical rainfall event over south TN in December 2023 , with the gradual 
+decrease in rainfall activity, cessation of NEM rains over southern peninsular India was declared 
+on 14th January 2024. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 82 
+ 
+9. Summary 
+During the year 202 3, the southwest monsoon withdrew from the Indian region on 16th 
+October and the Northeast monsoon (NEM) of 202 3 commenced simultaneously over the 
+southeastern parts of peninsular India on 16th October 2023 against the normal date of 20 th 
+October.  
+Of the five meteorological sub divisions ben efitted by the NEM, three subdivisions - Tamil 
+Nadu (including Puducherry & Karaikal)  (TN), Coastal Andhra Pradesh (CAP)  & Kerala 
+(KER) received normal to excess  rainfall and the other two subdivisions - Rayalaseema 
+(RYS), and South Interior Karnataka (SIK)] received deficient rainfall during the NEM 
+season (October-December) 2023.  
+Active to vigorous monsoon conditions prevailed over TN on 20 days, over KER on 12 days 
+and over RYS, CAP & SIK – 3-5 days during the season.  There were 57 days of isolated 
+heavy rainfall activity with 24 days of isolated very heavy rain including 07 days of isolated 
+extremely heavy rainfall activity over TN.   
+Four cyclones affected the Indian seas during the season  – Extremely Severe Cyclonic 
+Storm (ESCS) TEJ over the Arabian Sea (AS) and Very Severe Cyclonic Storm (VSCS)  
+HAMOON, Cyclonic Storm (CS)  MIDHILI and Severe Cyclonic Storm (SCS)  
+MICHAUNG over the Bay of Bengal (BOB).  
+The SCS MICHAUNG over the BOB during 01 st-06th December crossed south Andhra 
+Pradesh coast, south of Bapatla on 05th afternoon as SCS with maximum sustained surface 
+wind speed of 90-100 kmph gusting to 110 kmph. Associated with the passage of this 
+system, very heavy to extremely heavy  rainfall occurred over Chennai and neighbouring 
+districts of extreme north Tamilnadu, Rayalaseema & Coastal Andhra Pradesh during 04 th-
+06th December.  
+The other three cyclones ESCS TEJ  that affected AS during 20 th-24th Oct 2023 moved 
+westwards and crossed Yemen coast, VSCS HAMOON that affected BOB during 21 st-25th 
+Oct 2023 tracked northeastwards and crossed Bangladesh coast and CS MIDHILI that 
+affected BOB during 15th-18th Nov 2023 also tracked northeastwards and crossed Bangladesh 
+coast leading to weak NEM rainfall activity over the peninsular India  during the respective 
+periods.  
+However, associated with an upper air cyclonic circulation over the Comorin area and 
+neighbourhood, historical extremely heavy  rainfall occurred over south Tamilnadu during 
+17th-19th December, with Kayalpattinam in Thoothukudi district recording 95 cm/day and 
+30 other stations over Thoothukudi, Tirunelveli, Kanyakumari and Thenkasi  districts 
+recording over 30 cm/day on 18th December leading to devastating floods over extreme south 
+Tamilnadu.  
+Thereafter, with the gradual decrease in rainfall activity, the cessation of NEM 202 3 rainfall 
+over the southern peninsular India was declared on 14th January 2024. 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 83 
+ 
+Acknowledgements 
+This report is a compilation of real -time observational data and analytical products 
+generated by various IMD offices including IMD New Delhi, Pune, Thiruvananthapuram, 
+Hyderabad, Bangalore  & Amaravati as well as raingauge networks of state government  
+departments. Contribution from all officials involved in generation of data and analytical 
+products used for preparation of this report is duly acknowledged.  Use of US-NCEP reanalysis 
+data, analytical product of Bureau of Meteorology, Australia and local media reports are also 
+duly acknowledged. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 84 
+ 
+APPENDIX-(i):  Terminologies for Spatial rainfall distribution 
+WS - Widespread (Most places): 75 % or more number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+FWS- Fairly widespread (Many places) : 51% to 74 % number of stations of a region (sub -
+division) reporting at least 2.5 mm rainfall.  
+SCT- Scattered (at a few places): 26 % to 50% number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+ISOL- Isolated (At isolated places):  25% or less number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+DRY:  No station of a region reported rainfall 
+APPENDIX-(ii):  Terminologies for description of intensity of rainfall 
+ 
+ 
+APPENDIX-(iii):  Description of NEM rainfall activity 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 
+times the normal with at least two stations reporting more than or equal to 3 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 2 cm elsewhere in the NEM region. 
+Vigorous: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 4 
+times the normal with at least two stations reporting more than or equal to 5 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 3 cm elsewhere in the NEM region. 

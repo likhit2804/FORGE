@@ -1,0 +1,926 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian Meteorological Society, Chennai Chapter 
+Newsletter   
+ 
+Vol.20, Issue No.2, Dec 2020 and  
+Vol.21, Issue No.1, May  2021 
+ 
+ 
+ 
+EDITORIAL BOARD  
+ 
+Editor   : Dr. B. Amudha      
+ 
+Members : Dr. N. Jayanthi,  Dr. Y.E.A. Raj  and  Dr. B. Geetha 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENTS 
+ 
+ 
+No. 
+ 
+ 
+Title of the Article 
+ 
+Author 
+ 
+Page No. 
+ From the Chairman’s Desk 
+  3 
+1. Rapid mode transmission in moored data 
+buoys during cyclones 
+ 
+R.Venkatesan and 
+Jossia Joseph 
+5 
+2. Mission Mangal 
+(Mangalayan, HOPE, Tianwen-1 and 
+Perseverence) 
+ 
+ 
+M.R.Sivaraman and  
+M.S.Narayanan 
+ 
+11 
+3. Northeast monsoon 2020 
+ 
+B. Geetha 17 
+4. Rainfall Distribution over Chennai on 
+Historic Rainy Day - 2015 
+ 
+ 
+O.M. Murali 19 
+ 
+Disclaimer: The Editor and IMS Chennai Chapter are not responsible  
+for the views expressed by the authors. \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+3 
+ 
+  
+From the Chairman’s Desk…... 
+ 
+Dear members  of  IMS  Chennai  Chapter and readers  of  BREEZE, 
+ 
+At the first instance, I wish the members of this chapter and readers of this 
+newsletter a safe and comfortable living, free from the COVID -19 pandemic by 
+meticulously following the periodic guidelines issued by various Government agencies 
+and World Health Organisation.  
+ 
+The tenure of the local council of our chapter was over about a year back and as 
+communicated in the previous newsletter we we re supposed to elect new local council 
+during May 2020 itself. In view of restrictions on physical gathering / meeting etc  due to 
+the ongoing and current COVID-19 pandemic, conducting scientific symposium / seminar 
+/ meetings  etc . have come to gri nding h alt throughout the world – albeit some 
+institutions / societies / bodies conducted webinar(s) to sustain  the scientific tempo 
+and/or as a survival activity, as the case may be   -  and we are no exception.  We could 
+not succeed, due to multifarious reasons , in our best efforts to conduct the annual 
+general body meeting as well as the online selection / election as an alternative process 
+to elect the chapter’s new council. We hope that normalcy will soon be restored so that 
+new council will be elected to continue and carry forward the chapter’s routine activities. 
+ 
+In regard to the chapter’s activities since the last issue of Breeze, I feel sorry to 
+state that we could not arrange scientific  lectures / seminars owing to reasons stated 
+above in the prevailing  COVID-19 pandemic restrictions. However, the chapter’s usual 
+seminar on Review of Monsoons of the previous year was held by way of a webinar on 
+23rd March 2021 commemorating with the World Meteorological Day function by 
+combining both these activities, this year, into a single event.  
+ 
+Two new members have joined chapter and we welcome them. 
+ 
+The current issue of BREEZE contains scientific / technical notes from members 
+which may interest the readers.  
+ 
+With  best  regards & Bye 
+R. Suresh, Chairman, IMS Chennai Chapter, Chennai 
+Dated:  3 May 2021   
+ 
+ 
+Life Membership details of IMS Chennai Chapter (as on 01.05.2021) :  154 
+The members list is available in 
+http://www.imdchennai.gov.in/IMSWEB/imsimd/ims_imd.html 
+ 
+ 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+4 
+ 
+INDIAN METEOROLOGICAL SOCIETY 
+CHENNAI CHAPTER 
+Email ID: ims.chennai6@gmail.com 
+ 
+COUNCIL MEMBERS: 2018-2021 
+ 
+Immediate Past Chairman : Shri. S. Bagulayan Thampi 
+Mobile: 97910 35198 
+E-mail Id: sbthampi@gmail.com 
+ 
+Chairman  Dr. R. Suresh 
+Mobile: 98682 38212 
+E-mail Id:  suresh.imd@gmail.com 
+ 
+Secretary : Dr. B. Amudha 
+Mobile: 94980 02635 
+Ph.No: 044-2824 6037 
+E-mail Id: amudha2308@gmail.com 
+ 
+Joint-Secretary  Shri. A. Roiden 
+Mobile: 94444 51537 
+Ph.No: 044-2824 6040 
+E-mail Id: roiden.antony@gmail.com 
+ 
+Treasurer  Shri. N. Selvam 
+Mobile: 94442 43536 
+E-mail Id: nselvam_kavi@yahoo.com 
+Members 
+Dr. K.V. Balasubramanian 
+Mobile: 98847 15004 
+E-mail Id: kvbmanian@yahoo.com 
+Dr. B. Geetha 
+Mobile: 98405 31621 
+E-mail Id: geethab67@gmail.com 
+ 
+Shri. R. Nallaswamy 
+Mobile: 98846 56543 
+E-mail Id : rns115@gmail.com 
+ 
+Prof. Dr. P. Nammalwar 
+Mobile: 98843 26610 
+E-mail Id: drnrajan@gmail.com 
+ 
+Shri. V.K. Raman 
+Mobile: 94449 80541 
+E-mail Id : vkraman46@gmail.com 
+ 
+Smt. P.R. Sailaja Devi 
+Mobile: 89395 80740 
+E-mail Id : sailaja.imd@gmail.com 
+ 
+Dr. R. Venkatesan 
+Mobile: 95553 99829 
+E-mail Id : venkat@niot.res.in 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+5 
+ 
+                         
+Rapid Mode Transmission in Moored Data Buoys During Cyclones 
+ 
+R. Venkatesan and  K. Jossia Joseph 
+e-mail :  venkat@niot.res.in 
+ 
+ABSTRACT 
+ The moored buoy network in North Indian Ocean is operational for more than two 
+decades, which is established with  a primary objective to support cyclone early warning 
+services. The program has grown up in leaps and bounds both in quantity and quality by 
+providing crucial met -ocean observations in real -time, particularly during extreme events. 
+Significant technological advances are accomplished along with indigenizing efforts. One of 
+the significant improvements in the buoy system is the facility for rapid mode transmission 
+during the passage of a cyclone.  The rapid mode transmission successfully triggered during 
+many cyclones and provided high frequency real -time data sets, which is appreciated by 
+regional and global scientific community.  
+Keywords: Cyclone, Rapid transmission, Moored data buoys, North Indian Ocean 
+INTRODUCTION 
+ Indian Ocean, the smallest among the ma jor oceanic basin s exhibits many unique 
+features contributed by its limited northward extent and monsoon systems, which adds to its 
+complex nature.  The Indian Ocean was significantly under sampled, till about two decades 
+ago, when compared to other tropical oceans of the world. The inception of the moored buoy 
+program by National Institute of Ocean Technology (NIOT) under the aegis of Ministry of 
+Earth Sciences (erstwhile Department of Ocean Development) earmarked a new era of 
+systematic collection of mete orological and oceanographic parameters in the North Indian 
+Ocean. The moored buoys are fitted with a s et of  meteorological and oceanographic sensors 
+that measure data  up to 500m bel ow the sea surface and transmit  real-time data to the data 
+reception centre at NIOT at every three hours (Venkatesan et. al., 2013).  
+The buoy network programme, the first of its kind in Indian Seas, is now operational 
+for more than two decades, transmitting uninterrupted data in real -time despite innumerable 
+challenges (Venkatesan et. al., 2016). The network includes 12 deep ocean OMNI buoys, 4 
+coastal buoys, one Cal -Val buoy and 2 tsunami buoys (Figure.1 ) apart from an Arctic buoy 
+and has achieved data return of more than 90 per cent.  \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+6 
+ 
+  
+Figure 1. Moored data buoy and the buoy network in North Indian Ocean. 
+ 
+The moored data buoy network is established with a primary objective of capturing 
+the oceanic response during the cyclone passage and thereby to support the better prediction 
+of cyclones.  The frequency of cyclones in no rth Indian Ocean is less compared to that of the 
+major oceanic basins, but is in par with associated loss of life and property. Moreover, the 
+north Indian Ocean witnesse d an increase in the frequency and intensity of cyclones in the 
+recent past exposing the densely populated coastal areas under threat .  The long term moored 
+buoy measurements of meteorological and oceanographic parameters provided new insights 
+of the ocean dynamics of the North Indian Ocean particularly in better understanding the 
+dynamics during the passage of cyclones (Navaneeth et. al., 2019; Venkatesan et. al., 2014; 
+Vengatesan et. al., 2020). This in turn steered the demand for higher frequency of real  time 
+transmission. However, higher transmission rate indicate s higher consumption of e nergy 
+leading to frequent services and higher cost of transmission. An agreeable solution was 
+arrived with higher transmission limited to the crucial period of cyclone passage.  
+The real time datasets greatly helped the weather forecasts and ocean state fo recast by 
+providing the critical information about the remote marine environment.  The early warning 
+services utili se the in -situ moored buoy observations particularly the tropical cyclone heat 
+potential in better predicting the cyclone track and intensity . The present study details the 
+development and implementation of the cyclone rapid mode algorithm in the moored buoy 
+network along with two case studies of the successful rapid mode transmission that triggered 
+during the super cyclone Amphan in May 2020 and Very Severe Cyclone Nivar in November 
+2020. 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+7 
+ 
+Development of the algorithm 
+ Buoy measurements during the past cyclones were analysed in detail to identify a 
+suitable method to detect the approaching cyclones and to trigger into rapid mode 
+transmission. Strategically positioned moored data buoys captured the signals of more than 
+30 low pressure systems in north Indian Ocean during the operational span of more than two 
+decades.  It is observed that the buoy locations spread over a large basin with significa nt 
+seasonality exhibit large variability in meteorological and oceanographic parameters. 
+Moreover, the tropical cyclones also exhibit significant seasonality  - before and after the 
+southwest monsoon, which again differs in Arabian Sea and Bay of Bengal. Th e challenge 
+was to develop an algorithm, which is uniformly applicable in both the basins over the large 
+latitudinal area. It was also a challenge to operate the same algorithm throughout the year 
+without any false trigger.  
+ The detailed analysis of past cyclones revealed that the quickest response is evident in 
+air pressure and in wind speed in which the measurement and processing are also easy 
+compared to that of waves and currents. However, the passage of the eye of the cyclone over 
+the buoy location ma y not satisfy the expected high wind conditions and hence discarded 
+wind in the further analysis. The algorithm was developed utilising the dynamic threshold 
+with the sudden drop in air pressure triggered by an approaching cyclone (patent filed). This 
+enabled the implementation of the algorithm regardless of spatio -temporal variability at any 
+location and at any point of time. 
+Implementation of the algorithm in Moored Data Buoys 
+ The moored buoy program at NIOT is also focusing on indigenizing the buoy 
+technology and data acquisition system to facilitate upgradations and to reduce the exorbitant 
+costs of imported systems. Hrudaya, Indigenous buoy Data Acquisition System (I -DAS) has 
+the facility to interface all the buoy sensors, programmable data collection,  process, and store 
+and transmitting real time data through satellite to the NIOT data centre. The development of  
+I-DAS has reduced India‟s technology dependence and is competitive in cost. Apart from 
+regular meteorological and subsurface data collection,  Hrudaya is configured to detect the 
+cyclone events (Venkatesan et. al., 2018).  The system enters into rapid transmission mode in 
+the vicinity of a low pressure system and starts transmitting at high frequency. The frequency 
+of rapid mode transmission is scalable to the highest frequency of 30 minutes.  
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+8 
+ 
+Rapid mode Transmission during Cyclones 
+The OMNI buoy BD09 (89.1 o E/17.5o N) in northern Bay of Bengal has recorded the signals 
+of many low pressure systems that formed in Bay of Bengal since its inceptio n in May 2011. 
+The buoy was deployed with facility for rapid transmission in December 2019 and triggered 
+high frequency transmission during the super cyclone Amphan in May 2020 (Fig. 2b) .  The 
+buoy transmitted data at one hour interval, while the data is t ransmitted at every 3 hours 
+interval during normal conditions. The high frequency transmission was triggered at 00:00 
+GMT on 19 May 2020 and continued till 16 GMT on the same day providing 11 additional 
+real-time data sets. BD09 recorded minimum air pressure of  988 hPa on 19 May 12 GMT. 
+ 
+  
+Fig.2:(a) The cyclone tracks and the time series observations of air pressure and wind speed 
+with high frequency real time data during the cyclones b) Amphan and c) Nivar 
+ The refined algorithm with provision for rapid  mode algorithm at 30 minute interval 
+(highest frequency) was implemented in the coastal buoy CB06 (80.3  o E/13.1o N) off 
+Chennai during the deployment in March 2020  (Fig. 2c). The upper ocean response of the 
+Very Severe Cyclonic Storm Nivar was captured b y the coastal buoy CB06 located off 
+Chennai and continued till the system made landfall near Puducherry, south of Chennai on 25 
+November 2020.   
+ The co astal buoy triggered high frequency data transmission as the Very Severe 
+Cyclonic Storm Nivar approached the buoy on 24 November 2020.  The buoy transmitted 
+data at 30 minutes interval against the normal transmission rate at three hour. The high 
+frequency transmission was triggered at 23:00 GMT on 24 November 2020 and continued till 
+09:30 GMT on 25 November by providing 18 additional real -time data sets. The buoy 
+measurements exhibit the extreme sea state associated with the cyclone passage, which 
+recorded maximum wind speed of 100 km/hr accompanied by significant wave height of 6.7 
+m on 25 November. The mini mum sea level pressure recorded is 1004 hPa and the 
+temperature recorded a reduction to 28.0 °C.   \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+9 
+ 
+ The World Meteorological Organization, India Meteorological Department and other 
+service providers appreciated the continuous support of buoy observations, particularly the 
+high frequency observations during Cyclone Amphan. 
+ 
+ 
+Fig 3.: The appreciation from WMO and secretary MoES for the Rapid Mode Data 
+transmissions from NIOT Indigenous moored buoy during cyclone Amphan  
+ The rapid mode algorithm enabled th e buoy system to provide the critical met -ocean 
+datasets to stake holders with higher frequency in real -time. The rapid mode hourly real -time 
+transmission from BD09 buoy (Indigenous OMNI Buoy) during cyclone Amphan was 
+appreciated by World Meteorological O rganization (WMO) and was published as newsletter 
+in WMO website (Fig. 3). 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+10 
+ 
+Conclusion 
+The moored buoy network is strategically positioned in the North Indian Ocean to support the 
+cyclone early warning services.  The rapid mode algorithm is developed based on the analysis 
+of past moored buoy measurements during cyclones. The algorithm is successfully 
+incorporated in the indigenous data acquisition system  in coastal and deep ocean buoys , 
+which was found to be  triggering to rapid mode during   the passage of  cyclones and 
+resuming to  normal mode after the passage of cyclones. The availability of critical met -
+ocean data sets in real -time during cyclone passage is appreciated by World Meteorological 
+Organization, India Meteorological Department and other service providers. 
+Acknowledgement 
+The authors thank the Ministry of Earth Sciences (MoES), Govt. of India and Director, NIOT 
+for support and encouragement to carry out this work. We also thank the staff of Ocean 
+Observation Systems (OOS) group for their efforts in sustaining the moored buoy network. 
+References 
+1. Navaneeth, K.N.,  Martin, M.V.,  Jossia  Joseph, K. and  Venkatesan, R.,  2019, “Contrasting 
+upper ocean response  of   two intense cyclones in Bay of  Bengal”,  Deep Sea Research, Part-1, 
+Volume 147, 65-78. 
+2. Vengatesan, G., P. Shanmugam, R. Venkatesan, Jossia Joseph , K.  and N. Vedachalam.,  2020, 
+“Seasonal variability of cyclone heat potential and cyclonic responses in the Bay of Bengal 
+characterized  using  moored observatories”,  Ocean Systems Engineering, Vol. 10, No. 2,  181-
+199 DOI: https://doi.org/10.12989/ose.2020.10.2.181. 
+3. Venkatesan, R., Shamji,  V.R.,  Latha, G., Mathew, S., Rao, R.R. , Arul Muthiah , M.  and 
+Atmanand, M.A.,  2013, “New in-situ ocean subsurface time series measurements from OMNI 
+buoy network in the Bay of Bengal”,  Current Science, 104(9):1166-1177. 
+4. Venkatesan, R ., Mathew,  S.,  Vimala, J., Latha, G., Arul Muthiah, M., Ramasundaram, S.,  
+Sundar, R., Lavanya, R. and M.A. Atmanand,  M.A. , 2014, “Signatures of  very severe cyclonic 
+storm Phailin in met-ocean parameters observed by moored buoy network in the Bay of Bengal”,  
+Current Science,  107(4):589-595. 
+5. Venkatesan, R., J.K., Lix, Phanindra Reddy, Arul Muthiah, M. and Atmanand, M.A., 2016,  Two 
+decades  of   Indian  moored buoy network – Significance  and  impact,  Operational  
+Oceanography,  1 - 10. 
+6. Venkatesan, R., Ramesh, K.,  Kesavakumar, B., Arul Muthiah, M.,  Ramasundaram, S.  and 
+Jossia Joseph, K.., 2018, “ Coastal Observation by Moored Buoy System in Indian Region ”, 
+Journal  of Ocean Technology, Vol.13, No.1, 52-70. 
+ 
+******** 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+11 
+ 
+ 
+Mission Mangal 
+(Mangalyaan, HOPE, Tianwen-1 and Perseverance) 
+ 
+M.R. Sivaraman  and  M.S. Narayanan 
+e-mail :  dr.manjeri.r.sivaraman@gmail.com / u.m.s.narayanan@gmail.com 
+ 
+1. Introduction  
+ 
+ In Feb 2021, three spac ecrafts  from Earth reached planet Mars to look for signs of 
+past life - the UAE‟s maiden interplanetary mission  “Hope Orbiter”, China‟s first Mars 
+mission, “T he Tianwen -1 Orbiter ” and the USA‟ s complex “Perseverance Rover ”. All 
+three missions were launched in July 2020 and arrived at the planet in February this year 
+within a space of a few days (1).  
+  A primary objective when it comes to launching a spacecraft is to get it to its 
+target destination by consuming minimum fuel. To ensure this, a flight path called the 
+Hohmann Transfer Orbit(2) is followed, which is around the Sun and is elliptical in shape, 
+just like planetary orbits. The op portunity  to optimally launch and take the spacecraft in 
+the least time to reach Mars, occurs every 26 months or 780 days due to the nature of the 
+orbits of  Earth and Mars.  Fig. 1 shows Hohmann Transfer Orbit of  Mangalyan aka Mars 
+Orbiter Mission (MOM). 
+ 
+ 
+Fig. 1 : Hohmann Transfer Orbit of Mangalyan 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+12 
+ 
+ India‟s Mangalyaan and MAVEN (USA) were launched in November 2013, ExoMars 
+in March 2016, Insight in May 2018, and the latest three missions in July 2020.   The first 
+successful mission was Mariner 4 flyby spacecraft of  US on 15 July 1965  (3) after five failed 
+missions of USSR and USA. A total of 49 Mars missions have been attempted, with nearly 
+15 failed missions.  The four Missions to Mars, viz. Mangalyaan, HOPE, Tianwen -1 and 
+Perseverance are described in this article. 
+Mars is the fourth  planet from the  Sun and the second -smallest planet in the  Solar 
+System, being larger than only  Mercury. Other details of Mars in comparison with Earth are  
+given  below. 
+DESCRIPTION EARTH MARS 
+Average Distance from Sun 148  million km 225  million km 
+Average Speed  Orbiting 
+around Sun  29  km per second 23.2 km per second 
+Diameter 12600 km 6600 km 
+Tilt of Axis 23.5 degrees 25 degrees 
+Length of Year 365.25 days 687 Earth days 
+Length of Day 23 hours 56 minutes 24 hours 37 minutes 
+Gravity 9.3 m / sec2 0.375 of Earth 
+Temperature Average  + 14 °C Average  - 63 °C 
+Atmosphere nitrogen, oxygen, 
+many trace gases 
+mostly carbon dioxide, 
+some water vapor 
+Number of Moons 1 2  
+ 
+2. Mangalyaan (India) 
+ 
+ On 24 September 2014, the  Indian Space Research Organisation  (ISRO) became the 
+fourth space agency to visit Mars when its maiden interplanetary mission, the  Mars Orbiter 
+Mission (Mangalyaan) spacecraft, arrived in orbit.  The United Arab  Emirates became the 
+fifth to successfully undertake a mission to Mars, having inserted an orbiter into the Martian 
+atmosphere on 9 February 2021. NASA's Perseverance rover successfully landed on Mars on 
+18 February 2021.  
+ The scientific instruments on Mangalyaan were Mars Colour Camera (MCC), Lyman 
+Alpha Photometer (LAP), Methane Sensor (MSM), Neutral composition Analyser (MENCA) 
+and Thermal IR imaging Spectrometer (TIS). The objectives of the mission were to study the 
+dynamics of the upper atmosphere of Mars, effects of solar wind, surface features by studying 
+the morphology, topography and mineralogy , studying the constituents of Martian 
+atmosphere including  methane and CO 2 using remote sensing techn iques.   Mo re than 30 
+research publications have resulted from Mangalyaan data. A photo taken by Mars Colo ur \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+13 
+ 
+Camera is shown  in  Fig 3.  See https://www.space.com/23203-india-mars-orbiter-mission-
+photos.html for some other stunning photos of Mars taken by Mangalyan. 
+ 
+ 
+ 
+Fig. 2 : Mangalyaan Spacecraft 
+ 
+ 
+ 
+Fig. 3 : A High Resolution Picture of a Fluvial Channel and impact Crater taken by 
+Mangalyaan 
+ 
+3. Recent Mars Missions: 
+ 
+ Simultaneously three missions were sent to Mars, viz. a UAE‟ s first interplanetary 
+mission, the Hope Orbiter , China‟s first Mars mission, the   Tianwen-1 Orbiter and the US‟ 
+complex  Perseverance Rover , recently . Brief information on  these three missions are 
+presented.  
+(a)  HOPE (UAE) :   The Emirates Mars Mission  “HOPE” was launched on 19 
+July 2020,  and reached Mars on 9 February 2021. The mission design, development, and 
+operations are led by the Mohammed bin Rashid Space Centre (MBRSC)  and the Laboratory 
+for Atmospheric and Space Physics  (LASP) at the  University of Colorado Boulder , with \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+14 
+ 
+support from  Arizona State University  (ASU) and the  University of Califo rnia, Berkeley .  
+The spacecraft will spend the next two months moving into its final science orbit at altitudes 
+ranging from 20,000 to 43,000 km above the planet. The orbit is designed to allow the 
+spacecraft‟s instruments to capture full views of the pla net‟s atmosphere every nine days to 
+support studies of Martian weather patterns as well as how gasses in the planet‟s atmosphere 
+escape to space. 
+The three main objectives of the Hope probe are: 
+ Understand the climate dynamics and global weather map of Mar s by studying the 
+lower atmosphere of Mars. 
+ Explain how the weather of Mars affects the escape of hydrogen and oxygen,  by 
+correlating conditions in the lower and upper atmosphere 
+ Understand the  presence and variability of hydrogen and oxygen in the upper 
+atmosphere, and why Mars is losing these gases to space. 
+ Hope will be “the first true weather satellite” at Mars and will provide the first 
+ complete picture of  the  Martian atmosphere and  its  layers. 
+(b) Tianwen 1 (China):  Tianwen-1  is the interplanetary mission by the China National 
+Space Administration (CNSA) to send a robotic spacecraft to  Mars, consisting of an  orbiter, 
+deployable camera, lander and rover. The spacecraft, with a total mass of nearly five tons, is 
+one of the heaviest probes launched to Mars and c arries 13 scientific instruments. The 
+mission was successfully launched from the Wenchang Spacecraft Launch s ite on 23 July 
+2020 on a Long March 5  heavy-lift launch vehicle. After seven  months of transit, it entered 
+orbit around Mars on 10 February 2021. For the next 2 months the space probe will study the 
+target site from a reconnaissance orbit, then in May or June 2021 the landing is planned to 
+begin with the rel ease of the capsule. It is projected to make an  atmospheric entry followed 
+by a descent phase under parachute, after which the lander will use its propulsion to land 
+smoothly on Mars. If all goes according  to plan, the lander will then deploy the rover 
+designed to explore the surface for 90 Martian days. The orbiter will serve as a 
+telecommunications relay during the rover's primary mission and will position itself in an 
+orbit more conducive to observations while retaining its role of relay. 
+This is China's first successful interplanetary mission, as well as its first independent probe to 
+Mars. From a scientific point of view, the mission has five objectives: 
+ Study the morphology and  geological structure of Mars , as well as its evolution and its 
+causes. The two cameras present on the orbiter are dedicated to this objective. \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+15 
+ 
+ Study the characteristics of the surface and underground layers of the soil of Mars, as 
+well as the distribution of water ice. This is the role of the radars present on the orbiter 
+and the rover. 
+ Study the composition and type of rocks as well as the  minerals and elements present on 
+the surface of Mars . The spectrometers on board the orbiter and the rover as well as the 
+multispectral camera are dedicated to this objective. 
+ Study the  ionosphere, the climate , the seasons and more generally  the atmosphere of 
+Mars, both in its near space environment and on its surface. This is the role of the 
+two particle detectors present on the orbiter as well as of the rover's weather station. 
+ Study the internal structure of Mars, its  magnetic field , the history of its geological 
+evolution, the internal distribution of its mass and its gravitational field. 
+The magnetometers as well as the radars present on the orbiter and the rover are 
+dedicated to this objective.  
+ The aims of the mission include searching for evidence of current and past life, 
+producing surface maps, characterizing soil composition and water ice distribution, and 
+examining the Martian atmosphere, and in particular its ionosphere.  
+The mission also serves as a  technology demonstration that will be needed for an anticipated 
+Chinese Mars sample-return mission proposed for the 2030s.  Tianwen-1 will also cache rock 
+and soil samples for retrieval by the later sample-return mission.  
+(c) Perseverance Mission  (USA): Perseverance, nicknamed  Percy, is a  car-
+sized Mars rover  designed to explore the crater  Jezero on Mars as part of  NASA's Mars 
+2020 mission. It was manufactured by the Jet Propulsion Laboratory and launched on 30 July 
+2020. Confirmation that the rover successfully landed on Mars was received on 18 February 
+2021. Following the rover's arrival, NASA named the landing site  Octavia E. Butler Landing. 
+Perseverance has a similar design to its predecessor rover,  Curiosity, from which it wa s 
+moderately upgraded. It carries seven primary payload instruments, 19 cameras, and two 
+microphones. The rover is also carrying the mini -helicopter Ingenuity, or  Ginny, an 
+experimental aircraft and technology showcase that will attempt the first powered flight on 
+another planet.  The rover's goals include identifying ancient Martian environments capable 
+of supporting life, seeking out evidence of former  microbial life  existing in those 
+environments, collecting rock and soil samples to store on the Martian surface, and 
+testing oxygen production from the  Martian at mosphere to prepare for  future crewed 
+missions.  \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+16 
+ 
+ The Perseverance rover has four science objectives that support the  Mars Exploration 
+Program's science goals:  
+ Identify past environments that were capable of supporting microbial life 
+ Seeking biosignatures: seek signs of possible past microbial life in those habitable 
+environments, particularly in specific rock types known to preserve signs over time 
+ Caching samples:  collect core rock and  regolith samples and store them on 
+the Martian surface 
+ Preparing for humans: test oxygen production from the Martian atmosphere. 
+ 
+4. Recent Status & Results : 
+ 
+HOPE : HOPE has collected first series of images from an orbit altitude of 36,0 00 km, The 
+images show the measured signal from scattered sunlight off hydrogen and oxygen and 
+emission from carbon monoxide in the Mars thermosphere, produced by the breakdown of 
+water and carbon dioxide in the atmosphere. The images taken are useful to s tudy global 
+characteristics and variability of hydrogen and oxygen in the Mars upper atmosphere, right at 
+the edge of space. 
+Tianwen 1 : The lander carrying the rover is expected to land on Mars in May or June of this 
+year.  .Chinese space scientists have chosen a relatively flat region in the southern part of 
+Utopia Planitia, a large plain, as a potential landing zone.The rover will be released after 
+landing to conduct scientific exploration,. Meanwhile it has captured many stunning images 
+of Mars. 
+Perseverence : Perseverence successfully landed on Mars on 18 th February. The mission 
+touched down within five meters of their landing target (the landing target that was chosen by 
+the terrain relative navigation system, not the pre -planned estimation), and sever al minutes 
+later sent its first image of the Martian surface back to Earth.  It is presently moving around 
+Mars surface taking Photos and sending them.  
+ 
+References  
+ 
+1. https://theprint.in/science/why-the-quest-for-life-on-mars-continues-despite-35-failed-
+missions-since-1960s/612563/ 
+2. https://www.planetary.org/space-images/hohmann-transfer-orbit 
+3. https://en.wikipedia.org/wiki/List_of_missions_to_Mars 
+4. https://www.space.com/23203-india-mars-orbiter-mission-photos.html 
+ 
+****** \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+17 
+ 
+Salient Features of Northeast Monsoon 2020 
+ 
+B. Geetha 
+e-mail : geethab67@gmail.com 
+ 
+ 
+ 
+The Indian southwest monsoon (SWM) season of June to September is the chief rainy 
+season for India and about 75% of the country‟s annual rainfall is realised during this season. 
+Subsequent to the withdrawal of SWM, the northeast monsoon (NEM), a small scale 
+monsoon confined to parts of southern peninsular India comprising of the meteorological 
+sub-divisions of Tamil Nadu , Puducherry &Karaikal  (TN), Kerala &Mahe(KER), Coastal 
+Andhra Pradesh &Yanam(CAP), Rayalaseema (RYS) and South Interior Karnataka (SIK)  
+occurs. For the subdivision of TN , the normal SWM seasonal rainfall realised is only about 
+35% (342.0 mm) of its annual rainfall ( 914.4 mm)as this subdivision comes under the rain -
+shadow region during theSWM. The northeast monsoon (NEM) season of October to 
+December (OND) is the chief rainy season for this subdivision with 48% ( 447.4 mm) of its 
+annual rainfall realised during this season and hence its performance is a key factor for this 
+regional agricultural activities. 
+Further, the NEM season is also the primary cyclone season for the North Indian 
+Ocean (NIO) basin comprising of the Bay of Bengal (BOB ) and the Arabian Sea (AS) and 
+cyclonic disturbances (CDs; low pressure systems (LPS) with maximum sustained surface 
+wind speed (MSW) of 17 knots or more) forming over BOB and moving west/northwest -
+wards affect the coastal areas of southeastern peninsular India and also contribute 
+significantly to NEM rainfall.  
+Prior to the commencement of NEM rains, after the withdrawal of SWM upto 15°N, 
+reversal of low level winds from southwesterly to northeasterly occurs. The normal date of 
+setting in of easterlies over the southeastern peninsular India is 14thOctober.  The normal date 
+of onset of NEM over Coastal TN (CTN) and south CAP is 20 thOctober.The normal rainfall 
+received over the five NEM su b-divisions during OND is TN -447.4 mm, KER -491.6 mm, 
+CAP-338.1 mm, RYS-223.3 mm and SIK -204.1 mm.  However, the NEM seasonal rainfall 
+shows a high degree of variability with 27% co-efficient of variation.  
+The NEM rainfall is influenced by global climate parameters such as ENSO (El 
+Nino/La Nina & Southern Oscillation Index), Indian Ocean Dipole (IOD) and Madden-Julian 
+Oscillation (MJO). El Nino, positive IOD and MJO in phase 2 -4 with amplitude greater than 
+one are generally associated with good NEM rainfall.  \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+18 
+ 
+During October -December 2020, La Nina and positive Southern Oscillat ion Index 
+prevailed over the equatorial Pacific which was not favourable for good NEM activity during 
+the first half of the season, but, was favourable during the later half of the season. IOD was 
+neutral and indicated normal seasonal rainfall. MJO was in the western hemisphere (phase 5 -
+7)during October and hence was not favourable to NEM activity. In November and 
+December, it was favourableon about 50 -55% and 35% of days during the month 
+respectively.  
+Under this climate setting, the withdrawal of SWM 2020  upto 15°N took place only 
+27th October due to extended SWM conditions. The SWM 2020 withdrew from the entire 
+country on 28 th October and NEM rains commenced simultaneously on 28 th October 2020 
+under the influence of a cyclonic circulation off the south CA P & TN coast and northeasterly 
+winds over coastal TN. 
+Subsequently under the influence of  passage of troughs in low level easterlies and 
+two tropical cyclones over the BOB - VSCS Nivar (22-26 Nov 2020) that crossed coast near 
+Puducherry on 25 November & C S Burevi that came close to Pamban 03 December, the 
+NEM activity picked up and by the end of the season, excepting KER,  all the subdivisions 
+benefitted by the NEM had received normal to excess rainfall. CAP and RYS recorded +24% 
+and +54% excess rainfall respectively, TN & SIK, normal rainfall (+6% &+0% respectively). 
+Only KER came under deficient category (-26%).  
+Further, the NEM activity extended into the first half of January 2021. Subsequently, 
+cessation of NEM rains over the Indian region occurred on 19th January 2021. 
+ 
+****** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+19 
+ 
+Rainfall Distribution over Chennai on  Historic  Rainy Day  in  2015 
+ 
+ 
+O.M. Murali  
+e-mail : om.murali@gmail.com 
+ 
+ 
+Introduction  
+ 
+ Rainfall is one of the meteorological phenomena that have the greatest impact on 
+human activities and the most important environmental factor limiting the development of the 
+semiarid regions. Rainfall is an important natural source of water in any place on the earth. 
+The amount or availability of water for various purposes is very much  depending upon the 
+amount of precipitation in that particular area. Excess or extended absence of rainfall could 
+cause flooding or drought respectively. Floods refer to huge amount of water reaching land in 
+a short span of time, causing land surface to be submerged under water – at places, where, the 
+land surface is usually not covered with water.  
+ Floods could be caused due to natural causes, or human activities, or a combination of 
+both. Floods are caused by discharge of huge volume of water in a short span of time, at such 
+a rate that the water cannot be carried away from the scene of discharge. Extreme rainfall 
+events may only last for a few hours at the most, but can generate terrifying and destructive 
+floods. Their impact can be affected by a wide ra nge of factors such as the location and 
+intensity of the rainfall, the shape and steepness of the catchment it falls on, how much 
+sediment is moved by the water and the vulnerability of the communities in the flood‟s path.  
+ In recent years, heavy precipitation events have resulted in several damaging floods in 
+India. The flash floods that occurred over three major metro cities in the same year 2005 i.e. 
+Mumbai in July, Chennai in October and December, and Bangalore in October in addition the 
+Chennai rains of December 2015  caused extensive damage  to human lives and property.  
+Thus rainfall plays a crucial role in the economic development of any country and India is 
+one of the highly flood prone countries in the world. Around 40 million hectares of land in 
+India is prone to floods as per National Flood Commi ssion report. Northeast Monsoon - 2015 
+was so special in Chennai and in Tamil Nadu where consistent and copious rainfall brought 
+widespread flood along the coastal districts namely Chennai, Kancheepuram, Th iruvallur, 
+and Cuddal ore. Understanding the rainfall distribution pattern really help s the disaster 
+management team to plan in advance and act proactively to minimize the loss to human lives 
+and reduce the impact on properties.  \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+20 
+ 
+ An attempt has been made using rainfall data of the year 2015, to spatially interpolate 
+the rainfall and damage potential over Chennai using interpolation techniques. 
+ 
+Review  of  Literature 
+ According to global estimates  of 2014 on people displaced by disasters, on an 
+average, 27 million people got displaced each year between 2008 and 2013. In the same time, 
+80.9 per cent of displacement took place in Asia. The region accounted for the 14 largest 
+displacements of 2013 and the five countries with t he highest displacement levels: namely 
+Philippines, China, India, Bangladesh and Vietnam. Since 1970, displacement has increased 
+with regard to both weather -related and geophysical hazards. Displacement due to weather -
+related hazards has increased more rapidly which corresponds to  the development of urban 
+growth in areas exposed to cyclones and floods, particularly in Asia. For any disaster, 
+community involvement has become one of the chief priorities for establishing effective 
+partnerships for disaster risk reduction according to the UNISDR  Hyogo Framework for 
+Action (2005-2015) (UNISDR, 2005).  
+ Regarding disasters, identifying risk factors and understanding the way in which 
+communities cope and adapt themselves to hazardous environments are considered important 
+determinants for risk reduct ion and decision making at local and municipal level. Union 
+Minister for Environment and Forests Prakash Javadekar termed the Chennai floods a 
+"natural disaster of unprecedented scale", and said it provided lessons to improve urban 
+planning and improve cit y governance -  "Chennai gives a lesson, and we must learn from 
+this lesson and improve our urban planning and improve city governance, which is very 
+essential. Unless you allow the drains to flow freely to the sea, water will be clogged and that 
+is what has unfortunately happened.” According to Sunita Narain (2015), the Director of the 
+Centre for Science and Environment (CSE) , New Delhi,  the unprecedented floods in the 
+Chennai metropolitan region were the direct result of unregulated urbanisation. Accordin g to 
+her, "our urban sprawls such as Delhi, Kolkata, Mumbai, Chennai, and Srinagar have not paid 
+adequate attention to the natural water bodies that exist in them. 
+  In Chennai, each of its lakes has a natural flood discharge channel which drains the 
+spill over. But we have built over many of these water bodies, blocking the smooth flow of 
+water. We have forgotten the art of drainage. According to research conducted by CSE, 
+Chennai had over 600 lakes in the 1980s, but a master plan published in 2008 showed only a 
+fraction of them survived the human encroachments.   
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+21 
+ 
+  
+ State records show that 19 major lakes shrank from 1,130 hectares in the 1980s to 
+around 645 hectares in the early 2000s, reducing their storage capacity. Drains carrying 
+surplus water from tanks to other wetlands have also been encroached upon, while city storm 
+water drains are clogged and require immediate dredging and desilting. Chennai has only 855 
+km of storm water drains against 2,847 km of urban roads, resulting in flooding after even a 
+marginally heavy downpour. 
+  Remote sensing (RS) techniques along with Geographic Information System (GIS) 
+have been applied extensively in recent times and are recognized as powerful and effective 
+tools for detecting land -use change, flood mapping and flo od risk assessment.  (Sarma 1999; 
+Islam and Sado 2000; Sanyal and Lu 2004; Dewan et al 2007). McColl and Aggett (2007) 
+emphasized that the citizens‟ involvement during the planning process would increase the 
+quality of land use plans, enhance the general s ense of community and generate a greater 
+level of trust through increased transparency.  
+ Zhang et al (2008) state that in addition to natural processes, human activities driven 
+by socioeconomic factors should be considered for the increasing level of floo d risks. Shang 
+and Wilson (2009) examined the effect of watershed urbanization on stream flow behavior. 
+Stream gauge data, spatially distributed rainfall data, land use/land cover and census 
+population data were used to quantify the change in flood behavio r and urbanization in 
+multiple watersheds. They used GIS based methods for quantifying spatially distributed 
+rainfall and surface imperviousness. They concluded that both the frequent and rare floods 
+were sensitive to urbanization and result in increased m agnitude of floods with various 
+recurrence intervals.  
+ There is increasing evidence that  combination of local knowledge with modern 
+information systems (GIS, GPS, PGIS) and earth observation products (satellite imagery, 
+aerial and oblique photography), ca n enhance the way in which decisions are made by 
+providing better information (O‟Neill, 2003; IFRC, 2005) . However, to date, the advantages 
+of participatory collection of risk -related spatial information within a GIS context have not 
+been widely explored. On the positive side, sketches, paper maps, historical profiles and other 
+results obtained through participatory mapping are not kept or updated after a risk assessment 
+project got over, leading to a loss of valuable information.  
+ Cannon et al. (2003) rec ommend that these products need to be converted from raw 
+data into useful spatial information that allows the community and other actors to develop 
+analytical processes for risk analysis and exploration of risk reduction alternatives. This \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+22 
+ 
+spatial and non -spatial information integrated in modern geo -information systems can be 
+used to forecast flood hazards, estimate risk much more effectively, and moreover 
+communicate local concerns and capacities to the „higher ups‟. 
+ 
+Northeast Monsoon 2015 
+ 
+ Northeast Monsoon (October to December) season is the crucial period  during which 
+Chennai receive s up to 30 per cent of its annual rainfall. Unlike the spatially widespread 
+rainfall received during southwest m onsoon, rainfall during the  northeast monsoon is 
+sporadic.  However, over Chennai, the rainfall during northeast monsoon by far exceeds the 
+amount produced by southwest monsoon  by  up to 90 per cent. Normally, coastal districts of 
+Andhra Pradesh usually bear the brunt of heavy rains that occur during the northeas t 
+monsoon; with numerous river systems and wetlands, Pondicherry and eastern Tamil Nadu 
+are prone to flooding.  
+ Chennai city alone experienced five major floods between 1943 and 2005, with the 
+1943, 1978, 1985 and 2005 floods causing particularly severe d amage. Furthermore, 
+unplanned and often illegal urban development has led to many wetlands and natural sinks 
+being built over; this, along with ageing civic infrastructure and poorly designed drainage 
+systems, has resulted in an increased frequency of seve re flooding as was observed in 2015. 
+On 8 November 2015, a low pressure area developed into a depression and slowly intensified 
+into a deep depression before crossing the coast of Tamil Nadu near Pondicherry the 
+following day. Because of land interaction and high vertical wind shear, the system weakened 
+into a well -marked low pressure area over north Tamil Nadu on 10 November. The system 
+brought very heavy rainfall over the coastal and the north interior districts of Tamil Nadu. On 
+15 November, another well -marked low pressure area moved northwards along the Tamil 
+Nadu coast, pouring in heavy rainfall over the coastal Tamil Nadu and Andhra Pradesh with 
+24 hour totals peaking at 370 mm in Ponneri (near Chennai).  Chennai International Airport 
+recorded  266 mm of rainfall in 24 hours. On 28–29 November, yet another system developed 
+and ready to hit Tamil Nadu on 30 November, bringing exceptionally heavy rainfall and 
+subsequent flooding. The system dropped 490 mm of rainfall at Tambaram (southern  suburb 
+of Chennai) in 24 hours starting 8:30 am on 1 December. Very heavy rains led to flooding 
+across   the  entire stretch of the coast from Chennai to Cuddalore. 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+23 
+ 
+ Incessant rains led to low -lying areas of Chennai becoming inundated. The flooding 
+in Chennai city had worsened over the years by unplanned and illegal urban development, in 
+particular around the southern fringes and inadequate knowledge on flood preparedness. 
+Much of the city remained flooded on 17 November and 1-2 December (Refer photo showing 
+the flooded localities in Chennai), though rainfall had largely showed a declining trend by 
+then after 3 December. Chennai received 1,049 mm of rainfall in November 2015, the highest 
+recorded since November 1918 when 1,088 mm of rainfall was recorded. The flooding in  
+Chennai city was described as the worst in a century. The continued rains led to schools and 
+colleges remaining closed across Pondicherry and Chennai, Kancheepuram and Tiruvallur 
+districts in Tamil Nadu and fishermen were warned against sailing because of  high waters 
+and rough seas. 
+ 
+ 
+Figure 1: Flooded huts in Chennai  in December 2015  
+ 
+Adyar River – Reason for Flooding 
+A special note is essential to mention about the Adyar River as in the recent floods of 
+Chennai. It left many residents wondering about the flooding in areas that were usually not 
+inundated in the past. The reason is that the Chembarambakkam reservoir, which chiefly 
+contributed to floods in Adyar River, received the highest inflow in 100 years on December 1 
+2015, much more than the capacit y fixed based on flood data of 60 years. The reservoir‟s 
+capacity was improved in 1996 to handle an inflow of 33,400 cubic feet per second (cusecs). 
+This equals to nearly 10 lakh litres per second. Reliable sources say that the reservoir 
+received was more than 35,000 cusecs on the midnight of December 1. “If 35,000 cusecs 
+were released into the river, it would have only taken three hours for the flood. But, the 
+discharge was moderated to 29,400 cusecs that took six to nine hours for the flood water to 
+flow into the river. We could not have discharged lesser volume of water as the inflow was \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+24 
+ 
+beyond the reservoir‟s capacity to handle,” said the official source. Discharge is moderated 
+according to the inflow and the rainfall over the water body. Normally, the r eservoir‟s levels 
+are maintained two feet lower than the maximum level during the rainy season. This is to 
+accommodate stepping up storage when the inflow is less. Former officials recalled that the 
+reservoir was improved to discharge 21,000 cusecs in 1980 s and later to 33,400 cusecs. Even 
+weirs, structures that allow surplus water to flow automatically were converted into 
+regulators to moderate huge inflow of over 33,400 cusecs in 1996. 
+ The below figure depicts the inflow-outflow of the Chembarambakkam Lake between 
+10 November and 5 December 2015. This was the time when the reservoir received its record 
+rainfall as inflow and discharge as outflow as flood. This huge volume of water discharge has 
+resulted in the flooding of major portions of the southern Chennai and its environs. 
+ 
+ 
+Figure 2: Rainfall – Inflow - outflow (November-December 2015), Chembarambakkam Lake 
+ 
+Rainfall distribution  
+ Rainfall is an important variable that determines the nature of climate of a region. 
+Rainfall which is  so variable in s pace and time is highly disconnected over a given 
+geographical area. In spite of having the best historic rainfall data of rain gauge stations, the 
+representation is point based (rain gauge station) and not continuous. This discrete nature of 
+rainfall data  contributes to the  challenges in interpolation where rainfall is highly variable. 
+Inverse Distance Weighting (IDW) is one of the most successful techniques in understanding 
+the rainfall variability in a given space and has been used to map the rainfall distribution on 2 
+December 2015.  \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+25 
+ 
+ 
+ There are several studies which have been conducted using IDW method to assess the 
+rainfall distribution (Feng -Wen Chen, 2012) . Azpurua M  (2010) concluded that IDW 
+interpolation method is most likely to produce the best estimation of a continuous surface of 
+the  average  magnitude of electric field intensity. 
+ 
+S.No. Rainfall stations Rainfall (mm) 
+1 Tambaram 494 
+2 Chembarambakkam 475 
+3 Minambakkam 340 
+4 Poonamallee 336 
+5 Red hills 320 
+6 Anna University 319 
+7 Kolapakkam 310 
+8 Taramani 300 
+9 Nungambakkam 294 
+ 
+Table 1: Rainfall on 2  December 2015 over Chennai 
+ 
+ 
+ 
+Figure 3: Rainfall distribution on 2 December 2015 – Chennai city 
+ 
+ 
+ \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+26 
+ 
+ 
+ For the stations mentioned in the Table 1, rainfall was plotted as point data using  its 
+latitude and longitude. Then interpolation technique in ArcGIS was used to produce the 
+continuous rainfall distribution over Chennai Metropolitan Area (CMA). CMA boundary was 
+used to set the extent of the Chennai rainfall distribution pattern. It was evident from the 
+rainfall distribution map that the southern region, especially adjoining Chembarambakkam 
+and Tambaram had exceptional rainfall. Actually, the Chembarambakkam  rainfall station is 
+located within the Chembarambakkam Lake  area and is a clear i ndication of the  volume of 
+rainfall recorded.  
+Future course of action 
+ 
+ Monsoon rainfall in 2015 was exceptionally heavy and resulted in extensive flooding, 
+in particular the southern Chennai after the record volume of water release from 
+Chembarambakkam reservoir on 1 -2 December 2015. Published rainfall data covering 
+Chennai Metropolitan Area was populated with its rainfall and plotted its distribution across 
+Chennai geography using interpolation technique. This technique is useful in understanding 
+the extent of rainfall and its spread. The accuracy of this distribution improves w hen more 
+rain gauge stations data is available within the area of interest. 
+ As part of the recommendations, the following are suggested: 
+(a) Removal of encroachments and this has alr eady been initiated on a war footing along 
+the lakes and rivers passing through Chennai Metropolitan Area.  
+(b) Like a coastal regulation zone which extends up to 500 m high tidal line, a buffer zone 
+of 100-200 m should be identified on both the  river banks  to protect it as green zone 
+and to ensure limited human infrastructure. 
+(c) Development of parks and greeneries along the river banks help to check the soil 
+erosion and strengthen the bank.  
+(d) Flood plain zoning, which places restrictions on the use of land on f lood plains, can 
+reduce the cost of  flood damage.  This involves comprehensive urban land use 
+management with year on year updates to monitor the emergence of illegal 
+construction.  
+(e) An effective Early Warning System  is one that can issue warning in advance , i.e. 72 
+hrs, 48 hrs. and 24 hrs. or on hourly basis  (nowcast) during  periods of landfall of 
+cyclone. It can change the existing scenario substantially and facilitate informed 
+decision making in embracing proper measures towards disaster preparedness, \n BREEZE Vol.20(2) and Vol.21 (1) May  2021 
+27 
+ 
+mitigation, control, planning and management. This kind of advance warning can help 
+the authorities for better flood preparedness and also effective flood mitigation.  
+(f) Displaying the flood vulnerability maps at prominent locations (vulnerable locations) 
+would improve the knowledge level of the populace.  As a support to this, free digital 
+maps of each vulnerable communities/localities could be made available to the 
+community leaders to prepare their  neighbourhood.  
+(g) Spatial Vulnerability - For each river basi n and its sub -basin, a geospatial database 
+should be created. It would be possible to delineate the physical vulnerability of the 
+basin to flood  after geographical analysis . If the river basin or sub -basin is located 
+within or close to the city limit, then  it needs a regular preparation (1 -2 years period) 
+of the vulnerability. 
+(h) Social Vulnerability – After all, it is the community who face the brunt of the natural 
+calamity. It is very essential to know the vulnerable population ahead of  natural 
+disasters and knowing their spatial distribution help s to reach them early and 
+safeguard before it is too late. Gather demographic data at the smallest possible 
+administrative level on vulnerable population like children, women, aged, physically 
+challenged, unemployed and unschooled population . All form the socially vulnerable 
+group where it is essential to know their distribution across the space and take 
+necessary steps to rehabilitate them to safer locations  in advance. 
+ 
+********* 

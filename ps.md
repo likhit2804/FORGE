@@ -180,7 +180,7 @@ The event library must be generated from these real sources. It must not contain
 
 - Python 3.11+
 - FastAPI for the data and scoring backend
-- Streamlit for the fastest MVP interface, or React for a polished deployment
+- React and TypeScript with Vite for the user interface
 - pandas, NumPy, scikit-learn, GeoPandas, Shapely, rasterio, xarray, and rioxarray
 - SciPy for rank correlation and distance calculations
 - Leafmap, Folium, or Leaflet for maps

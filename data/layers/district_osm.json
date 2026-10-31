@@ -1,0 +1,739 @@
+{
+  "source": "OpenStreetMap contributors via Overpass API",
+  "source_url": "https://overpass-api.de/api/interpreter",
+  "license": "Open Database License (ODbL)",
+  "retrieved_at_utc": "2026-10-31T09:03:03+00:00",
+  "boundary_id": "IND-ADM2-76128533",
+  "method": "Query district bounding box; count unique road/waterway ways and amenity features whose OSM node or way centre lies inside the district polygon.",
+  "limitations": [
+    "OSM coverage is incomplete and uneven; counts are mapping proxies, not authoritative facility inventories.",
+    "Road-way counts are not road length or passability.",
+    "Waterway-way counts do not measure river proximity, flood extent, or drainage capacity.",
+    "Representative centres and district boundary geometry can omit features crossing polygon edges."
+  ],
+  "records": [
+    {
+      "district": "Ariyalur",
+      "road_way_count": 6918,
+      "waterway_way_count": 53,
+      "hospital_count": 33,
+      "clinic_count": 12,
+      "shelter_count": 0,
+      "school_count": 11,
+      "area_km2_approx": 1979.34,
+      "road_ways_per_100_km2": 349.51,
+      "waterway_ways_per_100_km2": 2.678,
+      "bbox_south_west_north_east": [
+        10.8827,
+        78.93942,
+        11.42087,
+        79.51425
+      ],
+      "osm_elements_returned": 26070
+    },
+    {
+      "district": "Sivaganga",
+      "road_way_count": 15598,
+      "waterway_way_count": 257,
+      "hospital_count": 144,
+      "clinic_count": 96,
+      "shelter_count": 9,
+      "school_count": 23,
+      "area_km2_approx": 4289.54,
+      "road_ways_per_100_km2": 363.628,
+      "waterway_ways_per_100_km2": 5.991,
+      "bbox_south_west_north_east": [
+        9.5199,
+        78.12671,
+        10.40845,
+        79.015
+      ],
+      "osm_elements_returned": 53320
+    },
+    {
+      "district": "Thanjavur",
+      "road_way_count": 41900,
+      "waterway_way_count": 530,
+      "hospital_count": 270,
+      "clinic_count": 185,
+      "shelter_count": 0,
+      "school_count": 68,
+      "area_km2_approx": 3449.13,
+      "road_ways_per_100_km2": 1214.799,
+      "waterway_ways_per_100_km2": 15.366,
+      "bbox_south_west_north_east": [
+        10.14012,
+        78.77872,
+        11.18321,
+        79.57428
+      ],
+      "osm_elements_returned": 88514
+    },
+    {
+      "district": "Tiruvannamalai",
+      "road_way_count": 27077,
+      "waterway_way_count": 116,
+      "hospital_count": 78,
+      "clinic_count": 34,
+      "shelter_count": 2,
+      "school_count": 30,
+      "area_km2_approx": 6204.2,
+      "road_ways_per_100_km2": 436.43,
+      "waterway_ways_per_100_km2": 1.87,
+      "bbox_south_west_north_east": [
+        11.98073,
+        78.63365,
+        12.87345,
+        79.75727
+      ],
+      "osm_elements_returned": 54824
+    },
+    {
+      "district": "Ramanathapuram",
+      "road_way_count": 11534,
+      "waterway_way_count": 100,
+      "hospital_count": 129,
+      "clinic_count": 81,
+      "shelter_count": 4,
+      "school_count": 26,
+      "area_km2_approx": 4088.03,
+      "road_ways_per_100_km2": 282.141,
+      "waterway_ways_per_100_km2": 2.446,
+      "bbox_south_west_north_east": [
+        9.08707,
+        78.21254,
+        9.94663,
+        79.53991
+      ],
+      "osm_elements_returned": 20340
+    },
+    {
+      "district": "Tirunelveli",
+      "road_way_count": 24213,
+      "waterway_way_count": 471,
+      "hospital_count": 240,
+      "clinic_count": 121,
+      "shelter_count": 3,
+      "school_count": 80,
+      "area_km2_approx": 3799.96,
+      "road_ways_per_100_km2": 637.192,
+      "waterway_ways_per_100_km2": 12.395,
+      "bbox_south_west_north_east": [
+        8.14275,
+        77.17399,
+        8.96294858300007,
+        77.97757
+      ],
+      "osm_elements_returned": 46770
+    },
+    {
+      "district": "Virudhunagar",
+      "road_way_count": 12918,
+      "waterway_way_count": 229,
+      "hospital_count": 149,
+      "clinic_count": 50,
+      "shelter_count": 2,
+      "school_count": 52,
+      "area_km2_approx": 4300.81,
+      "road_ways_per_100_km2": 300.362,
+      "waterway_ways_per_100_km2": 5.325,
+      "bbox_south_west_north_east": [
+        9.20002,
+        77.34124,
+        9.78622,
+        78.41907
+      ],
+      "osm_elements_returned": 18968
+    },
+    {
+      "district": "Thiruvarur",
+      "road_way_count": 14440,
+      "waterway_way_count": 597,
+      "hospital_count": 99,
+      "clinic_count": 94,
+      "shelter_count": 0,
+      "school_count": 17,
+      "area_km2_approx": 2289.74,
+      "road_ways_per_100_km2": 630.639,
+      "waterway_ways_per_100_km2": 26.073,
+      "bbox_south_west_north_east": [
+        10.27249,
+        79.26818,
+        11.01708,
+        79.77708
+      ],
+      "osm_elements_returned": 36792
+    },
+    {
+      "district": "Salem",
+      "road_way_count": 41914,
+      "waterway_way_count": 169,
+      "hospital_count": 365,
+      "clinic_count": 128,
+      "shelter_count": 9,
+      "school_count": 123,
+      "area_km2_approx": 5264.31,
+      "road_ways_per_100_km2": 796.192,
+      "waterway_ways_per_100_km2": 3.21,
+      "bbox_south_west_north_east": [
+        11.31521,
+        77.65001,
+        11.97617,
+        78.8454
+      ],
+      "osm_elements_returned": 76499
+    },
+    {
+      "district": "Madurai",
+      "road_way_count": 31555,
+      "waterway_way_count": 736,
+      "hospital_count": 251,
+      "clinic_count": 88,
+      "shelter_count": 50,
+      "school_count": 58,
+      "area_km2_approx": 3722.89,
+      "road_ways_per_100_km2": 847.595,
+      "waterway_ways_per_100_km2": 19.77,
+      "bbox_south_west_north_east": [
+        9.56395,
+        77.46496,
+        10.30117,
+        78.47687
+      ],
+      "osm_elements_returned": 53390
+    },
+    {
+      "district": "Perambalur",
+      "road_way_count": 6839,
+      "waterway_way_count": 48,
+      "hospital_count": 62,
+      "clinic_count": 29,
+      "shelter_count": 0,
+      "school_count": 5,
+      "area_km2_approx": 1742.02,
+      "road_ways_per_100_km2": 392.59,
+      "waterway_ways_per_100_km2": 2.755,
+      "bbox_south_west_north_east": [
+        11.05805,
+        78.63094,
+        11.5208,
+        79.14554
+      ],
+      "osm_elements_returned": 11640
+    },
+    {
+      "district": "Namakkal",
+      "road_way_count": 31142,
+      "waterway_way_count": 57,
+      "hospital_count": 122,
+      "clinic_count": 29,
+      "shelter_count": 2,
+      "school_count": 98,
+      "area_km2_approx": 3430.3,
+      "road_ways_per_100_km2": 907.852,
+      "waterway_ways_per_100_km2": 1.662,
+      "bbox_south_west_north_east": [
+        11.01203,
+        77.68409,
+        11.59478,
+        78.48723
+      ],
+      "osm_elements_returned": 52699
+    },
+    {
+      "district": "Cuddalore",
+      "road_way_count": 44607,
+      "waterway_way_count": 543,
+      "hospital_count": 90,
+      "clinic_count": 72,
+      "shelter_count": 5,
+      "school_count": 123,
+      "area_km2_approx": 3712.35,
+      "road_ways_per_100_km2": 1201.584,
+      "waterway_ways_per_100_km2": 14.627,
+      "bbox_south_west_north_east": [
+        11.1505,
+        78.87628,
+        11.90445,
+        79.81348
+      ],
+      "osm_elements_returned": 72646
+    },
+    {
+      "district": "Pudukkottai",
+      "road_way_count": 45422,
+      "waterway_way_count": 368,
+      "hospital_count": 94,
+      "clinic_count": 38,
+      "shelter_count": 0,
+      "school_count": 21,
+      "area_km2_approx": 4705.36,
+      "road_ways_per_100_km2": 965.326,
+      "waterway_ways_per_100_km2": 7.821,
+      "bbox_south_west_north_east": [
+        9.84748,
+        78.45016,
+        10.73344,
+        79.26714
+      ],
+      "osm_elements_returned": 71457
+    },
+    {
+      "district": "Vellore",
+      "road_way_count": 15501,
+      "waterway_way_count": 66,
+      "hospital_count": 83,
+      "clinic_count": 52,
+      "shelter_count": 12,
+      "school_count": 41,
+      "area_km2_approx": 2160.76,
+      "road_ways_per_100_km2": 717.386,
+      "waterway_ways_per_100_km2": 3.054,
+      "bbox_south_west_north_east": [
+        12.627714574000038,
+        78.59414,
+        13.09909,
+        79.28315288500005
+      ],
+      "osm_elements_returned": 23099
+    },
+    {
+      "district": "Chennai",
+      "road_way_count": 30188,
+      "waterway_way_count": 38,
+      "hospital_count": 492,
+      "clinic_count": 329,
+      "shelter_count": 70,
+      "school_count": 402,
+      "area_km2_approx": 176.46,
+      "road_ways_per_100_km2": 17107.703,
+      "waterway_ways_per_100_km2": 21.535,
+      "bbox_south_west_north_east": [
+        12.96704,
+        80.18339,
+        13.1489,
+        80.3101
+      ],
+      "osm_elements_returned": 39974
+    },
+    {
+      "district": "Thoothukkudi",
+      "road_way_count": 18689,
+      "waterway_way_count": 209,
+      "hospital_count": 200,
+      "clinic_count": 106,
+      "shelter_count": 8,
+      "school_count": 86,
+      "area_km2_approx": 4778.48,
+      "road_ways_per_100_km2": 391.108,
+      "waterway_ways_per_100_km2": 4.374,
+      "bbox_south_west_north_east": [
+        8.32272,
+        77.67418,
+        9.3724,
+        78.39015
+      ],
+      "osm_elements_returned": 33109
+    },
+    {
+      "district": "Krishnagiri",
+      "road_way_count": 31608,
+      "waterway_way_count": 131,
+      "hospital_count": 70,
+      "clinic_count": 32,
+      "shelter_count": 14,
+      "school_count": 103,
+      "area_km2_approx": 5038.39,
+      "road_ways_per_100_km2": 627.344,
+      "waterway_ways_per_100_km2": 2.6,
+      "bbox_south_west_north_east": [
+        12.1371,
+        77.47366,
+        12.88876,
+        78.67308
+      ],
+      "osm_elements_returned": 100522
+    },
+    {
+      "district": "Coimbatore",
+      "road_way_count": 90525,
+      "waterway_way_count": 407,
+      "hospital_count": 394,
+      "clinic_count": 108,
+      "shelter_count": 9,
+      "school_count": 305,
+      "area_km2_approx": 4721.77,
+      "road_ways_per_100_km2": 1917.182,
+      "waterway_ways_per_100_km2": 8.62,
+      "bbox_south_west_north_east": [
+        10.21836,
+        76.65844,
+        11.40656,
+        77.29951
+      ],
+      "osm_elements_returned": 127659
+    },
+    {
+      "district": "Ranipet",
+      "road_way_count": 16306,
+      "waterway_way_count": 112,
+      "hospital_count": 41,
+      "clinic_count": 18,
+      "shelter_count": 18,
+      "school_count": 37,
+      "area_km2_approx": 1991.24,
+      "road_ways_per_100_km2": 818.886,
+      "waterway_ways_per_100_km2": 5.625,
+      "bbox_south_west_north_east": [
+        12.62838,
+        79.16094083600007,
+        13.20939,
+        79.79017
+      ],
+      "osm_elements_returned": 32628
+    },
+    {
+      "district": "Chengalputtu",
+      "road_way_count": 35349,
+      "waterway_way_count": 137,
+      "hospital_count": 94,
+      "clinic_count": 86,
+      "shelter_count": 23,
+      "school_count": 52,
+      "area_km2_approx": 1751.49,
+      "road_ways_per_100_km2": 2018.226,
+      "waterway_ways_per_100_km2": 7.822,
+      "bbox_south_west_north_east": [
+        12.531089085000076,
+        79.56006,
+        13.05838,
+        80.19774
+      ],
+      "osm_elements_returned": 86956
+    },
+    {
+      "district": "Kallakurichi",
+      "road_way_count": 15363,
+      "waterway_way_count": 91,
+      "hospital_count": 61,
+      "clinic_count": 14,
+      "shelter_count": 0,
+      "school_count": 23,
+      "area_km2_approx": 3252.91,
+      "road_ways_per_100_km2": 472.285,
+      "waterway_ways_per_100_km2": 2.797,
+      "bbox_south_west_north_east": [
+        11.50353,
+        78.62747,
+        12.06787,
+        79.46648
+      ],
+      "osm_elements_returned": 28905
+    },
+    {
+      "district": "Mayiladuthurai",
+      "road_way_count": 10727,
+      "waterway_way_count": 181,
+      "hospital_count": 49,
+      "clinic_count": 33,
+      "shelter_count": 0,
+      "school_count": 17,
+      "area_km2_approx": 1176.99,
+      "road_ways_per_100_km2": 911.396,
+      "waterway_ways_per_100_km2": 15.378,
+      "bbox_south_west_north_east": [
+        10.95881,
+        79.51061,
+        11.41907,
+        79.85853
+      ],
+      "osm_elements_returned": 18826
+    },
+    {
+      "district": "Tenkasi",
+      "road_way_count": 9320,
+      "waterway_way_count": 192,
+      "hospital_count": 118,
+      "clinic_count": 57,
+      "shelter_count": 0,
+      "school_count": 29,
+      "area_km2_approx": 2887.15,
+      "road_ways_per_100_km2": 322.81,
+      "waterway_ways_per_100_km2": 6.65,
+      "bbox_south_west_north_east": [
+        8.73979435900003,
+        77.14992,
+        9.41864,
+        77.7466
+      ],
+      "osm_elements_returned": 17077
+    },
+    {
+      "district": "Tiruchirappalli",
+      "road_way_count": 37882,
+      "waterway_way_count": 249,
+      "hospital_count": 203,
+      "clinic_count": 61,
+      "shelter_count": 1,
+      "school_count": 98,
+      "area_km2_approx": 4535.49,
+      "road_ways_per_100_km2": 835.236,
+      "waterway_ways_per_100_km2": 5.49,
+      "bbox_south_west_north_east": [
+        10.29415,
+        78.16565,
+        11.40501,
+        79.01526
+      ],
+      "osm_elements_returned": 86697
+    },
+    {
+      "district": "Tiruppur",
+      "road_way_count": 45094,
+      "waterway_way_count": 288,
+      "hospital_count": 124,
+      "clinic_count": 59,
+      "shelter_count": 1,
+      "school_count": 45,
+      "area_km2_approx": 5210.05,
+      "road_ways_per_100_km2": 865.52,
+      "waterway_ways_per_100_km2": 5.528,
+      "bbox_south_west_north_east": [
+        10.23099,
+        77.04776,
+        11.35107,
+        77.8918
+      ],
+      "osm_elements_returned": 103739
+    },
+    {
+      "district": "Theni",
+      "road_way_count": 10411,
+      "waterway_way_count": 642,
+      "hospital_count": 153,
+      "clinic_count": 111,
+      "shelter_count": 6,
+      "school_count": 4,
+      "area_km2_approx": 2870.43,
+      "road_ways_per_100_km2": 362.698,
+      "waterway_ways_per_100_km2": 22.366,
+      "bbox_south_west_north_east": [
+        9.5193,
+        77.16795,
+        10.21647,
+        77.73007
+      ],
+      "osm_elements_returned": 17653
+    },
+    {
+      "district": "Dindigul",
+      "road_way_count": 34739,
+      "waterway_way_count": 368,
+      "hospital_count": 120,
+      "clinic_count": 40,
+      "shelter_count": 1,
+      "school_count": 77,
+      "area_km2_approx": 6108.19,
+      "road_ways_per_100_km2": 568.728,
+      "waterway_ways_per_100_km2": 6.025,
+      "bbox_south_west_north_east": [
+        10.01921,
+        77.26828,
+        10.8344,
+        78.33824
+      ],
+      "osm_elements_returned": 54020
+    },
+    {
+      "district": "Karur",
+      "road_way_count": 15263,
+      "waterway_way_count": 61,
+      "hospital_count": 82,
+      "clinic_count": 42,
+      "shelter_count": 0,
+      "school_count": 16,
+      "area_km2_approx": 2915.65,
+      "road_ways_per_100_km2": 523.485,
+      "waterway_ways_per_100_km2": 2.092,
+      "bbox_south_west_north_east": [
+        10.54812,
+        77.7504,
+        11.09517,
+        78.58684
+      ],
+      "osm_elements_returned": 28002
+    },
+    {
+      "district": "Dharmapuri",
+      "road_way_count": 12307,
+      "waterway_way_count": 41,
+      "hospital_count": 86,
+      "clinic_count": 38,
+      "shelter_count": 2,
+      "school_count": 48,
+      "area_km2_approx": 4666.68,
+      "road_ways_per_100_km2": 263.721,
+      "waterway_ways_per_100_km2": 0.879,
+      "bbox_south_west_north_east": [
+        11.77311,
+        77.67452,
+        12.55088,
+        78.74777
+      ],
+      "osm_elements_returned": 32171
+    },
+    {
+      "district": "Nagapattinam",
+      "road_way_count": 10629,
+      "waterway_way_count": 134,
+      "hospital_count": 31,
+      "clinic_count": 8,
+      "shelter_count": 0,
+      "school_count": 4,
+      "area_km2_approx": 1409.26,
+      "road_ways_per_100_km2": 754.227,
+      "waterway_ways_per_100_km2": 9.509,
+      "bbox_south_west_north_east": [
+        10.27265,
+        79.6118,
+        10.93544,
+        79.88392
+      ],
+      "osm_elements_returned": 17341
+    },
+    {
+      "district": "Viluppuram",
+      "road_way_count": 19677,
+      "waterway_way_count": 108,
+      "hospital_count": 88,
+      "clinic_count": 40,
+      "shelter_count": 5,
+      "school_count": 83,
+      "area_km2_approx": 4001.99,
+      "road_ways_per_100_km2": 491.681,
+      "waterway_ways_per_100_km2": 2.699,
+      "bbox_south_west_north_east": [
+        11.781168,
+        78.99485,
+        12.45053,
+        80.00938
+      ],
+      "osm_elements_returned": 59167
+    },
+    {
+      "district": "Kancheepuram",
+      "road_way_count": 61530,
+      "waterway_way_count": 84,
+      "hospital_count": 351,
+      "clinic_count": 324,
+      "shelter_count": 39,
+      "school_count": 209,
+      "area_km2_approx": 2736.14,
+      "road_ways_per_100_km2": 2248.792,
+      "waterway_ways_per_100_km2": 3.07,
+      "bbox_south_west_north_east": [
+        12.22991,
+        79.64496,
+        13.02969,
+        80.26667
+      ],
+      "osm_elements_returned": 105231
+    },
+    {
+      "district": "Kanniyakumari",
+      "road_way_count": 17596,
+      "waterway_way_count": 311,
+      "hospital_count": 177,
+      "clinic_count": 17,
+      "shelter_count": 43,
+      "school_count": 78,
+      "area_km2_approx": 1735.77,
+      "road_ways_per_100_km2": 1013.73,
+      "waterway_ways_per_100_km2": 17.917,
+      "bbox_south_west_north_east": [
+        8.0769,
+        77.09636,
+        8.58077,
+        77.59198
+      ],
+      "osm_elements_returned": 25319
+    },
+    {
+      "district": "Erode",
+      "road_way_count": 24523,
+      "waterway_way_count": 140,
+      "hospital_count": 368,
+      "clinic_count": 124,
+      "shelter_count": 0,
+      "school_count": 37,
+      "area_km2_approx": 5790.49,
+      "road_ways_per_100_km2": 423.505,
+      "waterway_ways_per_100_km2": 2.418,
+      "bbox_south_west_north_east": [
+        11.02264,
+        76.83781,
+        11.95445,
+        77.93284
+      ],
+      "osm_elements_returned": 124748
+    },
+    {
+      "district": "The Nilgiris",
+      "road_way_count": 6472,
+      "waterway_way_count": 313,
+      "hospital_count": 67,
+      "clinic_count": 28,
+      "shelter_count": 12,
+      "school_count": 65,
+      "area_km2_approx": 2478.59,
+      "road_ways_per_100_km2": 261.116,
+      "waterway_ways_per_100_km2": 12.628,
+      "bbox_south_west_north_east": [
+        11.18863,
+        76.23387,
+        11.67299,
+        77.01849
+      ],
+      "osm_elements_returned": 23239
+    },
+    {
+      "district": "Tirupathur",
+      "road_way_count": 9891,
+      "waterway_way_count": 41,
+      "hospital_count": 88,
+      "clinic_count": 63,
+      "shelter_count": 0,
+      "school_count": 13,
+      "area_km2_approx": 1951.32,
+      "road_ways_per_100_km2": 506.888,
+      "waterway_ways_per_100_km2": 2.101,
+      "bbox_south_west_north_east": [
+        12.2589,
+        78.40838,
+        12.916072100000065,
+        78.92573955300008
+      ],
+      "osm_elements_returned": 15831
+    },
+    {
+      "district": "Thiruvallur",
+      "road_way_count": 61301,
+      "waterway_way_count": 151,
+      "hospital_count": 168,
+      "clinic_count": 98,
+      "shelter_count": 51,
+      "school_count": 129,
+      "area_km2_approx": 3400.52,
+      "road_ways_per_100_km2": 1802.696,
+      "waterway_ways_per_100_km2": 4.441,
+      "bbox_south_west_north_east": [
+        12.94755,
+        79.28617,
+        13.56335,
+        80.3466
+      ],
+      "osm_elements_returned": 132183
+    }
+  ],
+  "errors": []
+}

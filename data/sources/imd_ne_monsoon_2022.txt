@@ -1,0 +1,1289 @@
+ 
+ 
+Government of India 
+Earth System Science Organisation 
+Ministry of Earth Sciences 
+India Meteorological Department 
+ 
+IMD Chennai Scientific Report No. IMDC-SR/14 
+Report on Northeast Monsoon – 2022 
+                  
+ 
+Regional Meteorological Centre, Chennai 
+March 2023 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 1 
+ 
+ 
+Table of Contents 
+1.  Background          4 
+2. Onset phase          4 
+3. Major synoptic scale systems during the NEM 2022 season   18  
+4.  Sub divisional rainfall performance during NEM 2022    43 
+4.1  Seasonal rainfall         43 
+4.2  Monthly, Weekly & Daily rainfall scenario     44 
+4.3  Monsoon activity & heavy rainfall events      49 
+4.4 District rainfall scenario 50 
+5.  Rainfall distribution over Tamil Nadu and Puducherry    53 
+6. Standardised Precipitation Index       56 
+7.  Large & Regional scale circulation features     57 
+8. Cessation of NEM rains over peninsular India    63  
+8.  Summary           64 
+Acknowledgements          64 
+Appendices           65 
+ 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 2 
+ 
+Executive Summary 
+1 Document title Report of Northeast Monsoon – 2022 
+2 Document type Scientific Report 
+3 Issue No. IMDC-SR/14 
+4 Issue Date March  2023 
+5 Security Classification Unclassified 
+6 Control Status Unclassified 
+7 No. of pages 60 
+8 No. of Figures 55 
+9 No. of Tables 10 
+10 Appendix (i)-(iii) 
+11 No. of references -- 
+12 Annexure -- 
+13 Distribution Unrestricted 
+14 Language English 
+15 Authors B.Geetha, K.Ramesh, R.V. Deepa, Y.P.Mourya, 
+S.Balachandran, P.Senthamarai Kannan, K. Santosh, 
+S.Stella, Geeta Agnihotri and K. Nagaratna 
+16 Authors’ affiliation India Meteorological Department, Chennai 
+17 Originating group Research Section, Regional Meteorological Centre, 
+India Meteorological Department, Chennai 
+18 Reviewing & Approving authority Head, Regional Meteorological Centre,  
+India Meteorological Department, Chennai 
+19 End users State Agriculture department, State disaster 
+management authorities, Press &media, Researchers 
+and general public 
+20 Abstract Given in page 3 
+21 Key words Northeast monsoon, Southern India, Rainfall 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 3 
+ 
+Abstract 
+During the year 202 2, the southwest monsoon withdrew from the Indian region on 2 3rd 
+October and the Northeast monsoon (NEM) of 202 2 commenced over the southeastern parts 
+of peninsular India on 2 9th October against the normal date of 20 th October. All the five 
+meteorological sub divisions ben efitted by the NEM [Tamil Nadu  (including Puducherry & 
+Karaikal), Coastal Andhra Pradesh (CAP) , Rayalaseema (RYS),  Kerala (KER), and South 
+Interior Karnataka (SIK)] received normal to excess  rainfall during the NEM season 
+(October-December).There were 18 days of active to vigorous monsoon conditions over TN, 
+SIK & KER during the season. There were 51 days of isolated heavy rainfall activity with 20 
+days of isolated very heavy  rain including 0 4 days of isolated extremely heavy rainfall  
+activity over TN.  Two cyclones, two depressions & one well marked low  were the major 
+synoptic systems that formed over the Bay of Bengal during the season. The Cyclonic storm 
+(CS) ‘Sitrang’ over the Bay of Bengal during 22 nd-25th October moved northwards and 
+crossed Bangladesh coast and delayed the commencement of the NEM. The Severe Cyclonic 
+Storm (SCS) ‘Mandous’ over the Bay of Bengal during 06 th-10th December crossed coast 
+close the Mamallapuram (north Tamilnadu) around the midnight of 09 th December as a 
+cyclonic storm with maximum sustained surface wind speed of 65-75 kmph gusting to 85 
+kmph. Associated with the passage of this system, very heavy to extremely heavy  rainfall 
+occurred over the extreme north Tamilnadu and adjoining Rayalaseema with Vembakkam 
+(Thiruvannamalai district, TN), Srikalahasti (Chittoor  district, RYS)  & Thottambedu 
+(Chittoor district, RYS) reporting 25 cm, 23 cm & 22 cm  respectively during the 24 -hour 
+ending 0830 IST of 10 th December. Two Depressions that formed over the Bay of Bengal – 
+one in November (20th-22nd) and another in December  (22nd-25th) did not contribute 
+significantly to NEM rainfall over the peninsular India.  Whereas the 20 th-22nd November 
+Depression weakened off North Tamilnadu coast, the Depression during 22nd-25th December 
+crossed Sri Lanka coast, and weakened gradually.  However, associated with the passage of a 
+Well marked Low pressure area (WML) during 09th-13th November, isolated heavy to very 
+heavy/ extremely heavy rainfall occurred during 12 th-16th November with Sirkazhi 
+(Mayiladuthurai district) reporting 44 cm of rain followed by Kollidam (Mayiladuthurai 
+district): 32 cm , Chidambaram (Cuddalore district): 31 cm , Annamalai nagar (Cuddalore 
+district): 28 cm & Bhuvanagiri (Cuddalore district): 21 cm during the 24-hr ending 0830 IST 
+of 12th November. Under the influenc e of this event, the seasonal rainfall of TN which was 
+‘minus 4%’ on 10th November rose to ‘plus 15%’ on 17 th November. After the Depression 
+during last week of December, with the gradual decrease in rainfall activity, the cessation of 
+NEM 2022 rainfall over peninsular India was declared on 12.01.2023. 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 4 
+ 
+1.  Background 
+The Indian southwest monsoon (SWM) season of June to September is the chief rainy 
+season for India and  about 75% of the country’s annual rainfall is realis ed during this season. 
+Subsequent to the withdrawal of SWM, the northeast monsoon (NEM), a small scale monsoon 
+confined to parts of southern peninsular India comprising of the meteorological sub -divisions of 
+Tamil Nadu, Puducherry & Karaikal  (TN), Kerala & Mahe (KER), Coastal Andhra Pradesh & 
+Yanam (CAP), Rayalaseema (RYS) and South Interior Karnataka (SIK)  occurs. For the 
+subdivision of TN, the normal SWM seasonal rainfall realised is only about 3 6% (336.1 mm) of 
+its annual rainfall (939.3 mm) as this subdivision comes under the rain-shadow region during the 
+SWM. The northeast monsoon (NEM) season of October to December (OND) is the chief rainy 
+season for this subdivision with 48% (443.3 mm) of its annual rainfall realised during this season 
+and hence its performance is a key factor for this regional agricultural activity. 
+Further, the NEM season is also the primary cyclone season for the North Indian Ocean 
+(NIO) basin comprising of the Bay of Bengal (BOB) and the Arabian Sea (AS) and cyclonic 
+disturbances (CDs; low pressure systems (LPS) with maximum sustained surface wind speed 
+(MSW) of 17 knots or more) forming over BOB and moving west/northwest -wards affect the 
+coastal areas of southeastern peninsular India and also contribute significantly to NEM rainfall. 
+As such, the NEM season assumes importance from the agricultural as well as cyclone disaster 
+management perspectives.  
+Prior to the commencement of NEM rains, after the withdrawal of SWM upto 15°N, 
+reversal of low  level winds from southwesterly to northeasterly occurs. The normal date of 
+setting in of easterlies over the southeastern peninsular India is 14th October.  The normal date of 
+onset of NEM over Coastal TN (CTN) and south CAP is 20 th October. The normal rainfall 
+received over the five NEM su b-divisions during OND is TN -443.3 mm, KER-492.0 mm, CAP-
+322.9 mm, RYS-236.4 mm and SIK -199.0 mm.  However, the NEM seasonal rainfall shows a 
+high degree of variability with 27% co-efficient of variation.  
+The NEM rainfall is influenced by global climate parameters such as ENSO  (El Nino/La 
+Nina & Southern Oscillation Index) , Indian Ocean Dipole (IOD)  and Madden-Julian Oscillation 
+(MJO). El Nino, positive IOD and MJO in phase 2-4 with amplitude greater than one are 
+generally associated with good NEM rainfall.   
+2. Onset phase 
+During October 2022, La Nina conditions prevailed over the equatorial Pacific Ocean and 
+IOD was negative during the start season (October). MJO was insignificant during the first half 
+of the month and was in phase-6-7 the later half of the month .  As such, large scale setting  was 
+not favourable for NEM activity and commencement of NEM over the southern peninsular India 
+was delayed.   
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 5 
+ 
+(i) Pre-onset phase (Extended southwest monsoon): Under La Nina conditions, and favourable 
+synoptic situations such as (i ) formation of a low pressure area (LOPAR) over the wes tcentral 
+Bay of Bengal off Andh ra Pradesh  coast during 03 rd-04th October (ii) formation of Cyclonic 
+Storm (CS) ‘ Sitrang’ over the Bay of Bengal and its northward movement towards Bangladesh 
+coast during 22nd-24th October, (iii) formation of upper air cyclonic circulations over the Bay of 
+Bengal and their westward movement across peninsular India & (iv) east -west shear zone across 
+peninsular India in the lower tropospheric levels  - extended the southwest monsoon over the 
+Indian region upto 23rd October 2022. 
+Associated with the LOPAR  over Bay of Bengal during 03 rd-04th October and its subsequent 
+movement inland, widespread rainfall occurred over CAP, RYS & Telangana (TEL) during the 
+24-hr ending 0830 IST of 06 th & 07th October with isolated heavy to very heavy rain  over CAP 
+on 05th & 06th & over RYS on 07 th October. Isolated heavy rain occurred over TEL on 06 th & 
+07th; over RYS on 06 th & over CAP on 07 th October. Active to Vigorous  monsoon conditio ns 
+prevailed over CAP, RYS & TEL on 06th & 07th October. Surface isobaric analysis and upper air 
+streamline analysis based on 0830 IST & 0530 IST respectively in respect of 04 th & 05th October 
+depicting the LOPAR over Bay of Bengal  and its movement inland are presented in Fig.1a(i).  
+INSAT-3D satellite imagery as on 0 5th/2000 IST & 0 6th /1500 IST depicting the cloudiness 
+associated with the system  are shown in Fig.1a(ii) and  gauge observed 24 -hour accumulated 
+rainfall over CAP , RYS  & TEL as on 0830 IST of 06 th & 07th October 2022 are presented in 
+Fig.1a(iii). 
+Associated with (i) an upper air cyclonic circulation  over southwest Bay of Bengal off Sri Lanka 
+coast on 09th October that moved across TN, KER & Comorin area during 10 th-13th October (ii) 
+an upper air cyclonic circulation over westcentral Bay of Bengal off south Andhra Pradesh & 
+north Tamilnadu coasts & another cylonic circulation over southeast Arabian sea off Karnataka -
+Kerala coast during 13th-15th October [Fig.1b(i)]and (iii) east-west shear zone in the lower levels 
+across TN-KER during 16 th-23rd October rainfall activity continued over the southern peninsula 
+during 09th-22nd October. Fairly widespread to Widespread rainfall occurred on many days over 
+interior Karnataka &  Tamilnadu during 09 th-22nd and over Kerala & Coastal Karnataka during 
+14th-22nd October 2022. Fig.1b(ii) presents the satellite imageries as on 09 /0530 IST, 10/0530 
+IST, 13/2100 IST & 16/2100 IST depicting the cloudiness associated with the extended 
+southwest monsoon, 2022  over the southern peninsula . Fig.1b(iii) presents the past 24 -hour 
+rainfall distribution and intensity as on 0830 IST of 10 th, 11th & 15th October 2022 depicting the 
+extended southwest monsoon activity over the southern peninsula. 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 6 
+ 
+ 
+ 
+Fig.1a(i): Surface isobaric analysis based on 0830 IST and upper air (lower-mid levels) 
+streamline analysis based  on 0530 IST observations of 04th & 05th October 2022 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 7 
+ 
+ 
+ 
+Fig.1a(i) contd. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 8 
+ 
+   
+    
+Fig.1a(ii): INSAT-3D infra-red imagery as on 05.10.2022/2000 IST & 06.10.2022/1500 IST 
+   
+Fig.1a(iii): Accumulated rainfall (based on gauge observed data) over CAP, RYS & TEL 
+during the 24-hr ending 0830 IST of 06th & 07th October. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 9 
+ 
+ 
+ 
+Fig.1b(i): Surface isobaric analysis based on 0830 IST and upper air (lower -mid levels) 
+streamline analysis based  on 0530 IST observations of 14th October 2022 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 10 
+ 
+  
+   
+   
+Fig.1b(ii): Satellite infra -red imageries as on 09 /0530 IST, 10/0530 IST, 13/2100 IST & 
+16/2100 IST depicting the cloudiness over the southern peninsula during the extended 
+southwest monsoon, 2022. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 11 
+ 
+   
+ 
+Fig.1b(iii) Rainfall distribution over southern peninsular India during the 24 -hr ending 
+0830 IST of 10th, 11th & 15th October 2022 
+Subsequently with the formation of CS ‘SITRANG’ on 22nd October and its northward movement 
+towards Bangaladesh coast, rainfall activity decreased drastically over the Indian region and the 
+southwest monsoon withdrew from the Indian region on 23 rd October a nd gradually, the flow 
+pattern reversed to easterlies in the lower levels around 28 th October leading to commencement 
+of northeast monsoon rains over coastal Tamilnadu and adjoining south coastal Andhra Pradesh 
+on 29 th October 2022. Pentad mean wind flow p attern depicting the reversal of wind from 
+westerlies to easterlies during the end of October 2022 are presented in Fig.1c. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 12 
+ 
+ 
+ 
+Fig.1c: NCEP reanalysis 850 hPa streamline pattern indicating reversal wind from westerly 
+to easterly over peninsular India during the pentad 28th Oct -01st Nov 2022. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 13 
+ 
+(ii) Commencement of NEM rains: With the setting in of northeasterly winds and under the 
+influence of a cyclonic circulation over southwest Bay of Bengal and adjoining Sri Lanka in the 
+lower tropospheric levels,  NEM rains commenced over the coastal Tamilnadu, Puducherry & 
+Karaikal and adjoining south Andhra Pradesh  on 29th October 2022. With a cyclonic circulation 
+in the lower tropospheric levels laying over the southwest Bay of Bengal and adjoining Kerala 
+during 30th & 31st October and its gradual movement of the across TN & KER during 01 st-05th 
+November, rainfall activity over the NEM subdivis ions increased.  Fairly widespread  / 
+widespread rainfall occurred over TN on many days during 30 th October to 05 th November and 
+over Kerala during 01 st-07th November. In TN, isolated heavy to very heavy  rain occurred on 
+01st, 02nd & 04th and isolated heavy to very heavy rainfall with extremely heavy rain at one or two 
+places occurred on 03rd November. Isolated heavy to very heavy  rain occurred over KER on 04 th 
+& 05th November. Isolated heavy rain also occurred over KER & CAP on 01 st; over CAP, RYS 
+& SIK on 02nd; over KER on 03 rd; over TN on 05 th & 06th; and over KER on 07 th November. 
+Active monsoon conditions prevailed over TN & RYS on 02 nd and over TN & KER on 03 rd 
+November 2022. 
+In TN, Sirkali in Mayiladuthurai district recorded extremely heavy rainfall of 22 cm during 
+the 24-hr ending 0830 IST of  03rd November; very heavy rainfall was recorded in Tiruvallur 
+(Red Hills: 13 cm) & Chennai (Perambur: 12 cm) districts on 01st; Tiruvallur (Avadi: 17 cm; 
+Ponneri: 16 cm; Red Hills & Gummidipoondi : 14 cm each; Ambathur & Villivakkam : 13 cm 
+each),  Chennai (Perambur & Collectorate office: 17 cm each; Sholinganallur, MGR Nagar , 
+Nungambakkam & Ayanavaram : 13 cm each; Anna University : 12 cm),  Kancheepuram 
+(Kattukuppam Arg: 16 cm) and  Chengalpattu (Cheyyur : 13 cm) districts on 02nd; Thanjavur 
+(Thanjavur: 18 cm, Thanjavur PTO : 12 cm),  Mayiladuthurai (Kollidam: 16 cm)  and 
+Cuddalore (Chidambaram : 15 cm, Sethiathope & Chidambaram Aws : 13 cm  each, Annamalai 
+Nagar & Parangipettai 12 cm each) districts on 03rd;  Chennai (Tondaiyarpet: 14 cm, DGP 
+office: 12 cm) & Coimbatore (Mettupalayam: 12 cm) districts on 04th November 2022. 
+In KER, very heavy rainfall of 13 cm was recorded in Idukki (Peermade AWS) district on 04th 
+and at Kottayam on 05th. 
+Surface isobaric analysis and  upper air streamline analysis (lower -mid levels) as on 0830 IST & 
+0530 IST respectively in respect of 01st & 02nd November depicting the cyclonic circulation over 
+southwest Bay of Bengal moving inland are presented in Fig.2a(i); satellite infra-red imageries as 
+on 30 Oct /1530 IST, 01 Nov /0500 IST & 03 Nov /0530 IST depicting the cloudiness associated 
+with intense rainfall activity over TN -KER & Doppler Weather Radar (X -Band) product 
+showing the maximum reflectivity (as on 1130 IST of 01 Nov 2022 ) associated with very heavy 
+rainfall event over Chennai and neighbourhood during the 24 -hr ending 0830 IST of 02 nd 
+November 2022 are presented in Fig.2 a(ii) and 24-hr accumulated rainfall (based on gauge 
+observed point rainfall data) as on 0830 IST of 02 nd & 03 rd November 2022  are shown in 
+Fig.2a(iii). \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 14 
+ 
+ 
+ 
+Fig.2a(i): Surface isobaric analysis based on 0830 IST and upper air (lower-mid levels) 
+streamline analysis based  on 0530 IST observations of 01st  & 02nd November 2022 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 15 
+ 
+ 
+ 
+Fig.2a(i) contd. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 16 
+ 
+   
+    
+Fig.2a(ii): INSAT-3D infra-red imageries as on 30 Oct /1530 IST, 01 Nov /0500 IST & 03 
+Nov /05300 IST & Doppler Weather Radar (X -Band) maximum reflectivity product as on 
+1130 IST of 01 Nov 2022. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 17 
+ 
+ 
+ 
+Fig.2a(iii): 24-hr accumulated rainfall (based on gauge observed point rainfall data) as on 
+0830 IST of 02nd & 03rd November 2022 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 18 
+ 
+3. Major synoptic scale systems during the NEM 2022 season 
+(a) Cyclonic Storm ‘SITRANG’ over Bay of Bengal during 22nd-25th October 2022 
+Under the influence of a cyclonic circulation over North Andaman sea and 
+neighbourhood in the lower tropospheric levels on 18 th & 19th October 2022, a Low Pressure 
+Area (LOPAR) formed over North Andaman Sea and adjoining areas of south Andaman Sea & 
+Southeast Bay of  Bengal in the early morning (0530 hrs IST) of 20 th October. It lay as a well 
+marked LOPAR (WML) over north Andaman Sea and adjoining southeast BOB in the evening 
+(1730 hours IST ) of 21st October.  Under favourable environmental conditions, it concentrated  
+into a Depression over southeast and adjoining eastcentral BOB close to Andaman Islands in the 
+forenoon (0830 hrs IST) of 22 nd.  Moving northwestwards it intensified into a Deep Depression 
+(DD) over westcentral BOB in the early morning (0530 hrs IST) of 2 3rd October.  Thereafter, it 
+moved nearly northwards and intensified into the Cyclonic Storm (CS)  “SITRANG” in the 
+evening (1730 hrs IST) of 23 rd and then gradually recurved north -northeastwards and crossed 
+Bangladesh coast between Tinkona and Sandwip clos e to Barisal (near 22.15 °N/90.35°E) in the 
+night of 24 th October during 2130 to 2330 hours IST as a Cyclonic Storm with maximum 
+sustained wind speed of 80 -90 kmph gusting to 100 kmph .  Continuing to move north -
+northeastwards, it weakened into a DD over northeast Bangladesh in the early hours (0230 hours 
+IST of 25 th) and further into a Depression over interior Bangladesh in the early morning (0530 
+hours IST) of 25 th October It then lay as a WML over northeast Bangladesh & adjoining 
+Meghalaya in the forenoon (0830 hours IST) of 25th  October, 2022.  
+Under the influence of this cyclone, due to sweeping away of moisture from the Indian 
+region, rainfall activity over the central and peninsular India decreased drastically leading to 
+withdrawal of southwest monsoon from the Indian region on 23rd October 2022. 
+Track of the system is presented in Fig.3 a(i) and INSAT-3D infra-red imagery depicting 
+the cloudiness associated with the system as on 23rd October / 1900 IST is shown in Fig.3a(ii). 
+ 
+ 
+ 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 19 
+ 
+ 
+Fig.3a(i) : Track of Cyclonic Storm ‘SITRANG’ over Bay of Bengal during 22-25 Oct 2022 
+ 
+Fig.3a(ii): INSAT-3D, infra red imagery as on 1900 IST of 23 October 2022 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 20 
+ 
+(b) Well marked Low Pressure Area over Bay of Bengal during 09th-13th November 2022 
+Under the influence of a cyclonic circulation over southwest Bay of Bengal and adjoining 
+equatorial Indian ocean extending up to mid tropospheric levels on 08th November 2022, a Low 
+Pressure Area formed over the south west Bay of Bengal and neighbourhood with associated 
+upper air cyclonic circulation extending upto upper tropospheric levels as on  0830 IST of 9 th 
+November, 202 2.  It lay over southwest BOB off Sri Lanka coast on 10 th and became  well 
+marked LOPAR (WML) and lay over southwest BOB and adjoining north Sri Lanka  at 0830 
+IST of 1 1th November. It moved across north coastal TN and KER during 12 th & 13 th as a 
+LOPAR and weakened over southeast Arabian Sea on 14 th November 2022.   Fig.3b(i) presents 
+Surface isobaric analysis as on 11 th/0830 IST and upper air streamline analysis (lower-mid 
+levels) as on 11th/0530 IST  of November 2022 depicting the WML and the associated cyclonic 
+circulation extending upto the mid tropospheric levels. 
+Associated with the formation and movement of the sys tem, fairly widespread  to 
+widespread rainfall occurred over the TN subdivision during 11th-15th & over KER during 12 th-
+15th November.  
+Heavy to very heavy rainfall at isolated places with extremely heavy falls (≥ 21 cm/day) 
+at one or two places occurred over TN subdivision in Mayiladuthurai (Sirkazhi – 44 cm, 
+Kollidam: 32 cm) and Cuddalore (Chidambaram: 31 cm, Annamalai nagar : 28 cm & 
+Bhuvanagiri : 21 cm ) districts on 12th November. Heavy to very heavy  rain also occurred over 
+TN at isolated places over Tiruppur, Pudukkottai & Karur districts on 12th, over Kancheepuram, 
+Tiruvallur and Erode districts on 13 th, over Tirunelveli district on 15 th and over Virudhunagar 
+district on 16 th & over Nellore district in CAP on 13 th & 14th November 2022. Isolated heavy 
+rain also occurred in a few other districts in TN during 11th-16th, over KER on 12 th, 14th & 15th 
+and over RYS on 13th November 2022. 
+Active to Vigorous  monsoon conditions prevailed over TN during 11th-13th and active 
+monsoon conditions prevailed over KER on 12th & 13th November 2022. 
+. INSAT-3D infrared imagery as on 11 th/0500 IST and brightness temperature product as 
+on 11 th/2000 IST  depicting the intense cloudiness associated with the system and  Doppler 
+Weather Rad ars - Karaikal & Chennai (X -band) – maximum reflectivity product  as on  11 th/ 
+2030 IST & 12 th / 0430 IST depicting the rainfall associated the system are presented in 
+Fig.3b(ii).  24-hr accumulated rainfall ending 0830 IST of 12 th November 2022 (based on g auge 
+observed point rainfall data) depicting the intense rainfall activity over the delta and adjoining 
+districts on 12th is shown in Fig.3b(iii). 
+Associated with intense rainfall activity, inland flooding occurred in several areas of 
+Mayiladuthurai, Cuddalore, Thiruvallur & adjoining districts of north coastal Tamilnadu during 
+12th-14th November 2022 . Fig.3 b(iv) presents some sample media reports on inland flooding 
+associated with the intense rainfall activity during 12th-14th November 2022. 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 21 
+ 
+ 
+ 
+Fig.3b(i): Surface isobaric analysis based on 0830 IST and upper air (lower-mid levels) 
+streamline analysis based on 0530 IST observations of 11th November 2022 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 22 
+ 
+  
+   
+ 
+ 
+Fig.3b(ii): INSAT -3D infrared imager ies as on 11 th/0500 IST & 12 th/0600 IST and IR 
+brightness temperature product as on 11 th/2000 IST, Doppler Weather Radars Karaikal & 
+Chennai (X-band)  as on  11th/ 2030 IST & 12th / 0430 IST respectively of November 2022 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 23 
+ 
+ 
+ 
+ 
+ 
+Fig.3b(iii): 24-hr accumulated rainfall (based on gauge observed point rainfall data) ending 
+0830 IST of 12th & 13th November 2022 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 24 
+ 
+ 
+ 
+ 
+Fig.3b(iv): Sample media reports depicting the inland flooding over Mayiladuthurai and 
+Thrivallur districts during 12th-14th November 2022 
+ 
+ 
+(c) Depression over Bay of Bengal during 20th-22nd November 2022 
+Under the influence of an upper air  cyclonic circulation over South Andaman Sea & 
+neighbourhood extending up to middle tropospheric levels from the morning (0530 hours IST) of 
+15th November, a Low Pressure Area  formed over Southeast Bay o f Bengal  & adjoining 
+Andaman Sea in the morning (0530 hours IST) of 17 th. It moved west -northwestwards and 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 25 
+ 
+became a well -marked LOPAR (WML) over central parts of south BOB in the morning (0530 
+hours IST) of 19 th. Moving in the same direction, under favourable environmental conditions, it 
+concentrated into a Depression over southwest and adjoining Southeast BOB in the morning 
+(0530 hours IST) of the 20 th. Moving further west-northwestwards it weakened into a WML 
+over Westcentral and adjoining Southwest Bay of Bengal off North Tamil Nadu – South Andhra 
+Pradesh coasts in the morning (0830 hours IST) of the 22nd. The remnant of the system continued 
+to move west-northwestwards and gradually weakened further into a LOPAR on in the evening 
+(1730 hours IST) of 22 nd November 2022. The observed track of the system is presented in 
+Fig.3c(i). 
+ 
+Fig.3c(i): Observed track of the Depression over Bay of Bengal during 20th-22nd  Nov 2022 
+ 
+Associated with the passage of the remnant of the system, scattered rainfall occurred over 
+CAP during 21 st-25th November; scattered to fairly widespread  rainfall over RYS and fairly 
+widespread to widespread rainfall over SIK during 23rd-25th; only isolated rainfall activity was 
+reported over the TN subdivision during the period.  
+Isolated heavy rain occurred during the 24-hr ending 0830 IST of 23rd over CAP (Tada & 
+Sulurpeta in SPSR Nellore district: 9 cm) and RYS (Satyavedu in Chittoor district: 9 cm) ; & on 
+24th over TN (Thamaraipakkam &  Tiruttani in Thiruvallur district: 10 cm & Kanchipuram: 7 
+cm). 
+Active monsoon conditions prevailed over RYS on 23rd & 24th November 2022. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 26 
+ 
+   
+ 
+Fig.3c(ii): Surface isobaric analysis based on 0830 IST and upper air (lower -mid levels) 
+streamline analysis based  on 0530 IST observations of 21st November 2022 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 27 
+ 
+ 
+ 
+ 
+Fig.3c(iii): INSAT-3D infra -red imagery as on 20 th/1300 IST & Doppler Weather Radar, 
+Chennai (X-band) maximum reflectivity product as on  as on 21 st/1930 IST, 22nd/1000 IST 
+& 23rd 1045 IST of November 2022 
+ 
+(d) Severe Cyclonic Storm ‘MANDOUS’ over Bay of Bengal during 06-10 December 2022 
+Under the influence of an  upper air cyclonic circulation from south China Sea observed 
+over south Andaman Sea and adjoining equatorial Indian Ocean and strait of Malacca in the 
+morning (0530 hours IST) of 4th December ,  a Low Pressure Area  formed over South 
+Andaman Sea & neighbourhood in the morning (0530 hours IST) of 5th. It became a well marked 
+LOPAR (WML) over Southeast BOB in the morning (0530 hours IST) of 06th. Under favourable 
+environmental conditions, it concentrated into a Depression over Southeast BOB in the evening 
+(1730 hours IST) of 6 th.  It moved west -northwestwards and intensified further into a Deep 
+Depression (DD) over southeast & adjoining southwest BOB n the morning (0530 hours IST) of 
+7th.  Continuing to move west -northwestwards, it intensified into the Cyclonic Storm (CS) 
+“MANDOUS” pronounced as “Man-Dous” over southwest BOB around midnight (2330 hours 
+IST) of 7th and  further into a Severe Cyclonic Storm (SCS) in the evening (1730 hours IST) of 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 28 
+ 
+8th.  It maintained the intensity of SCS till early hours of 9 th. The peak intensity of the storm was 
+85-95 kmph gusting to 95 kmph during this period.  
+Thereafter, continuing to move west -northwestwards, it entered unfavourable 
+environment (moderate to high wind shear, interaction with land surface, relatively colder sea 
+and lower Ocean heat content) and weakened into a CS over southwest BOB off north 
+Tamilnadu and Puducherry coasts in the morning (0530 hours IST) of 9 th.  It then moved nearly 
+northwestwards and crossed north Tamil nadu, Puducherry and adjoining south A ndhra 
+Pradesh coasts between Puducherry and Sriharikota, near latitude 12.60°N and longitude 
+80.15°E, close to Mamallapuram (Mahabalipuram) during midnight (2330 hours IST) of 
+9th and early hours (0230 hours IST) of 10 th December as a CS with the maximum s ustained 
+wind speed (MSW) of 65-75 kmph gusting to 85 kmph.  
+ 
+During landfall, Radar, High Wind Speed Recorder (HWSR) and hourly special coastal 
+observations indicate that, gale winds speed reaching 65-75 kmph gusting to 85 kmph prevailed 
+around the landfa ll area. Chennai (MBK) reported surface wind speed of 25 -30 knots (45 -55 
+kmph) during 09 th/2330 IST to 10 th/0130 IST and 24 -hr pressure change of -10.4 hPa  on 
+09th/2330 IST and -9.1 hPa on 10 th/0230 IST. Chennai (MBK) anemograph recorded 70 kmph 
+during 0030-0045 IST of 10 th December.  Chennai (NBK) HWSR recorded 85 kmph  in gust 
+(45-48 knots; about 83 -88 kmph) during the period 09 th/2330 IST to 10th/0035 IST (1800-1935 
+UTC). 
+After the landfall, it moved west -northwestwards and weakened into a DD over Nort h 
+Tamilnadu in the early morning (0530 hours IST) of 10 th and then moved west -southwestwards 
+and weakened into a Depression over North Tamil nadu around noon (1130 hours IST), into a 
+WML over north interior Tamilnadu in the evening (1730 hours IST) of 10 th and into a LOPAR 
+over north interior Tamil nadu and adjoining South Interior Karnataka & north Kerala in the 
+morning (0530 hours IST) of 11th December 2022.  
+ 
+The observed track of the system is presented in Fig. 3d(i). Surface isobaric analysis as 
+on 0830 IST and upper air streamline analysis as on 0530 IST of 09th December depicting the CS 
+off north Tamilnadu -Puducherry coasts and the associated upper air cyclonic circulation 
+extending upto upper tropospheric levels are presented in Fig.3d(ii). Satellite & Radar imageries, 
+plot of hourly coastal observations, Chennai (MBK) anemograph of 09 th-10th December, plot of 
+Chennai (NBK) HWSR data depicting the synoptic features during the landfall of the system are 
+presented in Fig.3d(iii). \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 29 
+ 
+ 
+Fig.3d(i): Observed track of Severe Cyclonic Storm ‘MANDOUS’ over the Bay of Bengal 
+during 06th-10th December 2022 
+ 
+Fig.3d(ii): Surface isobaric analysis based on 0830 IST and upper air streamline analysis 
+based on 0530 IST observations of 09th December 2022 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 30 
+ 
+ 
+ 
+Fig.3d(ii) contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 31 
+ 
+  
+ 
+Fig.3d(iii) : INSAT -3D - enhanced product as on 09/0100 IST & 09/1800 IST and Doppler 
+Weather Radar Chennai - maximum reflectivity product ason 09/2030 IST 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 32 
+ 
+ 
+Fig.3d(iii) contd. 
+ 
+ 
+Fig.3d(iv) Plot of hourly special coastal observations during 09th/1730 IST to 10th/0530 IST 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 33 
+ 
+ 
+ 
+ 
+Fig.3d(v): Chennai (MBK) Anemograph of 09 /0900-10/0900 IST, Chennai (NBK) HWSR 
+observations of wind speed (knots) during 09th/0530 IST to 10th/0445 IST of December 2022 
+Associated with the passage of the system, fairly widespread rainfall occurred over TN 
+on most of the days during the 24 -hr ending 0830 IST of 09 th-14th; fairly widespread to 
+widespread rainfall occurred over CAP & RYS during the 24 -hr ending 0830 IST of 1 0th-12th & 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 34 
+ 
+10th-13th respectively and over SIK & KER during the 24 -hr ending 0830 IST of  11 th-14th  & 
+11th-15th respectively.  
+ 
+Isolated heavy rain occurred over TN on all days during the 24 -hr ending 0830 IST of 
+09th-14th, over RYS during 10 th-13th, over CAP during 10 th-12th, over KER on 11 th,12th & 15th 
+and over SIK on 11 th & 14th December. Isolated heavy to very heavy  rain with extremely heavy 
+falls at one or two places was reported over TN during the 24 -hr ending 0830 IST of 10 th & 14th 
+& over RYS on 1 0th. Isolated heavy to very heavy  rain also occurred over CAP on 10 th & 11th 
+and over KER on 12th.   
+Extremely heavy rain of 25 cm occurred at Vembakkam in Thiruvannamalai district, 
+TN; 23 cm & 22 cm at Srikalahasti & Thottambedu  respectively in Chittoor district, RYS 
+during the 24-hr ending 0830 IST of 10th December; and 30 cm of rain occurred at Coonoor in 
+Nilgiris district, TN on 14th December 2022. 
+ 
+Vigorous monsoon conditions prevailed over TN during the 24 -hr ending 0830 IST of 
+10th, over RYS & CAP during 10th-13th & 10th-12th respectively, over KER during 11th-13th & on 
+15th and over SIK on 14 th December; and active monsoon conditions prevailed over TN during 
+12th-14th and over SIK on 13 th December 2022. Fig.3d(vi) presents the rainfall distribution  over 
+TN, CAP & RYS based on gauge observed point rainfall observation as on 24 -hr ending 0830 
+IST of 10th December 2023. 
+ 
+Early warnings for very heavy to extremely heavy rainfall and gale force winds during the 
+landfall with frequent updates were issued to the state administrative & disaster management 
+authorities, agriculture and fisheries departments of  Tamilnadu, Puducherry & Andhra Pradesh 
+and  to the   port authorities along Tamilnadu, Puducherry & Andhra Pradesh coasts . Warnings 
+and frequent updates were also disseminated to the Press and media (in English & Regional 
+language) and to the general public through social media and website  updates. Sample warning  
+poster, in Tamil,  posted in the social media and website is shown in Fig.3d(vii). 
+ 
+Damages due to  gale winds and intense rainfall activity around the landfall area, were 
+reported by the media. Sample media reports are presented in Fig.3d(vii i). 4 persons & 98 cattle 
+lost life, about 180 houses / huts were damaged in  TN;  about 400 trees were uprooted in 
+Chennai (The Hindu dated 10.12.2022 & Times of India dated 11.12.2022). Parts of beach resorts 
+have been washed away due to high tides near Mahabalipuram ( The New Indian Express  dated 
+11.12.2022). Damages to crops and  roads in Andhra Pradesh were also reported ( Mint dated 
+11.12.2022). 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 35 
+ 
+ 
+ 
+ 
+Fig.3d(vi) 24-hr accumulated rainfall during the 24 -hr ending 0830 IST of 10 th December 
+2022 over TN; CAP&RYS (AP); and TN & AP combined 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 36 
+ 
+ 
+Fig.3d(vi) contd. 
+ 
+Fig.3d(vii): Sample warning poster in Tamil posted in website and social media in the early 
+morning of  08th December 2022  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 37 
+ 
+    
+   
+ 
+Fig.3d(viii): Damage reports from the media 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 38 
+ 
+ 
+Fig.3d(viii) contd. 
+(e) Deep Depression over Arabian Sea during 14th-17th December 2022 
+The remnant of the cyclone MANDOUS entered Eastcentral Arabian Sea as an upper air 
+cyclonic circulation. Under its influence, a Low Pressure Area  (LPA) formed over Eastcentral 
+and adjoining Southeast Arabian Sea off north Kerala -Karnataka coasts during early morning of 
+13th December 2022 and became Well Marked Low Pressure Area  (WML) over the same 
+region around 1730 IST of the same day. It moved further northwestwards and lay as a well 
+marked low pressure area over Eastcentral and Southeast Arabian Sea at 0830  IST of 14 th and 
+concentrated into a Depression over the same region. It then moved west -northwestwards and 
+intensified into Deep Depression and lay centered at 0530 hours IST of 15th over eastcentral and 
+adjoining Southeast Arabian Sea near latitude 13.9 °N and longitude 68.2 °E. It then moved 
+westwards. It then moved initially westward and then west-northwestwards and weakened into 
+Depression and lay centered at 1730 IST of 16 th December 2022, over Westcentral & adjoining 
+Eastcentral Arabian Sea near latitude 14.0 °N and longitude 63.8 °E. Thereafter, it moved 
+westwards over Westcentral Arabian Sea  and weakened into a WML over westcentral Arabian 
+Sea in the evening of 17 th December 2022. It then moved west - southwestwards and weakened 
+further over the sa me region. The track of the system is shown in Fig. 3e(i). Under the influence 
+of this system, light to moderate rain was reported at most places over KER with isolated heavy 
+rain over Kottayam district in KER (Kozhikode & Kanjirappally  :7 cm) on 15th December 2022. 
+Light to moderate rain also occurred at a few places over south TN on the same day. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 39 
+ 
+ 
+Fig.3e(i): Observed track of Deep Depression over the Arabian Sea during 14-17 Dec 2022 
+ 
+   
+Fig.3e(ii): INSAT-3D infra red imageries as on 1130 IST of 14th & 17th December 2022 
+ 
+(f) Depression over Bay of Bengal during 22nd-25th December 2022 
+A Low Pressure Area  formed over southeast Bay of Bengal and adjoining equatorial 
+India Ocean on 14 th afternoon and persisted over the same region during 15 th to 17th December 
+2022. It then moved slowly westwards and lay over central parts of South Bay of Bengal & 
+adjoining East Equatorial Indian Ocean during 18 th to 20 th and became a Well  Marked Low  
+Pressure Area over Southwest Bay of Bengal & adjoining East Equatorial Indian Ocean on 21 st 
+early morning.  
+It concentrated into a Depression at 0830 hours IST of 22 nd December over southwest 
+and adjoining southeast Bay of Bengal near latitude 9.0°N and longitude 85.0°E. Moving 
+initially north-northwestwards and then northwestwards , it lay over  southwest Bay of Bengal 
+near latitude 10.1°N and longitude 84.2°E at 2330 hours IST of 22nd. Thereafter, it moved slowly 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 40 
+ 
+and recurved east-northeastwards, made a clockwise loop and th en moved west-northwestwards. 
+At 0530 hours IST of 24 th, it reached Southwest Bay of Bengal and started to recurve slowly 
+west-southwestwards towards Sri Lanka coast. It lay  over Southwest Bay of Bengal and 
+adjoining Sri Lanka coast at 0830 hours IST of 25 th. It then  continued to move west -
+southwestwards, crossed Sri Lanka coast , south of Trincomalee , near latitude 8.35°N and 
+longitude 81.4°E as a  Depression with maximum sustained wind speed of 45 -55 kmph 
+gusting to 65 kmph during 1230 to 1330 hours IST of 25th December 2022.  
+ 
+Thereafter, the system continued to move west -southwestwards and weakened into a 
+WML over Sri Lanka at 1430 hrs IST of today, the 25 th December 2022. It emerged into 
+Comorin area in the early morning of 26th and became a low pressure area over the same region 
+in the forenoon of the same day. Continuing to move in the same direction, it became less 
+marked over the Maldives and adjoining Lakshadweep area. The observed track of the system is 
+presented in Fig.3f(i). 
+ 
+Satellite imagery of t he system as on Surface isobaric analysis as on 0830 IST of 25 th 
+December 2022 depicting the Depression  over Southwest Bay of Bengal is shown in Fig.3 f(ii).    
+Surface isobaric analysis as on 0830 IST & upper air streamline analysis as on 0530 IST of 25 th 
+December are presented in Fig.3f(iii). 
+ 
+Associated with the passage of the remnant of the system over Sri Lanka & Comorin area 
+during 25th- 26th December, fairly widespread / widespread rainfall occurred over TN during the 
+24-hr ending 0830 IST of 26 th & 27th & fairly widespread rainfall over KER during the 24 -hr 
+ending 0830 IST of 26th December 2022. Isolated heavy rain occurred over Tirunelveli district of 
+TN (25th: Naalumukku: 9 cm, Oothu: 8 cm; 26 th: Oothu: 9 cm, Manjolai: 7 cm) during the same 
+period. Isolated very heavy rain was also reported from Tirunelveli district of TN (Papanasam : 
+12 cm) on 28 th December. Vigorous monsoon conditions prevailed over TN during the 24 -hr 
+ending 0830 IST of 26 th & 27th December 2022. Plots of 24 -hr accumulated rainfa ll over TN 7 
+KER as on 0830 IST of 26th & 27th December 2022 are presented in Fig.3f(iv). 
+ 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 41 
+ 
+ 
+Fig.3f(i) Observed track of the Depression over Bay of Bengal during 22-25 December 2022 
+ 
+ 
+ 
+Fig.3f(ii): INSAT-3D, infra-red imagery as on 1700 IST of 23rd December 2022 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 42 
+ 
+ 
+ 
+ 
+ 
+Fig.3f(iii): Surface isobaric analysis as on 0830 IST upper air streamline analysis as on 
+0530 IST of 25th December 2022 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 43 
+ 
+ 
+ 
+ 
+ 
+Fig.3f(iv): 24-hr accumulated rainfall as on 0830 IST of 26th & 27th December 2022 over TN 
+& KER 
+4.  Sub divisional rainfall performance during NEM 2022 
+4.1 Seasonal rainfall 
+During October-December 2022, the northeast monsoon seasonal rainfall was normal (-19% to 
++19%)  to excess (+20% to +59% )vover the 5 meteorological subdivisions benefitted by the 
+NEM (TN, KER, CAP, RYS and SIK) . It was  excess over SIK (+ 51%) & RYS (+ 22%) and 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 44 
+ 
+normal over TN (+1%), CAP (+6%) & K ER ( -3%). Fig. 4a and Table-1 present the season 
+ending (01st Oct-31st December 2022) rainfall figures over these subdivisions. 
+ 
+Fig.4a:  Seasonal rainfall performance of NEM 20 22 over the five meteorological 
+subdivisions benefitted by the NEM 
+Table-1:  Sub-divisional seasonal rainfall during October-December 2022 
+Subdivision 01st October – 31st December 2022 
+Actual (mm) Normal (mm) PDN  (%) 
+Tamilnadu, Puducherry & Karaikal (TN) 445.6 443.3 1 
+Coastal Andhra Pradesh & Yanam (CAP) 341.7 322.9 6 
+Rayalaseema (RYS) 288.1 236.4 22 
+South Interior Karnataka (SIK) 300.1 199.0 51 
+Kerala & Mahe (KER) 476.2 492.0 -3 
+PDN: Percentage Departure from Normal 
+Legend: 
+ 
+ 
+4.2 Monthly, Weekly & Daily rainfall scenario 
+The intra -seasonal rainfall distribution over various sub -divisions during Oct -Dec 20 22 is 
+presented in monthly and daily scales. Month-wise rainfall statistics are presented in Table-2 and 
+Fig.4b. Tables-3a&b present the weekly rainfall over the various subdivisions and Tables-4a&b 
+present the daily rainfall scenario in terms of spatial rainfall distribution ( Widespread: WS, 
+Fairly widespread: FWS, Scattered: SCT, Isolated: ISOL and DRY). 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 45 
+ 
+ 
+Table-2:  Sub-divisional monthly rainfall during NEM 2022 
+ 
+ 
+ 
+ 
+Fig.4b: Subdivisional monthly rainfall performance during October-December 2022 
+ 
+During October, excepting KER that became deficient, all the other four subdivisions received 
+normal to large excess  rainfall. In November, with the absence of any major transient low 
+pressure system excepting the well marked low pressure area that moved across TN & KER, 
+whereas TN & KER received normal rainfall, CAP, RYS & SIK became deficient. In December, 
+under the influence of the cyclone MANDOUS and its remnant and the remnant of the 
+Depression that crossed Sri Lanka coast, CAP, RYS, SIK & KER  received large excess rainfall 
+and TN came under normal category.  
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 46 
+ 
+Table 3a: Weekly rainfall performance over various subdivisions during Oct-Dec 2022 
+ 
+ 
+Table 3b: Cumulative week ending  scenario during Oct-Dec 2022 
+ 
+ 
+In the weekly scale  (tables 3a&b) , the major rainfall weeks were the first three weeks of the 
+season duing the extended southwest monsoon. Exceping KER that came under deficient 
+category, all the other subdivisions received normal to large excess rainfall during this period. 
+Subsequently, during the weeks ending 26 th October & 02 nd November, under the influence of 
+the cyclone SITRANG that swept away moisture towards Bangladesh region and during the 
+period of transition from southwest to northeast monsoon regime, all the subdivisions receive d 
+deficient to scanty rainfall only. With the formation and movement of well marked low pressure 
+area across TN & KER, rainfall activity increased during the week ending 16 th November with 
+TN recording 124% excess during the week. Thereafter, for the subse quent three weeks 
+excepting KER & SIK that received excess / large excess rainfall during one or two weeks, all 
+the other subdivisions received deficient to scanty rainfall only. Under the influence of the 
+passage of cyclone MANDOUS and its remnant across the southern peninsula and the remnant of 
+the Depression that crossed Sri Lanka coast in December, large excess rainfall was realized over 
+all the five subdivisions during the week ending  14th December and normal to large excess  
+rainfall was received over all the subdivisions during the week ending 28.12.2022.  Excepting 
+KER that remained mostly deficient during October & November, all the subdivisions in the 
+region came under normal to excess cumulative seasonal rainfall throughout. 
+ 
+ 
+ 
+ 
+ 
+ 
+05-10-22
+ 12/10/22
+ 19/10/22
+ 26/10/22
+ 02/11/22
+ 09/11/22
+ 16/11/22
+ 23/11/22
+ 30/11/22
+07-12-22
+ 14/12/22
+ 21/12/22
+ 28/12/22
+CAP 7 148 35 -87 -61 -77 -9 -63 -46 -89 543 -98 73
+RYS 47 75 129 -72 -53 -57 14 -47 -44 -97 1167 -88 111
+TN -70 66 80 -28 -46 -4 124 -91 -60 -26 145 -90 54
+SIK 6 167 244 -85 -46 -92 -30 22 -47 -91 1222 -100 -8
+KER -37 -67 29 -22 -46 14 9 -70 153 53 495 63 53
+SUB-
+DIVISION
+WEEK-BY-WEEK: PDN (%)
+05-10-22
+ 12/10/22
+ 19/10/22
+ 26/10/22
+ 02/11/22
+ 09/11/22
+ 16/11/22
+ 23/11/22
+ 30/11/22
+07-12-22
+ 14/12/22
+ 21/12/22
+ 28/12/22
+CAP 6 83 67 31 9 -4 -4 -9 -11 -13 8 6 6
+RYS 19 27 56 25 9 0 1 -2 -5 -10 23 23 22
+TN -75 9 38 14 -2 -2 15 4 -3 -5 4 0 1
+SIK 6 77 119 75 57 43 38 38 36 34 52 52 51
+KER -37 -55 -23 -23 -27 -21 -19 -22 -16 -14 -4 -3 -3
+SUB-
+DIVISION
+CUMULATIVE WEEK ENDING : PDN (%)\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 47 
+ 
+Table-4a: Spatial rainfall distribution during 01st October -31st December 2022 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 48 
+ 
+Table-3a (contd.) 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 49 
+ 
+Table-4b: Percentage frequency of various categories of daily spatial rainfall distribution  
+Category OCT - DEC 2022 
+TN CAP RYS SIK KER 
+WS 5 9 7 15 20 
+FWS 24 7 11 8 14 
+SCT 15 21 13 14 24 
+ISOL 55 42 38 29 29 
+DRY 0 22 32 34 13 
+WD: Widespread 
+(76-100% of stations reporting rainfall) 
+FWD : Fairly widespread 
+(51-75% of stations reporting rainfall) 
+SCT: Scattered 
+(26-50% of stations reporting rainfall) 
+ISOL: Isolated 
+(≤25% of stations reporting rainfall) 
+DRY: No rain  
+ 
+In the daily scale, fairly widespread to widespread rainfall occurred over KER on 34% of the 
+days during the season; over TN on 29% of the days and over CAP, RYS & SIK – on about 7  
+to15% of the days. On about 70% of the days during the season, TN recorded isolated to 
+scattered rainfall activity. On about 20 -35% of the days during the season, CAP, RYS & SIK 
+remained dry.  
+ 
+4.3 Monsoon activity & heavy rainfall events 
+Table-5a&b present the frequency of active and vigorous monsoon days and frequency of heavy 
+rainfall days ( Heavy rainfall ≥ 7cm/day ;   Very Heavy rainfall  ≥ 12cm/day; Extremely Heavy 
+rainfall ≥ 21 cm/day) during the season. 
+ 
+Table-5a:    Frequencies of active and vigorous monsoon days and heavy rainfall days 
+  No. of days of active and vigorous monsoon conditions 
+Subdivision OCT NOV DEC OCT-DEC 2022 
+ACT VIG ACT VIG ACT VIG ACT VIG 
+TN 5 1 4 1 5 2 14 4 
+CAP 7 1 0 0 3 0 10 1 
+RYS 6 1 2 0 4 0 12 1 
+SIK 11 2 1 0 2 2 14 4 
+KER 4 0 6 2 1 5 11 7 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 times the normal 
+with at least two stations reporting more than or equal to 3 cm in coastal Tamil Nadu, south coastal Andhra Pradesh 
+and 2 cm elsewhere in the NEM region. 
+Vigorous: Fairly widespread to widespread sub-divisional rainfall with rainfall more than 4 times the normal with at 
+least two stations reporting more than or equ al to 5 cm in coastal Tamil Nadu, south coastal Andhra Pradesh and 3 
+cm elsewhere in the NEM region. 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 50 
+ 
+Active to vigorous  monsoon conditions prevailed over TN, SIK & KER on about 20% of the 
+days during the season; and over CAP &  RYS, on about 12 -15% of the days. In October, there 
+were 13 days of active to vigorous  monsoon conditions over SIK; 6 -8 days over TN, CAP & 
+RYS and 4 days over KER.  In November, 8 & 5 days of active to vigorous monsoon conditions 
+prevailed over KER & TN r espectively; and 1 & 2 days of active monsoon over SIK & RYS 
+respectively. In December, 6 & 7 days of  active to vigorous monsoon activity occurred over 
+KER & TN respectively; and 3-4 days over CAP, RYS & SIK. 
+ 
+Table-5b: Frequency of heavy rainfall days 
+ 
+Heavy: rainfall ≥ 7cm/day;          Very Heavy: rainfall ≥ 12cm/day;  Extremely Heavy: rainfall ≥21 cm/day 
+ 
+ Regarding heavy rainfall occurrences (≥ 7 cm/day), TN experienced 51 days of isolated 
+heavy rainfall events during the season including  20 days of isolated very heavy  rain with 
+isolated extremely heavy  falls on 4 days. Over Kerala, isolated heavy rain occurred on 33 days 
+including 6 days of isolated very heavy rain. Over CAP, isolated heavy rain occurred on 20 days 
+including 6 days of isolated very heavy rainfall. SIK experienced 15 days of isolated heavy rain 
+including 2 days of isolated very heavy  rain. There were 14 of isolated heavy rainfall activity 
+over RYS including 3 days of isolated very heavy  rain with isolated extremely heavy  falls on 1 
+day. District-wise list of  very heavy to extremely heavy rainfall events over various subdivisions 
+is presented in Table-5c. 
+ 
+4.4 District rainfall scenario 
+Fig.4c presents the district wise seasonal rainfall during October to December 2022. As seen, in 
+SIK & RYS all the districts received normal to large excess / excess rainfall during the season; in 
+CAP excepting the extreme northern district of Srikakulam, all the districts received normal to 
+excess rainfall; in TN, excepting a few south coastal and delta & adjoining districts and 
+Puducherry, all other districts received normal to excess  rainfall; and in KER, most of the 
+northern & adjoining districts became deficient while the extreme  southern districts received 
+normal to excess rainfall during the season. 
+  
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 51 
+ 
+Table-5c:  List of very heavy to extremely heavy rainfall events during Oct-Dec 2022 
+ 
+DISTRICT Date, Station and 24-hr accumulated rainfall (in cm) (ending 0830 IST of the 
+specified date)  
+TN 
+Cuddalore Oct: 10th: Lakkur-14; 17th: Kudithangi-13 
+Nov: 03rd: Chidambaram-15, Sethiathope-13, Chidambaram Aws-13, 
+Annamalai Nagar-12, Parangipettai-12; 12th: Chidambaram-31, 
+Annamalai Nagar-28, Chidambaram Aws-27, Bhuvanagiri-21, 
+Kothavacherry-19, K.m.koil-19, Parangipettai-18, Sethiathope-16, 
+Kurinjipadi-16, Lalpet-13, Vadakuthu-12 
+Thanjavur Oct: 10th: Manjalaru-12 
+Nov: 03rd: Thanjavur-18, Thanjavur PTO-12 
+Dec: 05th: Thanjavur-16, Lower Anaicut-12 
+Sivaganga Oct: 10th: Sivaganga-12; 15th: Tirupuvanam-12 
+Madurai Oct: 11th: Mettupatti-17 
+Karur Oct: 11th: Panchapatti-12 
+Nov: 12th: Mylampatti-12, Aravakurichi-12;  
+Dindigul Oct: 12th: Kodaikanal Boat Club-13 
+Kanyakumari Oct: 16th: Lower Kothaiyar ARG-14 
+Nov: 29th: Kannimar-12 
+Coimbatore Oct: 17th: Valparai PAP-13; 18th: Cincona-12, Valparai PAP-12 
+Nov: 04th: Mettupalayam-12 
+Theni Oct: 18th: Aranmanaipudur-13, Periyakulam PTO-13 
+Chennai Nov: 01st: Perambur-12; 02nd: Perambur-17, Chennai Collectorate-17, 
+Sholinganallur-13, MGR Nagar-13, Chennai Nungambakkam-13, 
+Ayanavaram-13, Anna University-12; 04th: Tondaiyarpet-14, DGP 
+Office-12 
+Dec: 10th: Ayanavaram Taluk Office-15, Perambur-14, Mgr Nagar-13, 
+Alandur-13, Chennai Ap-12 
+Tiruvallur Nov: 01st: Red Hills-13; 02nd: Avadi-17, Ponneri-16, Red Hills-14, 
+Gummidipoondi-14, Ambathur-13, Villivakkam-13; 13th: Tiruttani-13 
+Dec: 10th: Avadi-17, Tiruttani-16, Gummidipoondi-13, Cholavaram-
+13, Pallipattu-13, Uthukottai-13, Ambathur-12, Red Hills-12, Koratur-
+12 
+Chengalpattu Nov: 02nd: Cheyyur-13 
+Dec: 10th: Tambaram-13, Mahabalipuram-13, Chengalpattu-12  
+Kancheepuram Nov: 02nd: Kattukuppam Arg-16; 13th: Uthiramerur-17 
+Dec: 10th: Kancheepuram-19, KVK Kattukuppam Agro-16, 
+Kundrathur-15, Uthiramerur-14, Sriperumbudur-13 
+Mayiladuthurai Nov: 03rd: Sirkali-22, Kollidam-16; 12th: Sirkali-44, Kollidam-32, 
+Tarangambadi-18, Mayiladuthurai-16, Manalmedu-16 
+Pudukkottai Nov: 12th: Ponnamaravathi-13 
+Tiruppur Nov: 12th: Kangeyam-15, Vellakoil-13 
+Erode Nov: 13th: Kodumudi-12; 16th: Kodivery-12 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 52 
+ 
+ 
+Tirunelveli 
+Nov: 15th: Nalumukku-12 
+Dec: 05th: Nalumukku-16, Oothu-16, Kakkachi-15, Manjolai-13; 28th: 
+Papanasam-12 
+Virudhunagar Nov: 16th: Rajapalayam-12 
+Tiruvarur Dec: 05th: Needamangalam-14; 14th:Needamangalam-16 
+Ranipet Dec: 10th: Minnal-20, Arakonam-14 
+Tiruvannamalai Dec: 10th: Vembakkam-25, Cheyyar-18 
+Nilgiris Dec: 14th: Coonoor-30, Coonoor PTO-14 
+Ariyalur Dec: 14th: Thirumanur-15 
+CAP 
+Prakasam Oct: 01st: Addanki-18 
+Srikakulam Oct: 05th: Palasa-13 
+Guntur Oct: 06th:Repalle-12 
+East Godavari Oct: 15th: Amalapuram-15 
+Nellore Nov: 13th: Kavali-12; 13th: Kavali-12; 
+Dec: 10th: Gudur-20, Venkatagiri-17, Sullurpeta-16, Nellore-13, Tada-
+12, Rapur-12; 11th: Atmakur-13 
+RYS 
+Ysr District Oct: 07th: Duvvur-14; 13th: Jammalamadugu-12 
+Dec: 10th: Kodur-20 
+Anantapuramu Oct: 13th: Rayadurg-14 
+Kurnool Oct: 13th: Devanakonda-16 
+Chittoor Dec: 10th: Srikalahasti-23, Thottambedu-22, Nagari-18, Satyavedu-13, 
+Tirupati Aero-13  
+SIK 
+Chamarajanagara Oct: 14th: Hardanhally_KVK-13 
+Mandya Oct: 15th: Mandya-17, Mandya_KVK-15 
+KER 
+Kottayam Oct: 18th: Poonjar AWS-14 
+Nov: 05th: Kottayam-13 
+Idukki Oct: 18th: Peerumedu-12 
+Nov: 04th: Peermade-13 
+Alappuzha Oct: 24th: Kayamkulam_agri-14 
+Pathanamthitta Nov: 28th: Kurudamannil-15 
+Ernakulam Dec: 10th: Aluva-12 
+ 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 53 
+ 
+ 
+Fig.4c: District-wise rainfall performance in various subdivisions during Oct-Dec 2022 
+5. Rainfall distribution over Tamil Nadu and Puducherry 
+Spatial and temporal distribution  of rainfall  over the TN subdivision during Oct -Dec 
+2022 are depicted by the district-wise rainfall distribution and area averaged daily rainfall 
+distribution over TN . Fig. 5a presents the daily rainfall distribution over the TN subdivision 
+(including Puducherry and Karaikal) during Oct-Dec 2022. During the period from 30th October 
+to 01st December (33 days) the subdivisional rainfall was above normal on 30 out of 33 days.  
+State / UT &  District-wise rainfall realized are presented in Tables -6a&b and Fig.5b. As 
+seen, rainfall over TN subdivision was below normal o n all days during the periods from 16 th 
+November to 04 th December and from 15 th December to 25 th December (Fig.5a).  Erode, 
+Coimbatore, Tiruppur, Namakkal, Krishnagiri & Tirupattur districts  received excess rainfall; 
+Ariyalur, Thiruchirapalli, Tiruvarur, Nagapattinam, Ramanathapuram, Thootukudi districts of 
+Tamilnadu, Puducherry & Karaikal received deficient rainfall. Rest of the 26 districts in TN 
+received normal rainfall during the period. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 54 
+ 
+ 
+Fig.5a:  Area averaged daily rainfall over TN subdivision during Oct-Dec 2022 
+ 
+ 
+ 
+Table-6a: State /UT wise rainfall figures of Tamil Nadu, Puducherry& Karaikal  during 
+Oct-Dec 2022 
+Subdivision / State /  UT 
+Actual 
+rainfall 
+(mm) 
+Normal 
+rainfall 
+(mm) 
+Percentage 
+departure from 
+normal (%) 
+TN subdivision  445.6 443.3 1 
+Puducherry& Karaikal (UT) 682.5 860.3 -21 
+Tamil Nadu State 444.8 441.7 1 
+ 
+ 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 55 
+ 
+Table-6b: District -wise rai nfall figures of Tamil Nadu, Puducherry& Karaikal                                                    
+during Oct-Dec 2022 
+District 
+Actual 
+rainfall 
+(mm) 
+Normal 
+rainfall 
+(mm) 
+Percentage 
+departure from 
+normal (%) 
+ARIYALUR 398.7 501.9 -21 
+CHENGALPATTU 738.1 707.7 4 
+CHENNAI 924.6 809.6 14 
+COIMBATORE 466.9 337.6 38 
+CUDDALORE 612.1 701.5 -13 
+DHARMAPURI 363.9 314.2 16 
+DINDIGUL 545.3 460.0 19 
+ERODE 485.3 307.1 58 
+KALLAKURICHI 372.2 455.5 -18 
+KANCHEEPURAM 800.5 591.7 35 
+KANYAKUMARI 540.6 532.6 2 
+KARAIKAL 709.9 1014.2 -30 
+KARUR 324.1 313.2 3 
+KRISHNAGIRI 381.2 278.7 37 
+MADURAI 438.4 370.0 18 
+MAYILADUTHURAI 929.8 888.1 5 
+NAGAPATTINAM 639.2 935.3 -32 
+NAMAKKAL 378.9 270.4 40 
+NILGIRIS 434.2 501.3 -13 
+PERAMBALUR 364.1 432.0 -16 
+PUDUCHERRY 667.6 831.6 -20 
+PUDUKKOTTAI 311.3 385.6 -19 
+RAMANATHAPURAM 383.5 531.4 -28 
+RANIPET 441.7 406.0 9 
+SALEM 361.1 331.7 9 
+SIVAGANGA 385.1 422.7 -9 
+TENKASI 420.4 465.7 -10 
+THANJAVUR 466.6 579.4 -19 
+THENI 417.4 364.3 15 
+TIRUNELVELI 417.8 514.9 -19 
+TIRUPATTUR 412 266.3 55 
+TIRUPPUR 391.4 305.7 28 
+TIRUVALLUR 716.3 623.9 15 
+TIRUVANNAMALAI 499.6 450.4 11 
+TIRUVARUR 487.5 725.4 -33 
+TOOTHUKUDI 308.9 441.9 -30 
+TRICHY 290.7 379.4 -23 
+VELLORE 332.4 375.8 -12 
+VILLUPURAM 484.6 531.3 -9 
+VIRUDHUNAGAR 414.9 398.5 4 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 56 
+ 
+ 
+Fig.5b:  District-wise rainfall distribution over the TN subdivision during Oct-Dec 2022 
+ 
+6. Standardised Precipitation Index 
+ The Standardized Precipitation Index (SPI) is an index used for monitoring drought and 
+is based on precipitation. This index is negative  for dry and positive for wet conditions. As the 
+dry or wet conditions become more severe, the index becomes more ne gative or positive. For 
+October to December 2022, SPI indicated Mildly Wet / Mildly Dry conditions over many districts 
+in the NEM region (Fig.6).  Whereas Mysuru & Ramanagara districts in SIK came under 
+Severely Wet  category, Nagapattinam, Mayiladuthurai districts & Karaikal in TN came under 
+Moderately Dry category. All other districts in TN, CAP, RYS, SIK & KER ended up as either 
+Mildly Dry or Mildly / Moderately  Wet. Whereas  Vellore, Ranipet, Cuddalore, Villupuram, 
+Kallakurichi, Perambalur, Ariyalur,  Thiruchirapalli, Thanjavur, Tiruvarur, Pudukkottai, Sivagangai, 
+Ramanathapuram, Thootukudi, Tirunelveli, Thenkasi districts in TN, Kasargod , Kannur, Kozhikode, 
+Wayanad, Maplappuram, Thrissur, Palakkad, Kollam in Kerala, East Godavari, Srikakulam districts in 
+CAP & Chikkamagaluru, Shivamogga districts in SIK came under Mildly Dry  category rest of  the 
+districts came under Mildly / Moderately Wet category. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 57 
+ 
+ 
+Fig.6: Standardised Precipitation Index for October -December 2022 over the southern 
+peninsular India. 
+ 
+7. Large & Regional scale circulation features  
+(a) Flow pattern: The mean and anomalous wind pattern over the Indian region at 850 hPa, 500 
+hPa and 250 hPa levels during October –December 2022 are presented in Fig.7a(i)-(iii). 
+In October 2022, anomalous westerlies were observed over the southern parts of Arabian Sea in 
+the lower tropospheric levels (850 hPa level) and anomalous cyclonic circulations over the 
+southern parts of Bay of Bengal in the lower-mis tropospheric levels (850 hPa & 500 hPa); in the 
+upper troposphere (250 hPa level), anomalous anticyclonic circulations were noted over the 
+western and the eastern parts of north India. 
+ In November, anomalous westerlies were observed over the southern parts of Bay of 
+Bengal and off Sri Lanka coast in the lower tropospheric levels (850 hPa) ; anomalous cyclonic 
+circulation over the Bay of Bengal and easterlies  over the central India were observed in the mid 
+levels; and anomalous anticyclonic circulations were observed over the western and eastern parts 
+of north India in the upper tropospheric levels (250 hPa). 
+ In December, anomalous westerlies were observed over the Comorin are a and Equatorial 
+Indian Ocean in the lower tropospheric levels; anomalous easterlies over the peninsular and 
+central India in the mid levels and anomalous anticyclone over the central and eastern parts of 
+North India in the upper tropospheric levels. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 58 
+ 
+   
+ 
+  
+ 
+   
+Fig.7a(i): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during October 2022 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+    
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 59 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  Fig.7a(ii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during Nov 2022 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 60 
+ 
+ 
+   
+   
+ 
+ 
+   
+Fig.7a(iii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa and 250 
+hPa levels during December 2022 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 61 
+ 
+(b) Monthly OLR patterns : In October 2022, negative OLR anomalies associated with extended 
+SWM were observed over the southern and the central & eastern parts of the north Indian region. 
+In November, near normal OLR were seen over the NEM region and in December, negative 
+OLR anomalies upto a bout -20 W/m2 were observed along and off Tamilnadu coast & Comorin 
+area. 
+ 
+  
+ 
+ 
+Fig.7b:  OLR anomalies over the Indian region during Oct, Nov & Dec 2022  (Source: Climate 
+Diagnostic Bulletin of India, IMD Pune) 
+(c) Large scale features : Based on MoES- MMCFS (Ministry of Earth Sciences - Monsoon 
+mission: Climate Forecasting System) analysis and reports of various global climate monitoring 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 62 
+ 
+centres, it was noted that during October -December 20 22, La Nina  conditions (negative sea 
+surface temperature anomalies) prevailed over the equatorial Pacific region. Indian Ocean Dipole 
+was negative during the start of the season and became neutral during the later half of the season. 
+Both these major climate indices were not favourable for  good NEM activity especially during 
+the first half of the season . MJO was in the western hemisphere or significant during most of the 
+days during the season excepting a few days in the first & fourth weeks of December 2022  when 
+it was in phase 3-4 (Fig.7c(i)-(iii). 
+ 
+Fig.7c(i): Sea surface temperature over the equatorial Pacific Ocean  (Source: Bureau of 
+Meteorology, Australia) 
+ 
+Fig.7c(ii): Indian Ocean Dipole mode index(Source: Bureau of Meteorology, Australia) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 63 
+ 
+ 
+Fig.7c(iii): MJO during Oct-Dec 2022  (Source: Bureau of Meteorology, Australia) 
+ 
+8. Cessation of NEM rains over peninsular India 
+Subsequent to the Depression over the Bay of Bengal during 22 nd-25th December, with the 
+gradual decrease in rainfall activity, cessation of NEM rains over southern peninsular India was 
+declared on 12th January 2023. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 64 
+ 
+ 
+9. Summary 
+ During the year 2022 , the southwest monsoon withdrew from the Indian region on 2 3rd 
+October and the Northeast monsoon of 2022 commenced over the southeastern parts of 
+peninsular India on 2 9th October against the normal date of 20 th October. All the  five 
+subdivisions benefitted by the NEM (TN, CAP, RYS, SIK & KER) received normal to 
+excess rainfall during the season (October to December).  There were two cyclones – (i) CS 
+SITRANG over the Bay o f Bengal during 22 nd-25th October which crossed Bangaladesh 
+coast and (ii) SCS MANDOUS over the Bay of Bengal during 06 th-10th December that 
+crossed north Tamilnadu, Puducherry and adjoining south Andhra Pradesh coasts near 
+Mahabalipuram as a Cyclonic Stor m with maximum sustained wind speed of 65 -75 kmph 
+gusting to 85 kmph during the midnight of 09 th-10th December; a Deep Depression over 
+Arabian Sea during 14 th-17th December which formed from the remnant of the cyclone 
+MANDOUS and weakened over the sea; and two Depressions over the Bay of Bengal (i) 
+during 20th -22nd December that weakened off south Andhra Pradesh coast and (ii) during 
+22nd-25th December  that crossed Sri Lanka coast.  There were 18 days of active to vigorous 
+monsoon conditions over TN, KER & SIK during the season. There were 51 days of isolated 
+heavy rainfall activity with 20 days of isolated very heavy rain including 04 days of isolated 
+extremely heavy rainfall activity over TN. Extremely heavy rain also occurred over RYS on 
+one day. Associated with the passage of a Well Marked Low Pressure Area (WML) over Bay 
+of Bengal during 09th-13th November across TN, extremely heavy rainfall were reported from 
+Mayiladuthurai district ( Sirkazhi: 44cm, Kollidam: 32cm) &  Cuddalore district 
+(Chidambaram: 31cm, Annamalai Nagar :28 cm, Bhuvanagiri : 21 cm ) on 12th November 
+and associated with the passage of the cyclone MANDOUS isolated extremely heavy rainfall 
+were reported from Thiruvannamalai district in TN (Vembakkam: 25 cm ) and Chittoor 
+district in RYS (Srilakahasti: 23 cm & Thottambedu: 22 cm) on 10 th December. After the 
+Depression over the Bay of Bengal during 22 nd-25 December, with the gradual decrease in 
+rainfall activity, cessation of NEM 202 2 rainfall over peninsular India was declared on 12th 
+January 2023.  
+ 
+Acknowledgements 
+This report is a compilation of real -time observational data and anal ytical products 
+generated by various IMD offices including IMD New Delhi, Pune, Thirvananthapuram, 
+Hyderabad, Bangalore  & Amaravati as well as raingauge networks of state government  
+departments. Contribution from all officials involved in generation of data and analytical 
+products used for preparation of this report is duly acknowledged.  Use of US-NCEP reanalysis 
+data, analytical product of Bureau of Meteorology, Australia and local media repo rts are also 
+duly acknowledged. \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 65 
+ 
+APPENDIX-(i):  Terminologies for Spatial rainfall distribution 
+WS - Widespread (Most places): 75 % or more number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+FWS- Fairly widespread (Many places): 51% to 74 % number of stations of a region (sub -
+division) reporting at least 2.5 mm rainfall.  
+SCT- Scattered (at a few places): 26 % to 50% number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+ISOL- Isolated (At isolated places):  25% or less number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+DRY:  No station of a region reported rainfall 
+APPENDIX-(ii):  Terminologies for description of intensity of rainfall 
+ 
+ 
+APPENDIX-(iii):  Description of NEM rainfall activity 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 
+times the normal with at least two stations reporting more than or equal to 3 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 2 cm elsewhere in the NEM region. 
+Vigorous: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 4 
+times the normal with at least two stations reporting more than or equ al to 5 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 3 cm elsewhere in the NEM region. 

@@ -1,0 +1,1642 @@
+ 
+ 
+Government of India 
+Earth System Science Organisation 
+Ministry of Earth Sciences 
+India Meteorological Department 
+ 
+IMD Chennai Scientific Report No. IMDC-SR/18 
+Report on Northeast Monsoon – 2024 
+      
+ 
+Regional Meteorological Centre, Chennai 
+March 2025 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 1 
+ 
+ 
+Table of Contents 
+1. Background 4 
+2. Onset phase 4 
+3a. Major synoptic scale systems during the NEM 2024 season 15 
+3b. Other significant synoptic systems 39 
+4. Sub divisional rainfall performance during NEM 2024 49 
+4.1 Seasonal rainfall 49 
+4.2 Monthly, Weekly & Daily rainfall scenario 50 
+4.3 Monsoon activity & heavy rainfall events 55 
+4.4 District rainfall scenario 60 
+5. Rainfall distribution over Tamil Nadu and Puducherry 63 
+6. Standardised Precipitation Index 66 
+7. Large & Regional scale circulation features 67 
+8. Cessation of NEM rains over peninsular India 76 
+9. Summary 76 
+Acknowledgements 77 
+Appendices 78 
+ 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 2 
+ 
+Executive Summary 
+1 Document title Report of Northeast Monsoon – 2024 
+2 Document type Scientific Report 
+3 Issue No. IMDC-SR/18 
+4 Issue Date March 2025 
+5 Security Classification Unclassified 
+6 Control Status Unclassified 
+7 No. of pages 78 
+8 No. of Figures 51 
+9 No. of Tables 13 
+10 Appendix (i)-(iii) 
+11 No. of references -- 
+12 Annexure -- 
+13 Distribution Unrestricted 
+14 Language English 
+15 Authors B.Geetha, K.Ramesh, R.V.Deepa, J. Menaka 
+Gandhi, S.Balachandran, P.Senthamarai Kannan,  
+K.Neetha Gopal, S.Stella,         N.Puviarasan and K. Nagaratna 
+16 Authors’ affiliation India Meteorological Department, Chennai 
+17 Originating group Research Section, Regional Meteorological Centre, 
+India Meteorological Department, Chennai 
+18 Reviewing & Approving 
+authority 
+Head, Regional Meteorological Centre, 
+India Meteorological Department, Chennai 
+19 End users State Agriculture department, State disaster       
+management authorities, Press & media, 
+Researchers and general public 
+20 Abstract Given in page 3 
+21 Key words Northeast monsoon, Southern India, Rainfall 
+  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 3 
+ 
+Abstract 
+During the year 202 4, the southwest monsoon withdrew from the Indian region on 15th  
+October and the Northeast monsoon (NEM) of 202 4 commenced simultaneously over the 
+southeastern parts of peninsular India on 15th October 2024 against the normal date of 
+20th October. Of the five meteorological sub divisions (Tamilnadu, Puducherry & 
+Karaikal (TN), Coastal Andhra Pradesh & Yanam (CAP), Rayalaseema (RYS), Kerala & 
+Mahe (KER) & South Interior Karnataka (SIK) benefitted by the Northeast Monsoon, 
+three subdivisions (TN, RYS & SIK) received excess rainfall & the other two 
+subdivisions  (KER & CAP) received normal rainfall  during the NEM season (Oct ober-
+December) 2024. Active to vigorous monsoon conditions prevailed over TN on 20 days, 
+over SIK on 16 days, over KER & RYS on 13 days each and over CAP on 9 days during 
+the season. There were 61 days of isolated heavy rainfall activity with 27 days of isolated 
+very heavy rain including 05 days of isolated extremely heavy rainfall  activity over TN.   
+Two Tropical Cyclones –Severe Cyclonic Storm (SCS) DANA and Cyclonic Storm (CS) 
+FENGAL over the Bay of Bengal  (BOB) and three Depressions (D) (one over Arabian 
+Sea & two over the BOB) affected  the Indian seas during the season . The SCS DANA 
+during 22nd-26th Oct 2024 tracked northwestwards and crossed Odisha coast.  The CS 
+FENGAL during 25th Nov – 01st Dec 2024 crossed North Tamilnadu – Puducherry coast 
+close to Puducherry around the mid -night of 30 th November 2024 and caused torrential 
+rains and extensive damages over North Tamilnadu & Puducherry during 30 th November 
+– 02nd December Dec 2024.  One Depression over BOB during 15 th-16th October was 
+associated with the commencement of the NEM rains. The other 2 -Ds, 1-over AS (13 th-
+15th Oct) & the other over BOB (20 th-21st Dec) did not contribute significantly towards 
+NEM rainfall.  However, a Low Pressure area  (LOPAR) over BOB during 11 th-12th 
+November, a Well Marked Low Pressure Area (WML)  over BOB during 07 th-14th Dec 
+along with  frequent upper air cyclonic circulations / troughs in easterlies during the 
+season contributed significantly towards the r ainfall of NEM 2024 . Further, the season 
+extended into January of 2025. There w as isolated heavy rainfall activity on 7 days 
+including three days of isolated very heavy rain and one day of isolated extremely heavy 
+rain (on 20 th Jan 2025) .  Thereafter, with the gradual decrease in rainfall activity, the 
+cessation of NEM 2024 rainfall over the southern peninsular India was declared on 27th 
+January 2025. 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 4 
+ 
+1.  Background 
+The Indian southwest monsoon (SWM) season of June to September is the chief rainy 
+season for India and  about 75% of the country’s annual rainfall is realis ed during this season. 
+Subsequent to the withdrawal of S WM, the northeast monsoon (NEM), a small scale monsoon 
+confined to parts of southern peninsular India comprising of the meteorological sub -divisions of 
+Tamil Nadu, Puducherry & Karaikal  (TN), Kerala & Mahe (KER), Coastal Andhra Pradesh & 
+Yanam (CAP), Rayalaseema (RYS) and South Interior Karnataka (SIK)  occurs. For the 
+subdivision of TN, the normal SWM seasonal rainfall realised is only about 3 6% (328.5 mm) of 
+its annual rainfall (921.4 mm) as this subdivision comes under the rain-shadow region during the 
+SWM. The northeast monsoon (NEM) season of October to December (OND) is the chief rainy 
+season for this subdivision with 48% (442.8 mm) of its annual rainfall realised during this season 
+and hence its performance is a key factor for this regional agricultural activity. 
+Further, the NEM season is also the primary cyclone season for the North Indian Ocean 
+(NIO) basin comprising of the Bay of Bengal (BOB) and the Arabian Sea (AS) and cyclonic 
+disturbances (CDs; low pressure systems (LPS) with maximum sustained surface wind speed 
+(MSW) of 17 knots or more) forming over BOB and moving west/northwest -wards affect the 
+coastal areas of southeastern peninsular India and also contribute significantly to NEM rainfall. 
+As such, the NEM season assumes importance from the agricultural as well as cyclone disaster 
+management perspectives.  
+Prior to the commencement of NEM rains, after the withdrawal of SWM upto 15°N, 
+reversal of low  level winds from southwesterly to northeasterly occurs. The normal date of 
+setting in of easterlies over the southeastern peninsular India is 14 th October.  The normal date of 
+onset of NEM over Coastal TN (CTN) and south CAP is 20 th October. The normal rainfall 
+received over the five NEM su b-divisions during OND is TN -442.8 mm, KER-492.0 mm, CAP-
+322.9 mm, RYS-236.4 mm and SIK -199.0 mm.  However, the NEM seasonal rainfall shows a 
+high degree of variability with 27% co-efficient of variation.  
+The NEM rainfall is influenced by global climate parameters such as ENSO  (El Nino/La 
+Nina & Southern Oscillation Index) , Indian Ocean Dipole (IOD)  and Madden-Julian Oscillation 
+(MJO). El Nino, positive IOD and MJO in phase 2-4 with amplitude greater than one are 
+generally associated with good NEM rainfall.   
+2. Onset phase 
+During October 2024, as per the data of various global climate monitoring centres, ENSO 
+(El Nino & Southern Oscillation) continued to be in neutral phase, IOD (Indian Ocean Dipole) 
+became negative and the MJO (Madden Julian Oscillation) index which was in phase -1 at the 
+beginning of the month became insignificant thereafter until 13 th, was in phase -4 for a brief 
+period during14th-17th, and then moved to and remained over the western hemisphere from 18 th 
+till the end of the month.  \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 5 
+ 
+Under not very favourable large scale climate settings ( neutral ENSO  & negative IOD), but 
+favourable MJO conditions, atmospheric flow pattern over the Indian region gradually changed 
+from the SWM to NEM conditions during the second week of October 202 4 with the 
+establishment of low level anticyclone over the central India and reversal of low level winds over 
+the southern peninsular India from westerly to easterly flow pattern leading to withdrawal of 
+SWM from the entire country on 1 5th October. Pentad mean wind flow pattern depicting the 
+reversal of wind from westerlies to easterlies during the second week of October 202 4 are 
+presented in Fig.1a. 
+Simultaneously, under the influence of an upper air cyclonic circulation a Low Pressure Area 
+(LOPAR) formed over the Southeast BOB on 14 th, became Well Marked Low Pressure Area  
+over central part of south Bay of Bengal at 0530 IST and persisted over the same region at 0830  
+IST on 15th; concentrated into a Depression and lay centred at 1730 IST of 15th over Southwest 
+Bay of Bengal near latitude 11.4° N and longitude  84.4° E; lay centered at 0830 IST of 16th over 
+the same region near latitude 12.3° N and longitude 83.0° E on 16th; moved west-northwestwards 
+and crossed north Tamilnadu - South Andhra Pradesh coasts between Puducherry and 
+Nellore, close to north of Chennai, near latitude 13.5°N and longitude 80.2°E around 0430 
+IST of 17th October, 2024. Subsequently, it weakened into a WML and lay over South coastal 
+Andhra Pradesh and neighbourhood at 0530 IST / 17th October, 2024.  
+Under its influence, fairly widespread -widespread rainfall occurred over TN during 11 th-16th, 
+over Kerala during 12 th-18th; & over CAP during 14 th-21st; and scattered to widespread  rainfall 
+occurred over RYS & SIK during 14th-22nd Oct 2024.   
+Isolated heavy -very heavy rainfall occurred over TN & CAP during the 24-hr ending 0830 IST 
+of 15th and heavy to very heavy  rain with extremely heavy rain at isolated places occurred over 
+Chennai & Tiruvallur districts of TN ; and heavy to very heavy  rain at a few  places with 
+extremely heavy rain at isolated places occurred over Tirupati district of RYS during the 24 -hr 
+ending 0830 IST of 16th October. Isolated heavy-very heavy rain occurred over RYS and isolated 
+heavy rain occurred over CAP & SIK on 17th Oct 2024. 
+Extremely heavy rainfall was reported at Cholavaram, Red Hills, Avadi areas of Tiruvallur 
+district (30 cm, 28 cm & 25 cm  respectively); and Zone 01 Kathivakkam  & Zone 02 D15 
+Manali in Chennai district (23 cm & 21 cm  respectively); and Sullurpeta in Tirupati district 
+in RYS (22 cm) on 16th October 2024. 
+Active-Vigorous monsoon conditions prevailed over TN during 11 th-16th; over CAP during 15 th-
+17th; over RYS during 15th-19th  & over SIK during 15th-18th Oct 2024.  
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 6 
+ 
+ 
+ 
+Fig.1a: NCEP reanalysis 850 hPa streamline pattern indicating reversal wind from 
+westerly to easterly over peninsular India during the second week of October 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 7 
+ 
+Observed Track of the Depression during 15 th-17th October 2024 is presented in Fig.1b . 
+Scatterometer winds depicting the surface wind circulation as on 2130 IST of 15 th (NOAA-
+ASCAT (METOP-B) and  16 th/1130 IST  (IMD -Oceansat-3) are presented in Fig.1c. IMD-GFS 
+850 hPa wind analysis depicting the associated upper air circulation in the lower levels  as on 
+0530 IST of 13th, 15th & 17th Oct 2024 are presented in Fig.1d. Relative Vorticity of 100x10-6/sec  
+at 850 hPa level depicted by CIMSS, METEOSAT based product as on 15 th/2330 IST is shown 
+in Fig.1e. INSAT-3D, infra-red imagery depicting the associated cloudiness as on 0830 IST of 
+16th October is  shown in Fig.1 f and Doppler Weather Radar, Chennai maximum reflectivity 
+product as on 15th / 0320 IST & 0830 IST are shown in Fig.1g. 
+GPM satellite -gauge merged rainfall as on 24 -hr ending 0830 IST of 14 th -17th October 2024 
+depicting the commencement of NEM rains over TN  and neighbouring subdivisions is presented 
+in Fig.1h. Maps of spatial rainfall distribution and rainfall intensity over TN  and adjoining areas 
+of RYS & CAP  during the 24-hr ending 0830 IST of 15th & 16th October 2024 are presented in 
+Fig.1i. 
+ 
+Fig.1b: Observed track of the Depression over Bay of Bengal during 15th-17th Oct 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 8 
+ 
+ 
+ 
+Fig.1c: Scatterometer winds depicted by NOAA-ASCAT(METOP-B) as on 2130 IST of 15th 
+and IMD-Oceansat-3 as on 1130 IST of 16th October 2024 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 9 
+ 
+  
+ 
+Fig.1d: IMD-GFS, 850 hPa wind analysis as on 0530 IST of 13th, 15th & 17th Oct 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 10 
+ 
+ 
+Fig.1d: contd. 
+ 
+Fig.1e: CIMSS, METEOSAT based 850 hPa,  Relative Vorticity product as on 15th/2330 IST 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 11 
+ 
+ 
+ 
+Fig.1f: INSAT-3D / 3DR infra-red imagery as on 16/0830 IST of Oct 2024 
+ 
+  
+Fig.1g: Doppler Weather Radar Chennai, maximum reflectivity product as on 15 th/0320 
+IST (S-Band) and 15th/0830 IST (X-Band) 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 12 
+ 
+    
+   
+Fig.1h: GPM satellite -gauge merged rainfall as on 24 hr ending 0830 IST of 14-17 Oct 
+2024 
+  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 13 
+ 
+ 
+ 
+Fig.1i: Spatial rainfall distribution and rainfall intensity over TN and adjoining districts of 
+RYS & CAP as on 24-hr ending 0830 IST of 15th & 16th October 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 14 
+ 
+ 
+ 
+Fig.1i: contd 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 15 
+ 
+3a. Major synoptic scale systems during the NEM 2024 season 
+During the period October -December 2024, 1-Severe Cyclonic Storm  (SCS), 1-Cyclonic Storm 
+(CS) and 2 -Depressions (D) formed over the Bay of Bengal  (BOB) and 1 -Depression formed 
+over the Arabian Sea  (AS) as follows:  (i) Depression over Arabian Sea during 13 th-15th 
+October; (ii) Depression over Bay of Bengal during 15 th-17th October;  (iii) Severe Cyclonic 
+Storm ‘DANA’ over Bay of Bengal during 22 nd-26th October;  (iv) Cyclonic Storm ‘FENGAL’ 
+over  Bay of Bengal during 25 th November – 01st December; and  (v) Depression over Bay of 
+Bengal during 20 th-21st Dec 2024 .  The synoptic situations and weather associated with  these 
+systems are discussed below: 
+(i) Depression over Arabian Sea during 13th-15th October 2024 
+During the extended Southwest Monsoon (SWM) phase in the first half of October 2024, a n 
+upper air cyclonic circulation lay over South Kerala & neighbourhood in the morning  of 7 th 
+October 2024. Under its influence, a  Low Pressure Area   formed over Lakshadweep and 
+adjoining Southeast & Eastcentral Arabian Sea in the morning of 09th; it lay as a Well Marked 
+Low Pressure Area  over Eastcentral AS off Karnataka -Goa coasts in the morning of 10 th and 
+gradually concentrated  into a Depression in the evening of 13 th over the central parts of AS.  
+Moving northwestwards it crossed Oman coast  near latitude 19.35°N and longitude 57.7°E, 
+close to Duqm (Oman) on 15th October 2024 during 2230 and 2330 hours IST . Continuing to 
+move northwestwards, it weakened gradually. The track of the system is presented in Fig.2(i)a. 
+ 
+Fig.2(i)a: Track of the Depression over the Arabian Sea during 13-15 Oct 2024 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 16 
+ 
+IMD-GFS, 925 hPa wind analysis as on 0530 IST of 08th & 10th depicting the upper air cyclonic 
+circulation in the lower levels with a trough extending from this circulation to Southwest Bay of 
+Bengal across North Tamilnadu  and IMD-GFS, mean sea level, isobaric analysis as on 12 th 
+October / 0530 IST indicting the centre of the Depression over the central Arabian Sea are shown 
+in Fig.2(i)b. 
+   
+ 
+Fig.2(i)b: IMD-GFS, 925 hPa  wind analysis as on 08th /0530 IST , 10th /0530 IST & Mean 
+Sea Level Pressure analysis as on 12th / 0530 IST of October 2024 
+As the system was moving away from the Indian region, it did not contribute much towards 
+rainfall over the peninsular India. However, during the formative stages of this system, isolated 
+heavy / heavy -very heavy rain occurred over Coastal Karnataka on 08th & 09th; and over the 
+western ghat areas of Tamilnadu on 08th & 10th; and  isolated heavy rain occurred over Kerala on 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 17 
+ 
+08th & 09th; and over SIK on 09th October 2024. Isolated extremely heavy rain also occurred over 
+Kerala on 08th October. Quilandi in Kozhikode district reported 22 cm on 08th Oct 2024. 
+ 
+(ii) Depression over Bay of Bengal during 15th-17th October 2024 
+As discussed in Section-2 on onset phase, under the influence of an upper air cyclonic circulation 
+over Southeast Bay of Bengal and adjoining North Equatorial Indian Ocean on 12th /0830 hours 
+IST of October 2024. A Low Pressure Area formed over the Southeast BOB  in the early 
+morning (0530 hours IST) of 14 th October 2024. It lay as a Well Marked Low Pressure Area 
+over the central parts of South BOB in the early morning (0530 hours IST) of 15 th October and 
+concentrated into a Depression over Southwest BOB in the same evening (1730 hours IST). It 
+moved west -northwestwards and crossed North Tamil nadu - South Andhra Pradesh coasts 
+between Puducherry and Nellore, close to north of Chennai, near latitude 13.5 °N and longitude 
+80.2°E around 0430 hrs IST  of the 17th October.  Subsequently, it weakened into a Well Marked 
+Low Pressure Area and lay over South Coastal Andhra Pradesh and adjoining North Coastal 
+Tamilnadu in the early morning (0530 hrs IST) of the 17 th October, 2024.  The observed track of 
+the system is presented in Fig.1b.  
+As discussed in Section -2 on onset phase, under the influence of this system. fairly widespread-
+widespread rainfall occurred over TN during 11th-16th, over Kerala during 12th-18th; & over CAP 
+during 14th-21st; and scattered to widespread rainfall occurred over RYS & SIK during 14 th-22nd 
+Oct 2024.   
+Isolated heavy -very heavy rainfall occurred over TN & CAP during the 24 -hr ending 0830 IST 
+of 15th and heavy to very heavy  rain with extremely heavy rain at isolated places occurred over 
+Chennai & Tiruvallur districts of TN; and heavy to very heavy  rain at a few  places with 
+extremely heavy rain at isolated places occurred over Tirupati district of RYS during the 24 -hr 
+ending 0830 IST of 16th October. Isolated heavy-very heavy rain occurred over RYS and isolated 
+heavy rain occurred over CAP & SIK on 17th Oct 2024. 
+Extremely heavy rainfall was reported at Cholavaram, Red Hills, Avadi areas of Tiruvallur 
+district (30 cm, 28 cm & 25 cm  respectively); and Zone 01 Kathivakkam  & Zone 02 D15 
+Manali in Chennai district (23 cm & 21 cm  respectively); and Sullurpeta in Tirupati district 
+in RYS (22 cm) on 16th October 2024. 
+Active-Vigorous monsoon conditions prevailed over TN during 11 th-16th; over CAP during 15 th-
+17th; over RYS during 15th-19th  & over SIK during 15th-18th Oct 2024.  
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 18 
+ 
+(iii) Severe Cyclonic Storm ‘DANA’ over Bay of Bengal during 22nd-26th October 2024 
+Under the influence of a cyclonic circulation Andaman Sea on 19th & 20th  October 2024, a Low 
+Pressure Area formed over the Eastcentral Bay of Bengal and adjoining North Andaman Sea in 
+the evening (1730 hours IST) of 20 th October.  Moving west-northwestwards, it became a Well 
+Marked Low Pressure Area  over Eastcentral BOB in the noon (1130 hours IST) of 21st 
+October. Continuing to move west -northwestwards, it concentrated into a Depression over 
+Eastcentral BOB in the early morning (0530 hours IST) of 22 nd October. It then moved 
+northwestwards and intensified into a Deep Depression  over Eastcentral BOB in the same 
+evening (1730 hours IST). Continuing to move further northwestwards, it intensified into a 
+Cyclonic Storm “DANA” over Eastcentral BOB in the early morning (0530 hours IST  ) of 23rd  
+October. It then moved north-northwestwards and intensified into a Severe Cyclonic Storm over 
+the C entral & adjoining Northwest BOB in the mid -night (2330 hours IST) of 23 rd October, 
+2024. Continuing to move north -northwestwards, it crossed North Odisha coast close to 
+Habalikhati Nature Camp (Bhitarkanika) and Dhamara during 0130 hrs IST to 0330 hrs 
+IST of 25 th October as a SCS with a wind speed of 100 -110 kmph gusting to 120 kmph . 
+Continuing to move further north -northwestwards slowly, it weakened into a CS over north 
+coastal Odisha in the forenoon (0830 hours IST) of 25 th October and further into a Deep 
+Depression in the afternoon (1430 hours IST). Thereafter, it gradually moved westwards, 
+weakened into a Depression over interior Odisha in the midnight (2330 hours IST) of 25 th  
+October and further into a WML over North Odisha in the early morning (0530 hours IST) of 
+26th  October. The track of the system is presented in Fig.2(ii)a. 
+ 
+Fig.2(ii)a: Track of Severe Cyclonic Storm ‘DANA’ over Bay of Bengal during 22 -26 Oct 
+2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 19 
+ 
+Satellite based cloud imagery as on 23 rd October /0400 IST when the system was over the sea 
+and Doppler Weather Radar, maximum reflectivity product when the system centre crossed coast 
+as on 0343 IST of 25th October are presented in Fig.2(ii)b & c respectively. 
+ 
+Fig.2(ii)b: INSAT-3DR, TIR1 imagery as on 23 Oct 2024 / 0400 IST 
+ 
+Fig.2(ii)c: Doppler Weather Radar, Paradeep, Maximum Reflectivity product  as on 25 Oct 
+2024 / 0342 IST 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 20 
+ 
+As this system towards North Odisha, it did not contribute significantly towards rainfall over the 
+northeast monsoon region. However, due to  change in the flow pattern and sweeping away of 
+moisture from the northeast monsoon region, rainfall activity was subdued over the northeast 
+monsoon region. TN recorded only isolated rainfall activity during 27 th-31st October. Further, 
+only isolated rainfall occurred over CAP & RYS on most of the days during the last week of 
+October and the first week of November 2024. 
+ (iv) Cyclonic Storm ‘FENGAL’ over Bay of Bengal during 25th Nov – 02nd Dec 2024 
+Under the influence of an upper air cyclonic circulation over East Equatorial Indian Ocean 
+(EEIO) and adjoining South Andaman Sea during 21 st & 22nd November 2024, a Low Pressure 
+Area formed over East Equatorial Indian Ocean (EEIO) and adjoining Southeast Bay of Bengal 
+in the morning (0830 hours IST) of 23 rd November. Moving west -northwestwards, it became a 
+Well Marked Low Pressure Area  in the morning (0830 hours IST) of 24 th November over 
+southeast BOB and adjoining EEIO. It moved west -northwestwards, concentrated into a 
+Depression in the morning (0830 hours IST) of 25 th November over central parts of South BOB 
+and adjoining EEIO. Moving further west-northwestwards, it intensified into a Deep Depression 
+in the morning (0830 hours IST /0300 UTC), of 26 th November over Southwest BOB. 
+Continuing to move west -northwestwards, it intensified into a Cyclonic Storm ‘FENGAL’ 
+[pronounced as FEINJAL] over Southwest B OB in the afternoon (1430 hours IST) of 29 th  
+November. It then moved initially westwards & then west -southwestwards and crossed North 
+Tamilnadu & Puducherry coasts close to Puducherry between 2230 hours IST and 2330 
+hours IST of 30 th November as a CS with wind speed of 70 -80 kmph gusting to 90 kmph. 
+Thereafter, it remained practically stationary for almost 12 hours and weakened into a Deep 
+Depression in the forenoon (1130 hours IST) of 1 st December over North Coastal Tamilnadu. 
+Continuing to move further west -northwestwards, it weakened into a Depression over the same 
+region in the evening (1730 hours IST) of 1 st December.  Thereafter, it moved nearly westwards 
+and weakened into a WML over North Interior Tamilnadu in the early morning (0530 hours IST) 
+of 2 nd December 2024. The track of the system is presented in Fig.2(iii)a.  NOAA-ASCAT, 
+Scatterometer winds as on 30th November / 21:30 IST indicating gale force winds of the order of 
+70-80 kmph off  Cuddalore -Puducherry-Villupuram coasts is shown in Fig.2(iii)b. Surface mean 
+sea level isobaric analysis as on 0830 IST and upper air streamline analysis as on 0530 IST of 
+30th November are shown in Fig.2(iii)c. 
+INSAT-3DR, satellite imagery depicting the cloudiness associated with the system as on 1130 
+IST of 30th November & Doppler Weather Radar, Karaikal, Maximum Reflectivity product as on 
+01st December 01:00 IST are shown in Fig.2(iii)d&e. Plots of hourly special coastal observations 
+taken at the coastal stations of TN and south CAP from Pamban (TN) to Kavali (CAP) on the 
+day of landfall are presented in Fig.2(iii)f. \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 21 
+ 
+ 
+Fig.2(iii)a: Track of the Cyclonic Storm ‘FENGAL’ over the Bay of Bengal during 25 Nov -
+02 Dec 2024 
+Associated with the landfall of the system gale winds with speed 6 5-70 kmph were recorded at 
+various stations in the coastal areas of Cuddalore, Puducherry, Villupuram, Chengalpattu & 
+Chennai districts [Fig.2(iii)g]. Puducherry AWS recorded mean sea level pressure of 994.7 hPa 
+during the early hours (0315-0330 IST) of 01st December.  Also, associated with the passage of 
+the system, northeastern parts of Tamilnadu and Puducherry experienced torrential rains on 01 st 
+& 02 nd December.  Extremely heavy  rainfall occurred over Puducherry; very heavy to 
+extremely heavy rainfall occurred at most places over Villupuram district; very heavy rainfall 
+occurred at most places with extremely heavy rainfall at isolated places  over Thiruvannamalai 
+district; very heavy rainfall occurred at most places over Tiruvallur & Ranipet districts; heavy to 
+very heavy rainfall occurred at many places with extremely heavy rainfall at isolated places over 
+Cuddalore & Kanchipuram districts; heavy to very heavy rainfall at most places over Chennai, 
+Chengalpattu & Kallakurichi districts; isolated heavy to very heavy  rain occurred over Salem 
+district and isolated heavy rainfall occurred over Vellore, Tirupattur, Dharmapuri, 
+Krishnagiri, Namakkal & Mayiladuthurai districts during the 24-hr ending 08:30 IST of 01st 
+December 2024 . There were extremely heavy rainfall reports from 16 stations in Villupuram 
+district, 6 stations in Puducherry, 3 stations in Thiruvannamalai district, 2 stations in Cuddalore 
+district and 1 station in Kanchipuram district. The highest rainfall amount of 51 cm was 
+recorded at Mailam  in Villupuram district followed by Puducherry: 49 cm on 01 st 
+December 2024. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 22 
+ 
+On 02nd December, extremely heavy rainfall occurred at many places over Villupuram district; 
+very heavy-extremely heavy rainfall occurred at many places over Kallakurichi district and at a 
+few places over Thiruvannamalai district; heavy to extremely heavy  rainfall occurred at many 
+places over Krishnagiri district and at a few  places over Salem district; heavy-very heavy  
+rainfall at many places with isolated extremely heavy  rainfall occurred over Dharmapuri 
+district; heavy to very heavy  rainfall occurred at a few  places over Cuddalore district; heavy 
+rainfall occurred at many places over Tirupattur district and at isolated places over Namakkal 
+&  Nilgiris districts. There were extremely heavy rainfall reports from 10 stations in Villupuram 
+district, 5 stations from Kallakurichi district, 3 stations from Krishnagiri district and 1 station 
+each from Dharmapuri, Salem & Thiruvannamalai  districts.  Uthangarai in Krishnagiri  
+district reported the highest rainfall of 50 cm  followed by RSCL-2 Kedar  in Villupuram  
+district reporting 42 cm . Fig.2(iii)h presents the autographic charts of Self Recording Rain 
+Gauges (SRRG) at Puducherry & Cuddalore  pertaining to the 24 -hr ending 0830 IST of  01 st & 
+02nd December and Fig.2(iii)i presented the spatial rainfall distribution and rainfall intensity over 
+TN during the 24-hr ending 0830 IST of 01st & 02nd December 2024. 
+Associated with the passage of the system, extensive damages were reported over the north 
+coastal and adjoining interior districts of Tamilnadu and Puducherry. Torrential rains coupled 
+with release of water from Sathanur dam in Thiruvannamalai district caused catastrophic 
+flooding  over Thiruvannamalai,  Kallaurichi, Villupuram, Cuddalore and adjoining districts and 
+Puducherry area. Some media reports on the damages caused are furnished in Fig.2(iii) j. 
+ 
+Fig.2(iii)b: NOAA-ASCAT, Scatterometer winds as on 30th November / 21:30 IST 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 23 
+ 
+ 
+ 
+Fig.2(iii)c: Surface mean sea level isobaric analysis as on 0830 IST and upper air 
+streamline analysis as on 0530 IST of 30th Nov 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 24 
+ 
+ (d) 
+ (e) 
+Fig.2(iii) d&e: INSAT-3DR, TIR1 imagery as on 1130 IST of 30 th November (d) & Doppler 
+Weather Radar, Karaikal, Maximum Reflectivity product as on 01 st December 01:00 IST 
+(e). 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 25 
+ 
+ 
+Flig.2(iii)f: Plots of hourly special coastal observations from Pamban (TN) to Kavali (CAP) 
+on 30 Nov 2024 
+ 
+Fig.2(iii)g: Plots of wind speed recorded by High Wind Soeed Recorder (HWSR) / 
+Automatic Weather Stations (AWS) at various coastal stations  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 26 
+ 
+ 
+ 
+ 
+Fig.2(iii)g: contd. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 27 
+ 
+ 
+ 
+Fig.2(iii)g: contd. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 28 
+ 
+ 
+ 
+Fig.2(iii)h: Self Recording Rain Gauge charts of Puducherry & Cuddalore as on  24 -hr 
+ending 0830 IST of  01st & 02nd December 2024. 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 29 
+ 
+ 
+ 
+Fig.2(iii)i: S patial rainfall distribution and rainfall intensity over TN during the 24 -hr 
+ending 0830 IST of 01st & 02nd December 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 30 
+ 
+A district-wise list of heavy rainfall reports over TN during the 24-hr ending 0830m IST of 01st 
+&02nd Dec 2024 is furnished in Table-1 below: 
+Table-1: District-wise & Date-wise list of h eavy rainfall amounts reported on  01st & 02nd 
+Dec 2024  
+District Date-wise list of h eavy rainfall (cm) recorded during the 24 -hr ending 
+08:30 hrs IST of 01st & 02nd Dec 2024  
+ 
+Villupuram 01st Dec: Mylam AWS 51; Tindivanam 37; RSCL -2 Nemoor 35; RSCL 
+Vallam 32; RSCL-3 Semmedu 31; RSCL-2 Valavanur 28; RSCL-2 Koliyanur 
+28; Vilupuram 27; Gingee 25; RSCL-2 Kedar 25; RSCL-3 Valathy 24; Vanur 
+24; RSCL-2 Soorapattu 24; Marakkanam 24; RSCL-3 Avalurpettai 23; RSCL-
+3 Anandhapuram 21; BASL Mugaiyur 18; RSCL -2 Kanjanur 16; RSCL -2 
+Mundiyampakkam 15; BASL Manampoondi 13; SCS Mill Arasoor 8; SCS 
+Mill Thiruvennainal 7; 
+02nd Dec: RSCL-2 Kedar 42; RSCL-2 Soorapattu 38; Vilupuram 35; RSCL-2 
+Mundiyampakkam 32; RSCL-2 Koliyanur 32; BASL Mugaiyur 30; RSCL-2 
+Valavanur 30; RSCL -2 Nemoor 29; RSCL -2 Kanjanur 29; BASL 
+Manampoondi 29; RSCL -3 Anandhapuram 17; RSCL -3 Semmedu 11; SCS 
+Mill Arasoor 7; SCS Mill Thiruvennainal 7; RSCL-3 Avalurpettai 7;  
+Puducherry 01st Dec: Puducherry AWS 49; Puducherry 48; Patthukannu 45; Thirukkanur 
+43; Puducherry Town 40; Bahour 32; 
+02nd Dec: Thirukkanur 11; Bahour 8; 
+Tiruvannamalai 01st Dec: Tiruvannamalai AWS 22; Chetpet 22; Jamunamarathur 21; 
+Keelpennathur 20; Arani 18; Cheyyar ARG 17; Vandavasi 16; Kalasapakkam 
+16; Thandarampettai 15; Cheyyar 14; Vembakkam 14; Chengam 9; 
+Tiruvannamalai 7; Polur 7; 
+02nd Dec: Jamunamarathur 23; Thandarampettai 20; Tiruvannamalai 16; 
+Keelpennathur 15; Chengam 7;  
+Cuddalore 01st Dec: Cuddalore 23; Cuddalore Collector Office 21; Vanamadevi 19; SRC 
+Kudithangi 17; Panruti 14; Kattumayilur 11; Virdhachalam KVK AWS 9; 
+Virudachalam 9; Kuppanatham 9; Vridhachalam ARG 8; Me Mathur 8; 
+Vadakuthu 8; Vepur 7; Parangipettai 7; Srimushnam 7; Kurinjipadi 7; 
+02nd Dec: Panruti 16; Vanamadevi 15; Kattumayilur 14; Vepur 12; Me 
+Mathur 12; SRC Kudithangi 11; Sethiathope 10; Pelandurai 9; Bhuvanagiri 8; 
+Kuppanatham 7; Lakkur 7; Kilacheruvai 7; Chidambaram 7; Vridhachalam 
+ARG 7;  
+Kancheepuram 01st Dec: Uthiramerur 21; Kancheepuram 15; Sriperumbudur 13; Walajabad \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 31 
+ 
+13; Kundrathur 11; ACS Medical College ARG 11; 
+Kallakurichi 01st Dec: Thirukoilur ARG 16; Kallakurichi 15; Kallakurichi ARG 14; DSCL 
+Madampoondi 13; DSCL Thirupalapandal 12; DSCL Kalayanallur 12; 
+Tirukoilur 12; BASL Manalurpet 11; KCS Mill-1 Ariyalur 11; BASL Vengur 
+11; Sankarapuram 11; Ulundurpet 11; DSCL Virugavoor 11; Ariyalur Camp 
+Area 10; DSCL Sulangurichi 10; DSCL Thiyagadurgam 10; DSCL Keelpadi 
+10; DSCL Rishivandhiyam 9; DSCL Eraiyur 9; KCS Mill -1 Kadavanur 9; 
+Manimutharu Dam PWD 8; KCS Mill -2 Moorarpalayam 8; KCS Mill -1 
+Moongilthuraipattu 8; 
+02nd Dec: DSCL Thirupalapandal 32; DSCL Madampoondi 31; BASL Vengur 
+27; Tirukoilur 26; DSCL Eraiyur 23; BASL Manalurpet 21; Sankarapuram 19; 
+Kallakurichi 18; DSCL Kalayanallur 17; KCS Mill -2 Moorarpalayam 15; 
+KCS Mill -1 Moongilthuraipattu 15; Ulundurpet 15; DSCL Sulangurichi 15; 
+DSCL Rishivandhiyam 15; SCS Mill Pillaiyarkuppam 15; DSCL Keelpadi 15; 
+DSCL Virugavoor 14; KCS Mill-1 Ariyalur 13; Ariyalur Camp Area 13; KCS 
+Mill-1 Kadavanur 13; DSCL Thiyagadurgam 11; Manimutharu Dam PWD 11; 
+KCS Mill-2 Kachirayaopalayam 11; Kallakurichi ARG 9; Gomugi Dam PWD 
+9;  
+Krishnagiri 01st Dec: Pambar Dam 9; Uthangarai 7; 
+02nd Dec: Uthangarai 50; Jambukuttapatti 25; Pochampalli ARG 25; Pambar 
+Dam 21; Barur 20; Penucondapuram 19; Nedungal 14; Krishnagiri 11; Paiyur 
+AWS 11; KRP Dam 10;  
+Dharmapuri 01st Dec: Harur 9; Subramania Siva Co.Op Sugar Mill 9; Pappireddipatti 7; 
+02nd Dec: Harur 33; Pappireddipatti 20; Dharmapuri PTO 16; Pennagaram 11; 
+Palacode ARG 9; Hogenekal 9; Palacode 8; Dharamapuri 7;  
+Salem 01st Dec: Yercaud 14; Attur 9; Veeraganoor 8; Thammampatty 7; 
+02nd Dec: Yercaud 24; Kariyakovil Dam 15; Anaimaduvu Dam 10; Omalur 
+10; Danishpet 10; TNAU CRI Yethapur 8;  
+Ranipet 01st Dec: Arcot 18; Wallajah 15; Kalavai PWD 15; Arakonam 14; Sholingur 
+14; Palar Anicut 13; Kaveripakkam 13; Panapakkam 13; Minnal 13; Ranipet 
+AWS 12; Ammoor (Walajah Railway) 11; Ranipet 9; 
+Tiruvallur 01st Dec: Gummidipoondi 20; Avadi 19; Tiruttani 18; Thamaraipakkam 16; 
+Pallipattu 14; Jaya Engg College AWS 14; Koratur 13; Uthukottai 13; 
+Chembarabakkam_REV 13; R.K.Pet ARG 13; Red Hills 13; Poondi 13; 
+R.K.Pet 13; Tiruvallur 13; Cholavaram 12; Tiruttani AWS 12; Tiruttani PTO 
+11; Ponneri 11; Poonamallee 10; Thiruvalangadu 10; Puzhal ARG 9; 
+Chembarambakkam ARG 9; Ennore AWS 7; \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 32 
+ 
+Chengalpattu 01stDec: Maduranthagam 20; Chengalpattu 20; Thirukalukundram 19; 
+Tambaram 16; Cheyyur 15; Mahabalipuram 14; LMOIS Kolapakkam ARG 
+12; Nctpl Marg ECR AWS 11; VIT_Chennai AWS 9; Thirupporur 9; 
+Mahabalipuram AWS 8; Hindustan_University 7; Kelambakkam 7; 
+Satyabama Uty ARG 7; 
+Chennai 01stDec: MGR Nagar 15; Ayanavaram Taluk Office 15; Zone 12 
+Meenambakkam 12; Ambathur Rev 12; Valasaravakkam 12; Ambattur MW 
+12; Zone 07 Ayapakkam 12; Zone 11 Maduravoyal 12; Chennai (AP) 11; 
+Alandur 11; Meenambakkam AWS 11; Zone 11 Valasaravakkam 11; Anna 
+Nagar 11; Thiru-Vi-Ka Nagar 11; Chennai Collector Office 11; Perambur 11; 
+Chennai(N) AWS 11; Sholinganallur 11; Kodambakkam 11; Chennai (N) 11; 
+Zone 10 Vadapalani 11; DGP Office 10; CD Hospital Tondiarpet 10; Zone 12 
+D156 Mugalivakkam 10; Zone 18 Aminjikarai 10; Zone 05 Basin bridge 10; 
+Zone 14 Madipakkam 10; Anna University 9; Zone 03 Puzhal 9; Zone 03 
+Madhavaram 9; Zone 04 Tondiarpet 9; Zone 01 Thiruvottiyur 9; Madhavaram 
+9; YMCA Nandnam ARG 9; Anna University ARG 9; Royapuram 9; Zone 08 
+Anna Nagar West 9; Zone 06 Kolathur 9; Zone 09 Nungambakkam 9; 
+Tondairpet 8; NIOT_Pallikaranai ARG 8; Zone 13 Adyar 8; Adyar 8; Zone 12 
+Alandhur 8; Perungudi 8; Zone 05 Chennai central 8; Thiruvottiyur 7; Zone 07 
+Ambattur 7; Zone 02 D15 Manali  7; Zone 01 Kathivakkam 7; Zone 15 
+Sholinganallur 7; Zone 09  Ice House 7; Zone 15 Uthandi 7; Sholinganallur 
+MW 7; Zone 13 Raja Annamalaipuram 7; 
+Tirupathur 01st Dec: Alangayam 10; Tirupattur AWS 9; Tirupattur PTO 8; 
+Vadapudupattu 8; 
+02nd Dec: Vadapudupattu 8; Vaniyambadi 8; Tirupattur PTO 7; Natrampalli 7; 
+Ambur 7; Tirupattur AWS 7; TCS Mill Kethandapatti 7;  
+Vellore 01st Dec: Vellore 11; Ponnai Dam 10; Ammundi 10; Katpadi 9; Virinjipuram   
+AWS 8; 
+Namakkal 01st Dec: Rasipuram 7; 
+02nd Dec: Mangalapuram 7;  
+Myladuthurai 01st Dec: Kollidam 7. 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 33 
+ 
+ 
+ 
+Fig.2(iii) j: Media reports on damages due to the cyclone FENGAL 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 34 
+ 
+ 
+Fig.2(iii) j: contd. 
+Severe weather warnings  
+Warnings for very heavy to extremely heavy rainfall on 30th November 2024 were issued on 29th 
+& 30th November for the north coastal and adjoining districts; and for 01 st December, on 30 th 
+November & 01st December for the north coastal and interior districts.  Extremely heavy rainfall 
+warning was issued for both the days for Puducherry, Villupuram, Kallakurichi & Cuddalore 
+districts (Fig.2(iii)k). Warnings for gale winds during the time of landfall were issued for the 
+north coastal districts on 29 th & 30th November 2024 (Fig.2(iii)k). The warnings were issued to 
+the state authorities, other stake holders, press and the public. Frequent updates were posted in 
+the website and social media handles. 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 35 
+ 
+  
+  
+ 
+  
+Fig.2(iii)k:  Heavy rainfall and wind warnings dated 29-30 Nov & 01 Dec 2024 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 36 
+ 
+(v) Depression over Bay of Bengal during 20th-21st Dec 2024 
+Under the influence of an upper air cyclonic circulation over south Andaman Sea and adjoining 
+southeast Bay of Bengal, a Low Pressure Area formed over central parts of south BOB in the 
+morning (0830 hours IST) of the 16 th December, 2024.  It lay as a Well Marked Low Pressure 
+Area over Southwest BOB in the morning (0830 hours IST) of the 18 th.  Moving 
+southwestwards it lay over Southwest and adjoining Westcentral BOB in the morning (0830 
+hours IST) of 19 th. Thereafter, it moved nearly northwards and lay over Westcentral and 
+adjoining Southwest BOB in the morning (0830 hours IST) of 20 th.  Moving further northwards, 
+it concentrated into a Depression over Westcentral BOB off Andhra Pradesh coast in the 
+evening (1730 hours IST) of 20 th. Thereafter, It moved east -northeastwards and lay over 
+Westcentral BOB in the morning (0830 hours IST) of 21st. Moving further east-northeastwards it 
+weakened into a WML over the same region in the evening (1730 hours IST) of 21 st December, 
+2024. Thereafter, moving west -southwestwards / westwards, it weakened into a Low Pressure 
+Area over the Westcentral and adjoining Southwest Bay of Bengal off South Andhra Pradesh – 
+North Tamilnadu coast on 26 th December 2024. The observed track of the system is depicted in 
+Fig.2(iv)a. 
+ 
+Fig.2(iv)a: Observed track of the Depression over the Bay of Bengal during 20-21 Dec 2024 
+IMD-GFS, 850 hPa winds as on 19 th/0530 IST and NOAA -ASCAT (METOP-C) Scatterometer 
+winds as on 19 th/0915 IST depicting the circulation off North TN coast are presented in 
+Fig.2(iv)b. Satellite imageries depicting cloudiness associated with the system (i) along & off 
+north TN & Andhra Pradesh coasts as on 18th/1615 IST and (ii) over the sea away from the coast 
+as on 21st/0515 IST  are presented in Fig.2(iv)c.  
+As the system did not cross coast, but, moved further into the sea, it did not cause extensive 
+rainfall activity over the southern peninsula. However, fairly widespread, light -moderate rainfall 
+was realized over CAP on three days during 19 th-21st December 2024 with heavy rain at a few 
+places over Vizianagaram district (highest: 9 cm  at Bondapalle) and at isolated places over 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 37 
+ 
+Visakhapatnam district on 21st. Isolated rainfall occurred over TN during 18th-21st with isolated 
+heavy rain over Chennai on 19 th Dec 2024. Under the influence of the remnant of the system 
+widespread rainfall occurred over CAP during the 24-hr ending 0830 IST of 25th & 26th and over 
+RYS on 27 th December 2024. Isolated heavy rain also occurred over CAP, RYS & extreme 
+northeastern parts of TN on 27th December 2024. 
+ 
+ 
+Fig.2(iv)b: IMD-GFS, 850 hPa winds as on 19 th/0530 IST and NOAA -ASCAT (METOP-C) 
+Scatterometer winds as on 19th/0915 IST 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 38 
+ 
+ 
+ 
+Fig.2(iv)c: INSAT-3DR, TIR1 products as on 18/1615 IST & 21/0515 IST 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 39 
+ 
+3b.  Other significant synoptic systems 
+(i) Well Marked Low Pressure Area over Bay of Bengal during 07th-13th December 2024 
+Under the influence of an upper air cyclonic circulation , a Low Pressure Area formed over the 
+Southeast Bay of Bengal & adjoining East Equatorial Indian Ocean, 07th December / 0830 IST. It 
+persisted over the same region during the next two days. Thereafter, it lay as a Well Marked 
+Low Pressure Area over the Southwest and adjoining Southeast Bay of Bengal at 0830 hrs IST 
+10th  with the associated upper air cyclonic circulation extend ing up to mid -tropospheric levels. 
+Moving west-northwestwards, it lay over southwest Bay of Bengal off Sri Lanka coast  at 0830 
+IST of 1 1th with the associated upper air cyclonic circulation extend ing up to mid -tropospheric 
+levels. Moving further westr -northwestwards, it  lay over Gulf of Mannar and neighbourhood at 
+0830 IST  of 12th with the associated upper air cyclonic circulation extending up to mid -
+tropospheric levels. Moving westwards, it gradually weakened and lay as a Low Pressure Area 
+over Lakshadweep -Maldives area at 0830 IST of 13 th with the associated upper air cyclonic 
+circulation extending up to mid -tropospheric levels. Moving further westwards, it became less 
+marked during the subsequent 24 hours. 
+Under its influence, rainfall occurred at many/most places over Tamil, Puducherry & Karaikal 
+during the 24-hr ending 0830 IST of 12th-14th December 2024. 
+Heavy rain occurred at isolated places over the north coastal districts of Tiruvallur, Chennai, 
+Kancheepuram, Chengalpattu, Villupuram, Cuddalore, Mayiladuthurai, Nagapattinam, Tiruvarur 
+and Thanjavur districts and over Puducherry & Karaikal areas during the 24 -hr ending 0830 IST 
+of 12 th December 2024. Isolated very heavy  rain also occurred over Nagapattinam &  
+Chengalpattu districts during the same period.  
+Heavy to very heavy  rain occurred at a few  places over the North Coastal & neighbouring 
+districts and over the southern districts of Tamilnadu with extremely heavy rain at a few places 
+over Tirunelveli district and at  isolated places over  Tenkasi, Thoothukudi, Cuddalore, 
+Mayiladuthurai, Thanjavur, Ariyalur & Tiruvallur districts on 13th.  Oothu in Tirunelveli 
+district recorded the highest rainfall of 54 cm during this period. 
+Heavy to very heavy  rain occurred at isolated places over the delta and adjoining districts of 
+North Tamilnadu districts and over the southern districts of Tamilnadu with extremely heavy  
+rain at isolated places over Tirunelveli, Thoothukudi & Tenkasi districts of South Tamilnadu. 
+Maps of spatial rainfall distribution and rainfall intensity at various stations in Tamilnadu, 
+Puiducherry & Karaikal are presented in Fig.3(i)a. A district-wise list of extremely heavy rainfall 
+events during the 24-hr ending 0830 IST of 13th & 14th Dec 2024 is furnished in Table-2. 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 40 
+ 
+ 
+ 
+Fig.3(i)a:  Rainfall distribution and intensity at various stations in Tamilandu, Puducherry 
+& Karaikal during the 24-hr ending 0830 IST of 12th, 13th & 14th Dec 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 41 
+ 
+ 
+Fig.3(i)a: contd. 
+ 
+Table-2: List of extremely heavy rainfall reports during 13th-14th Dec 2024 
+District Station-wise extremely heavy rainfall amounts (cm) during the 24 hrs 
+ending 08:30 IST of 13.12.2024 & 14.12.2024 
+Tirunelveli 13th: Oothu 54; Ambasamudram 37; Kannadaian Anicut 35; Kakkachi 35; 
+Manjolai 32; Nalumukku 31; Manimutharu 30; Palayamkottai 26; Servalar 
+Dam 24; Cheranmahadevi 23; Papanasam 22; Tirunelveli AWS 21;  
+14th:  Oothu 23, Nalumukku 22; 
+Thoothukudi 13th: Kovilpatti 37;  
+14th: Tuticorin Airport ARG 21; 
+Tenkasi 13th: Ayikudi 31; Shencottah 24; Ramanadhi Dam Section 24; Thenkasi 23; 
+Gundar Dam 21; 
+14th: Gadana Dam 26;  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 42 
+ 
+Cuddalore 13th: Lalpet 31; Srimushnam 24; K.M koil 24; Kilacheruvai 22; Pelandurari 
+21; Sethathope 21; 
+Mayiladuthurai 13th: Manalmedu ARG: 26; Mayiladuthurai 22; 
+Thnajavur 13th: Thiruvidaimaruthur 21;  
+Ariyalur 13th:: Jayamkondam 21; 
+Thiruvallur 13th: Avadi 22; 
+ 
+Associated with this intense rainfall activity, inflow to several key water bodies increased 
+substantially leading to overflowing of rivers, release of water from dams etc. causing severe 
+flooding and inundation of low lying areas in South Tamilnadu; the delta & adjoining districts; 
+and Chennai and adjoining districts. Fig.3(i) b presents a sample media report on the extent of 
+flooding and damages caused by this extreme rainfall event. 
+ 
+ 
+Fig.3(i)b: Sample media report on the flooding due to heavy rainfall 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 43 
+ 
+(ii) Low Pressure Area over Southwest Bay of Bengal during 11th-12th November 2024 
+Under the influence of an upper air cyclonic circulation  over Southeast Bay of Bengal that 
+moved gradually westward during 04 th – 11th November and lay over  the Southwest Bay of 
+Bengal on 11th, a Low Pressure Area formed over the same region on 11th at 1430 Hrs IST with 
+associated cyclonic circulation extending upto  5.8 km above mean sea level tilting 
+southwestwards with height. It lay over Southwest and adjoining Westcentral Bay of Bengal off 
+North Tamil nadu & adjoining South Andhra Pradesh coasts on 12 th with associated cyclonic 
+circulation extending upto 4.5 km above mean sea level tilting southwestwards with height  and 
+became less marked on 13th November 2024. Under its influence, isolated heavy to very heavy  
+rain occurred over North Coastal and adjoining districts of TN during the 24 -hr ending 0830 IST 
+of 13 th with Sirkali & Mayiladuthurai  (both in Mayiladuthurai district) recording 14 cm  of 
+rain. Isolated heavy rain also occurred over North Coastal TN during the 24 -hr ending 0830 IST 
+of 12th & 14th November 2024. As the system did not cross coast and move inland, significant 
+rainfall occurred only over the coastal districts.  IMD-GFS, 925 hPa wind analysis depicting the 
+upper air circulation associated with the system as on 12 th/0530 IST of Nov 2024 is presented in 
+Fig.3(ii)a. Satellite imageries depicting the cloudiness associated with  the rainfall over the North 
+Coastal TN are presented in Fig.3(ii)b&c. Map of 24 -hr accumulated precipitation as on 0830 
+IST of 13 th November depicting the isolated heavy -very heavy rainfall over the North Coastal 
+TN is presented in Fig.3(ii)d. 
+ 
+Fig.3(ii)a: IMD-GFS, 925 hPa wind analysis as on 0530 IST of 12th Nov 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 44 
+ 
+ 
+Fig.3(ii)b: INSAT-3DR, TIR1 as on 13/0900 IST of Nov 2024 
+ 
+Fig.3(ii)c: INSAT-3DR, brightness temperature product as on 13/0315 IST of Nov 2024 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 45 
+ 
+ 
+Fig.3(ii)d: 24-hr accumulated precipitation over the TN subdivision as on 0830 IST of 13 th 
+Nov 2024 
+ 
+(iii) Upper air cyclonic circulations & trough in easterlies 
+Aside from the above systems, under the influence of upper air cyclonic circulations and troughs 
+in easterlies, significant rainfall occurred over the NEM region during Oct -Dec 20 24. In this 
+regard, it may be mentioned that when the Low Pressure Area over the Southwest Bay of Bengal 
+during the 11 th-12th Nov 2024, became less marked on 13 th, the associated upper air cyclonic 
+circulation lay over Southwest Bay of Bengal off north Tamil nadu coast and extended upto 0.9 
+km above mean sea level on 13 th; lay over South Tamilnadu & neighbourhood at 0.9 km above 
+mean sea level on 14 th; lay over Gulf of Mannar & adjoining Sri Lanka coast and extended upto 
+1.5 km above mean sea level on 15th November 2024.  
+Further, a cyclonic circulation lay over Southeast Arabian Sea and adjoining Kerala coast 
+&extended upto 0.9 km above mean sea level on 12 th; lay over Southeast Arabian sea off Kerala 
+coast between 1.5 & 3.1 Km above mean sea level on 13 th; lay over Lakshadweep and adjoining 
+Southeast Arabian sea and extended upto 3.1 km above mean sea level on 14th Nov 2024.  
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 46 
+ 
+A cyclonic circulation lay over Maldives & adjoining Equatorial Indian Ocean at 0.9 km above 
+mean sea level on 17th; lay over Comorin area & neighbourhood at 0.9 km above mean sea level 
+on 18th; lay over south Tamilnadu & adjoining Comorin area at 1.5 km above mean sea level on 
+19th; lay over Comorin area & neighbourhood at 0.9 km above mean sea level on 20 th ; persisted 
+over the same region on 21st Nov 2024. 
+Under the influence of these upper air cyclonic circulations, significant rainfall occurred over the 
+delta and the south coastal districts of TN during 15th-21st Nov 2024. Heavy to extremely heavy  
+rainfall occurred at a few places over the Ramanathapuram district of South Coastal TN during 
+the 24 -hr ending 0830 ISGT of 21 st with Rameswaram reporting 44 cm  followed by 
+Thangachimadam: 34 cm, Pamban: 28 cm, Mandapam: 27 cm  (all in Ramanathapuram 
+district).  
+Heavy to very heavy rainfall occurred at a few places over the ghat areas of Tirunelveli district 
+of TN on 16th & 20th; at isolated places over Nagapattinam district on 18 th, 20th & 21st; and at 
+isolated places over KER on 16th Nov 2024. 
+Heavy rain also occurred at a few places over the ghat areas of Tirunelveli district on 15th, 17th, 
+& 19th; at isolated heavy rain also occurred over Cuddalore & Mayiladuthurai districts on 15 th; 
+over Tiruvarur district on 18 th; over Nagapattinam & Mayiladuthurai districts on 19 th; over 
+Ramanathapuram district on 20th; and over Tiruvarur district & Karaikal area on 21st Nov 2024. 
+Heavy to very heavy  rainfall also occurred at isolated places over KER on 16 th; and isolated 
+heavy rain occurred over KER on 15th, 18th & 20th Nov 2024.  
+IMD-GFS, 925 hPa analysis indicating the cyclonic circulation over the Comorin area and 
+neighbourhood on the  20 th November 2024, sample satellite imagery depicting the cloudiness 
+associated with the system  on 20 th forenoon, sample radar imagery showing the maximum 
+reflectivity product on 20 th forenoon & map of rainfall distribution and intensity as on 24 -hr 
+ending 0830 IST of 21st November 2024 are presented in Fig.3(iii)a-d respectively. \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 47 
+ 
+ 
+Fig.3(iii)a:  IMD-GFS, 925 hPa analysis as on 0530 IST of 20 Nov 2024 
+ 
+ 
+Fig.3(iii)b: INSAT-3DR, infra-red imagery as on 10:45 IST of 20 Nov 2024 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 48 
+ 
+ 
+Fig.3(iii) c: Doppler Weather Radar, Karaikal Maximum Reflectivity product as on 10:43 
+IST of 20 Nov 2024 
+ 
+Fig.3(iii)d: 24-hr accumulated rainfall over the TN subdivision as on 0830 IST of 21 Nov 
+2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 49 
+ 
+4.  Sub divisional rainfall performance during NEM 2024 
+4.1 Seasonal rainfall 
+During October-December 2024, the northeast monsoon seasonal rainfall was normal (-19% to 
++19%) to excess (+20% to +59%) over all the five meteorological subdivisions benefitted by the 
+NEM viz., TN (+33%, excess), RYS ( +46%, excess), SIK (+43%, excess), KER (-1%, normal), 
+and CAP (-9%, normal).  Fig.4a and Table-3 present the season ending (01 st Oct-31st December 
+2024) rainfall figures over these subdivisions. 
+ 
+Fig.4a:  Seasonal rainfall performance of NEM 20 24 over the five meteorological 
+subdivisions benefitted by the NEM 
+Table-3:  Subdivisional seasonal rainfall during October-December 2024 
+Subdivision 01st October – 31st December 2024 
+Actual (mm) Normal (mm) PDN (%) 
+Coastal Andhra Pradesh & Yanam (CAP) 292.5 322.9 -9 
+Rayalaseema (RYS) 344.4 236.4 +46 
+Tamilnadu, Puducherry & Karaikal (TN) 589.9 442.8 +33 
+South Interior Karnataka (SIK) 285.5 199.0 +43 
+Kerala & Mahe (KER) 487.2 491.9 -1 
+PDN: Percentage Departure from Normal 
+Legend: 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 50 
+ 
+4.2 Monthly, Weekly & Daily rainfall scenario 
+The intra -seasonal rainfall distribution over various sub -divisions during Oct -Dec 20 24 is 
+presented in monthly and daily scales. Month-wise rainfall statistics are presented in Table-4 and 
+Fig.4b. Tables-5a&b present the weekly rainfall over the various subdivisions and Tables-6a&b 
+present the daily rainfall scenario in terms of spatial rainfall distribution ( Widespread: WS, 
+Fairly widespread: FWS, Scattered: SCT, Isolated: ISOL and DRY). 
+ 
+Table-4:  Subdivisional monthly rainfall during NEM 2024 
+2024 OCT NOV DEC 
+SUB-DIVISION Actual 
+rainfall  
+Normal 
+rainfall 
+PDN 
+(%) 
+Actual 
+rainfall  
+Normal 
+rainfall 
+PDN 
+(%) 
+Actual 
+rainfall  
+Normal 
+rainfall 
+PDN (%) (mm)  (mm) (mm)  (mm) (mm)  (mm) 
+CAP  170.7 182.2 -6 39.0 113.1 -66 86.6 27.6 +214 
+RYS 194.2 132.1 +47 46.5 78.4 -41 103.7 25.9 +300 
+TN 214.2 171.9 +25 140.2 181.7 -23 235.5 89.2 +164 
+SIK 225.5 137.2 +64 28.5 51.2 -44 31.6 10.6 +198 
+KER 239.5 306.4 -22 116.4 153.1 -24 131.4 32.4 +305 
+ 
+ 
+ 
+ 
+Fig.4b: Subdivisional monthly rainfall performance during October-December 2024  
+ 
+ 
+During October 2024, TN, RYS & SIK recorded excess to large excess rainfall with percentage 
+departures from normal being +25%, +47% & +64% respectively. CAP received normal (-6%) 
+rainfall and KER, deficient (-22%) rainfall. Till 14 th Oct, southwest monsoon contributed 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 51 
+ 
+significantly with active monsoon conditions prevailing over TN on 07 days, SIK: 05 days, KER: 
+03 days, RYS: 02 days & CAP: 01 day. Subsequently, under the influence of NEM, due to 
+passage of a Depression over North Tamilnadu & South Andhra Pradesh during 15 th-16th and its 
+remnant’s influence during the subsequent few days,  vigorous NEM conditions prevailed over 
+TN & CAP on 15 th; over RYS: 15 th &17th and over SIK: 16 th & 17 th; and active monsoon 
+conditions prevailed over CAP on 16 th, 17th, 20th & 21st; RYS: 18 th, 19th & 22nd; SIK: 19 th, 20th, 
+22nd-24th October. Thereafter, due to the formation of movement of SCS DANA during 22nd-26th 
+October that crossed Odisha coast, NEM activity was subdued over the southern peninsular 
+region till the end of the month with just one day of active monsoon condition over KER on 24 th 
+& over TN on 25th October.  
+ 
+In November, but for upper air cyclonic circulations that caused significant rainfall activity over 
+the Cauvery delta districts and extreme south Tamilnadu, in the absence of any major synoptic 
+system that formed over Bay of Bengal, crossing coast and moving across the NEM region, all 
+the five subdivisions ended up on the deficient side with CAP coming under largely deficient    
+(-66%) and all the other subdivisions, under deficient category  (TN: -23%,  KER: -24%,   RYS: 
+-41% & SIK: -44%). 
+ 
+In December, due to significant rainfall activity (i) under the influence of the CS FENGAL 
+during the first three of  December including the extreme rainfall activity on 01st & 02nd and (ii) 
+under the influence of  the Well Marked Low Pressure Area over the Bay of Bengal during 07 th-
+13th December during the 12th-14th  including the extreme rainfall activity over the extreme South 
+Tamilnadu on 13 th December 2024 , all the fivc subdivisions received large excess  rainfall of 
++160% to +300%. 
+ 
+In the weekly scale  (Table-5a), during the week ending 04 th December, all the fiv e subdivisions 
+recorded large excess  rainfall (+216% to +7 36%); during the week ending 16 th October, 
+excepting KER that received normal rainfall, all the other four subdivisions recorded large 
+excess rainfall (+116% to +164% ). During the weeks ending 18 th December and 01 st Jan, three 
+subdivisions received large excess  rainfall (+260% to +470% ) and (+69% to +297% ) 
+respectively. During the weeks ending 30 th Oct, 13th Nov & 27 th Nov, all the five subdivisions 
+became deficient- largely deficient. 
+ 
+Considering the cumulative weekly rainfall performance (Table-5b), it may be noted that TN & 
+RYS were generally under normal / excess / large excess  category through out the season; SIK, 
+on most of the weeks. KER came under normal category on many weeks during the season. CAP 
+was generally under deficient category on many weeks till 18th December. 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 52 
+ 
+ 
+Table 5a: Weekly rainfall performance over various subdivisions during Oct-Dec 2024 
+ 
+ 
+Table 5b: Cumulative week ending scenario during Oct-Dec 2024 
+ 
+ 
+ 
+In the daily scale  (Table-6a&b), fairly widespread to widespread rainfall occurred over KER on 
+35% of the days during the season; over TN, CAP & SIK, on 26%, 22% & 21% of the days 
+respectively and over RYS, on 17% of the days. TN, CAP & KER recorded isolated to scattered 
+rainfall activity on 60% to 72% of the days during the season. On about 20 -30% of the days 
+during the season, RYS & SIK remained dry.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 53 
+ 
+Table-6a: Spatial rainfall distribution during 01st October -31st December 2024 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 54 
+ 
+Table-6a (contd.) 
+ 
+ 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 55 
+ 
+Table-6b: Percentage frequency of various categories of daily spatial rainfall distribution  
+Category OCT - DEC 2024 
+CAP RYS TN SIK KER 
+WS 5 9 9 8 13 
+FWS 17 8 17 13 22 
+SCT 13 16 26 16 20 
+ISOL 47 45 46 33 40 
+DRY 16 21 0 29 4 
+WD: Widespread 
+(76-100% of stations reporting rainfall) 
+FWD : Fairly widespread 
+(51-75% of stations reporting rainfall) 
+SCT: Scattered 
+(26-50% of stations reporting rainfall) 
+ISOL: Isolated 
+(≤25% of stations reporting rainfall) 
+DRY: No rain  
+ 
+4.3 Monsoon activity & heavy rainfall events 
+ 
+Table-7a&b present the frequency of active and vigorous monsoon days and frequency of heavy 
+rainfall days ( Heavy rainfall ≥ 7cm/day ;   Very Heavy rainfall  ≥ 12cm/day; Extremely Heavy 
+rainfall ≥ 21 cm/day) during the season. 
+During Oct-Dec 2024, Active to Vvigorous monsoon conditions prevailed over TN on 22% of 
+the days during the season (20 days out of 92 days); on 13-17% of the days over SIK, KER & 
+RYS,; and on 10% of the days over CAP.   
+In October, there were 14 days & 10 days of active to vigorous monsoon conditions over SIK & 
+TN respectively; and 5-8 days over CAP, RYS & KER.  In November, 5 days & 4 days of active 
+to vigorous monsoon conditions prevailed over TN & KER respectively; and 1 day over SIK, & 
+RYS.  In December, 5 days of active to vigorous monsoon activity occurred over TN; and 3-4 
+days over CAP, RYS & KER. 
+ 
+Table-7a:    Frequencies of active and vigorous monsoon days during Oct-Dec 2024 
+  No. of days of active and vigorous monsoon conditions 
+Subdivision OCT NOV DEC OCT-DEC 
+ACT VIG ACT VIG ACT VIG ACT VIG 
+CAP 5 1 0 0 2 1 7 2 
+RYS 5 3 1 0 1 3 7 6 
+TN 8 2 4 1 1 4 13 7 
+SIK 11 3 1 0 0 1 12 4 
+KER 5 0 4 0 0 4 9 4 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 times the normal 
+with at least two stations reporting more than or equal to 3 cm in coastal Tamil Nadu, south coastal Andhra Pradesh 
+and 2 cm elsewhere in the NEM region.  
+Vigorous: Fairly widespread to widespread sub-divisional rainfall with rainfall more than 4 times the normal with at 
+least two stations reporting more than or equal to 5 cm in coastal Tamil Nadu, south coastal Andhra Pradesh and 3 
+cm elsewhere in the NEM region. \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 56 
+ 
+ 
+Table-7b: Frequency of heavy rainfall days during Oct-Dec 2024 
+ 
+Heavy:   rainfall ≥ 7cm/day;        Very Heavy:   rainfall ≥ 12cm/day;  Extremely Heavy:   rainfall ≥21 cm/day 
+ 
+ Regarding heavy rainfall occurrences (≥ 7 cm/day), TN experienced 61 days (66%) of 
+isolated heavy rainfall events during the season including  27 days (29%) of isolated very heavy  
+rain with isolated extremely heavy  falls on 5 days (5%). Over Kerala, isolated heavy rain 
+occurred on 31 days (34%) including 10 days of isolated very heavy  rain and 1 day of isolated 
+extremely heavy rain. Over RYS, isolated heavy rain occurred on 27 days (29%) including 6 days 
+of isolated very heavy rainfall & 1 day of isolated extremely heavy rain. There were 23 days of 
+isolated heavy  rainfall activity  over SIK including 3 days of isolated very heavy  rain out of 
+which 21 days were in the month of October . CAP experienced 20 days of isolated heavy rain 
+including 3 days of isolated very heavy rain. District-wise list of very heavy to extremely heavy 
+rainfall events over various subdivisions is presented in Table-7c. 
+ 
+ 
+Table-7c:  List of very heavy to extremely heavy rainfall events during Oct-Dec 2024 
+2024
+>=21 >=12 >=7 >=21 >=12 >=7 >=21 >=12 >=7 >=21 >=12 >=7
+cm/day cm/day cm/day cm/day cm/day cm/day cm/day cm/day cm/day cm/day cm/day cm/day
+CAP 0 3 12 0 0 1 0 0 7 0 3 20
+RYS 1 3 16 0 0 2 0 3 9 1 6 27
+TN 1 11 26 1 9 20 3 7 15 5 27 61
+SIK 0 3 21 0 0 1 0 0 1 0 3 23
+KER 1 5 16 0 2 12 0 3 3 1 10 31
+Oct Nov Dec Oct-Dec 2024
+Sub div
+DISTRICT 
+Date, Station and 24-hr accumulated rainfall (cm; ≥ 12 cm) (ending 0830 
+IST of the specified date) 
+ 
+COASTAL ANDHRA PRADESH & YANAM 
+BAPATLA Oct : 15th : Addanki-14 
+PARVATHIPURAM 
+MANYAM Oct : 28th : Parvathipuram - 12, 
+SPSR NELLORE Oct : 15th : Kavali - 15, Kandukur-12; 16th :  Kavali-18, Nellore-13 
+RAYALASEEMA 
+CHITTOOR Dec : 01st : Nagari-13 
+SRI SATYA SAI Dec : 04th : Gorantla -14, 
+TIRUPATI 
+Oct : 16th : Sullurpeta-22, Tada-12; 
+Dec : 01st :  Sullurpeta-17, Tada-15; 13th :  Sullurpeta-14, Tada-12 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 57 
+ 
+YSR-KADAPA 
+Oct : 17th : Kodur-14; 
+Dec : 01st : Kodur-12 
+TAMILNADU, PUDUCHERRY & KARAIKAL 
+ARIYALUR 
+Dec: 13th : Jayamkondam-21, Sendurai-20, Ariyalur TalukOffice-18, Ariyalur PTO-
+18, Ariyalur AWS-18, Suthamalli Dam-16, Kuruvadi-13 
+CHENNAI 
+Oct : 16th : Zone 01 Kathivakkam – 23,  Zone 02 D15 Manali – 21, Zone 06 T.V.K 
+Nagar – 19, Zone 06 D65 Kolathur -18, Zone 13 U39 Adyar -18, Zone 07 Ambattur-
+18, Zone 01 Thiruvottiyur -17, Perungudi-17, Zone 02 Manali-17, Ennore AWS -17, 
+Perambur-16, Zone 08 Malar Colony -16, Zone 03 Puzhal -16, Ayanavaram Taluk 
+Office-16, Anna University ARG -16,  Ambathur-15, Anna University-15, MGR 
+Nagar-15, Sholinganallur -15, Thiru-Vi-Ka Nagar -15, Tondiarpet -15, Zone 05 
+Royapuram -15, Adayar-15, Zone 03 Madhavaram -14, Zone 04 Tondiarpet -14,  
+Chennai(N) AWS-14, Chennai (N) -14, CD Hospital Tondaiarpet -14, YMCA 
+Nandnam ARG -14, Kodambakkam -14, Zone 08 Anna Nagar -13,  Anna Nagar-
+13,Zone 07 U18 D81 Vanagaram-13, Chennai Collector Office-13, Zone 10 
+Kodambakkam -13, DGP Office -13, Royapuram -13, Zone 09 Ice House -12, 
+NIOT_Pallikaranai ARG -12,  Zone 09 Teynampet-12 Teynampet -12, Alandur -12, 
+Chennai (AP) -12, Meenambakkam AWS -12, Zone 11 U32 Maduravoyal -12 
+ 
+Nov : 27th : Zone 02 D15 Manali-13;  30th : Zone 01 Kathivakkam-12; 
+ 
+Dec : 01st : MGR Nagar-15, Ayanavaram Taluk Office-15,  Zone 12 Meenambakkam-12, Ambathur 
+Rev-12, Valasaravakkam-12, Zone 07Ayapakkam-12,, Zone11 Maduravoyal -12, Ambattur MW-12 
+CHENGALPATTU 
+Dec 01st : Maduranthagam-20, Chengalpattu-20, Thirukalukundram-19, Tambaram-16, Cheyyur-15, 
+Mahabalipuram-14, LMOIS Kolapakkam ARG-12; 12th :  Maduranthagam-12;13th :  
+Maduranthagam-12 
+CUDDALORE 
+Oct : 05th : Me Mathur-13; 06th :  Vadakuthu-13; 
+Dec : 01st : Cuddalore -23, Cuddalore Collector Office-21, Vanamadevi-19,  SRC Kudithangi-17, 
+Panruti-14; 02nd :  Panruti-16, Vanamadevi-15,Kattumayilur-14;  
+02nd :  Vepur-12, Me Mathur-12; 13th : Lalpet-31, Srimushnam-24, K.M.Koil-24, 
+Kilacheruvai-22, Pelandurai -21, Sethiathope-21, Me Mathur-18, Lakkur-18, 
+Tozhudur-17, Bhuvanagiri-17, Kattumayilur-17, Vepur-16, Virudachalam-14, 
+Kuppanatham-14, Virdhachalam KVK AWS-12, Chidambaram-12 
+COIMBATORE 
+Oct : 10th : PWD Makkinampatti - 12, 
+Nov : 04th : Pillur Dam Mettupalayam-12 
+DHARMAPURI Dec : 02nd : Harur-33,Pappireddipatti-20, Dharmapuri PTO-16 
+DINDIGUL Dec : 13th :Kodaikannal Boat Club-13, Oddanchatram-13, Palani ARG-12 
+KALLAKURICHI 
+Dec : 01st : Thirukoilur ARG -16, Kallakurichi-15,  Kallakurichi ARG-14, DSCL Madampoondi -13, 
+DSCL Thirupalapandal-12, DSCLKalayanallur-12, Tirukoilur-12; 
+Dec : 02nd :  DSCL Thirupalapandal-32, DSCL Madampoondi-31, BASL Vengur-27, Tirukoilur-26, , 
+DSCL Eraiyur-23, BASL Manalurpet-21, Sankarapuram-19, Kallakurichi-18,  DSCL Kalayanallur-
+17,KCS Mill-2 Moorarpalayam-15, KCS Mill-1 Moongilthuraipattu-15, Ulundurpet-15, DSCL 
+Sulangurichi-15, DSCL Rishivandhiyam -15, SCS Mill Pillaiyarkuppam-15, DSCL Keelpadi-15, 
+DSCL Virugavoor-14, KCS Mill-1 Ariyalur -13, Ariyalur Camp Area-13, KCS Mill-1 Kadavanur-13; 
+13th :  Kallakurichi 
+-17, DSCL Virugavoor-13 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 58 
+ 
+KANCHIPURAM 
+Oct : 16th : Hindustan_University -17;   
+Dec : 01st : Uthiramerur -21, Kancheepuram-15, Sriperumbudur-13, Walajabad-13; 
+13th :  Sriperumbudur-17, Kundrathur-14 
+KANYAKUMARI Oct : 24th : Thuckalay-12 
+Nov : 03rd : Kottaram-16,Kanniyakumari-13, 
+KARUR Dec : 03rd : Thogamalai - 13 
+KARAIKAL Dec : 13th : Karaikal-20, Karaikal AWS-18,  
+KRISHNAGIRI 
+Oct : 24th : Kelavarapalli Dam-12; 
+Dec : 02nd :  Uthangarai -50, Jambukuttapatti-25, Pochampalli ARG-25, Pambar Dam-21, Barur-20, 
+Penucondapuram-19, Nedungal-14 
+MADURAI Oct : 13th : Madurai AWS -16, Tallakulam -12, Periyapatti-12 
+MAYILADUTHURAI 
+Nov : 13th : Sirkali-14,  Kollidam-14; 
+Dec : 13th :  Manalmedu ARG-26, Mayiladuthurai-22, Mayiladuthurai AWS-19, 
+Sembanarkoil PWD-18, Manalmedu-17, Tarangambadi-13 
+NAMAKKAL Oct : 06th : Rasipuram-12 
+NAGAPATTINAM 
+Nov : 18th : Vedaranyam-19, Kodiayakarai-15; 20th : Kodiayakarai-15, Tirupoondi-13;  
+21st :  Kodiayakarai-17, Vedaranyam-12; 27th : Nagapattinam AWS-19,Kodiayakarai-
+18,Nagapattinam-18, Velankanni-18,Tirupoondi-14, Thirukuvalai-13, Vedaranyam-12;  
+Dec : 12th :  Kodiayakarai-18, Thalaignayer -15, Velankanni -13; 14th :  Kodiayakarai-15 
+NILGIRIS 
+Nov : 03rd : Kil Kotagiri Estate-14,Coonoor PTO-14,Kothagiri-14,Alakarai Estate-14,Adar Estate-
+13, Burliar-12, Billimalai Estate-12 
+PERAMBALUR 
+Dec : 13th :  Eraiyur-17,Agaram Seegoor-14, Labbaikudikadu-14, Veppanthattai-13, 
+Thaluthalai-12 
+PUDUKKOTTAI 
+Oct : 05th : Avudayarkoil-12; 15th :  Kudimiyanmalai-13; 
+Dec : 13th :  Avudayarkoil-14, Manamelkudi-13 
+PUDUCHERRY 
+Oct : 05th : Thirukkanur-12; Nov : 13th : Puducherry AWS-12,  Puducherry-12; 
+Dec : 01st : Puducherry AWS – 49, Puducherry – 48, Patthukannu – 45,  
+Thirukkanur -43,Puducherry Town – 40, Bahour -32, 
+RAMANATHAPURAM 
+Oct : 05th : Thangachimadam-12; 13th :  Rameswaram-12 
+Nov : 21st : Rameswaram -44, Thangachimadam-34, Pamban-28, Mandapam-27, Ramanathapuram-
+13;  
+Dec : 13th :  Kamudhi-17, Kamudhi ARG-12 
+RANIPET 
+Dec : 01st :  Arcot-18, Wallajah-15, Kalavai PWD-15,  Arakonam -14, Sholingur-14, Palar Anicut-13, 
+Kaveripakkam -13, Panapakkam-13, Minnal-13,Ranipet AWS-12;  
+13th :  Ranipet AWS-14, Arakonam-14, Panapakkam-14, Kaveripakkam-13, Arcot-12 
+SALEM 
+Oct : 21th : Mettur – 15; 25th :  Anaimaduvu-15; 
+Dec : 01st :  Yercaud -14; 02nd :  Yercaud-24; 02nd :  Kariyakovil Dam-15 
+SIVAGANGAI Oct : 06th : Sivagangai PWD TB-13; 12th : Karaikudi -15; 13th :  Tirupuvanam - 14 
+THANJAVUR 
+Oct : 13th : Vettikadu-12; 14th :  Budalur-12; 25th :  Orthanad-13; 
+Dec 13th : Thiruvidaimaruthur-21, Aduthurai AWS-20, Manjalaru-20, Budalur-19, 
+Kumbakonam-19, Tirukattupalli-18, Lower Anaicut-17, Thanjai Papanasam-15, 
+Ayyampettai-15; 14th :  Orthanad-12, Kurungulam-13 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 59 
+ 
+THENI Nov : 03rd : Sothuparai-12 
+THENKASI 
+Dec 13th :  Ayikudi-31, Shencottah-24,Ramanadhi Dam Section-24, Thenkasi-23, 
+GundarDam-21, Sankarankoil-15, Karuppanadhi Dam-14, Sivagiri-14, 
+Adavinainnarkoil Dam-14; 14th :  Gadana Dam-26, Ramanadhi Dam Section-15, Shencottah-
+14, Gundar Dam-14 
+THOOTHUKUDI 
+Dec 13th :  Kovilpatti-37, Vilathikulam-19, Ettayapuram-17, Vaippar-17, 
+Kalugumalai-17, Kadambur-16, Kovilpatti AWS-15, Old Taluk Office 
+Srivaikuntam-15, Surangudi-13, Kadalkudi-12; 14th :  Tuticorin Airport ARG-21, 
+Tuticorin-16, Kayalpattinam-12 
+TIRUCHIRAPPALLI Oct : 12th : Tiruchirappalli Airport - 13 
+TIRUNELVELI 
+Nov : 16th  : Nalumukku – 12;  20th  : Nalumukku-17,Oothu-15; 20th : Kakkachi-14; 
+Dec 13th :  Oothu-54, Ambasamudram-37, Kannadaian Anicut-35, Kakkachi-35 
+Manjolai-32, Nalumukku-31, Manimutharu-30, Palayamkottai-26, Servalar 
+Dam-24, Cheranmahadevi-23, Papanasam-22, Tirunelveli AWS-21, Kalakadu-15, 
+Tirunelveli-13; 14th :  Oothu-23, Nalumukku-22, Kakkachi-19, Manjolai-18, Papanasam-15, 
+Servalar Dam-14; 15th :  Papanasam-13; 31st : Oothu-14, Nalumukku-13, Kakkachi-12 
+TIRUVANNAMALAI 
+Oct : 19th : Kalasapakkam-17; 
+Dec : 01st :  Tiruvannamalai AWS -22, Chetpet – 22,  Jamunamarathur-21, Keelpennathur-20, Arani-
+18, Cheyyar ARG-17, Vandavasi -16, Kalasapakkam -16, Thandarampettai -15,  Cheyyar -14, 
+Vembakkam -14; 02nd : , Jamunamarathur-23,Thandarampettai-20, Tiruvannamalai-16, 
+Keelpennathur-15; 04th :  Kalasapakkam-12 
+THIRUVARUR 
+Nov : 27th :  Tiruvarur-12; 
+Dec 13th : Nannilam-12; 14th : Needamangalam-14 
+THIRUVALLUR 
+Oct : 16th : Cholavaram – 30, Red Hills – 28, Avadi – 25, Puzhal ARG -18, Good 
+Will School VillivakkamARG -16, Ponneri-16, Thamaraipakkam-16 
+Nov : 30th :  Ennore AWS-13; 
+Dec : 01st :  Gummidipoondi-20, Avadi-19, Tiruttani-18, Thamaraipakkam-16, Pallipattu-14, 
+JayaEngg College AWS-14, Koratur-13, Uthukottai-13, Chembarabakkam_REV -13, R.K.Pet ARG -
+13, Red Hills-13, Poondi-13, R.K.Pet -13, Tiruvallur-13, Cholavaram-12, Tiruttani AWS-12; 
+Dec 13th :  Avadi-21, Tiruttani-17,  Koratur-14, Poonamallee-14, 
+Chembarabakkam_REV-14, Thiruvalangadu-13, Tiruvallur-13, PoonamalleARG-12 
+TIRUPPUR 
+Oct : 21th : Udumalpet – 12; 
+Dec 13th : Thirumoorthy IB-14, Thirumoorthi Dam-13 
+VILLUPURAM 
+Dec : 01st : Mylam AWS – 51,  Tindivanam – 37, RSCL-2 Nemoor- 35, RSCL Vallam – 32, RSCL-3 
+Semmedu-31, RSCL-2 Valavanur-28, RSCL-2 Koliyanur-28, Vilupuram-27, Gingee -25, RSCL-2 
+Kedar – 25, RSCL-3 Valathy-24, Vanur-24, RSCL-2 Soorapattu-24,Marakkanam – 24, RSCL-3 
+Avalurpettai-23 ,  RSCL-3 Anandhapuram-21, BASL Mugaiyur-18, RSCL-2 Kanjanur-16, RSCL-2 
+Mundiyampakkam -15, BASL Manampoondi-13,  
+Dec : 02nd :  RSCL-2 Kedar -42, RSCL-2 Soorapattu – 38, Vilupuram-35, RSCL-2 
+Mundiyampakkam-32, RSCL-2 Koliyanur-32, BASL Mugaiyur-30, RSCL-2 Valavanur-30, RSCL-2 
+Nemoor -29, BASL Manampoondi-29, RSCL-2 Kanjanur-29, RSCL-3 
+Anandhapuram-17,  
+VIRUDHUNAGAR 
+Oct : 13th : Sivakasi-12; 
+Dec : 13th :  Vembakottai-14, Sattur-13, Sivakasi-12; 14th :  Virudunagar AWS-13 
+SOUTH  INTERIOR KARNATAKA 
+CHITRADURGA Oct : 05th : Nayakanahatty-13;  18th : Nayakanahatty-15; 22nd :  Nayakanahatty-13 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 60 
+ 
+ 
+4.4   District rainfall scenario 
+Fig.4c presents the district wise seasonal rainfall during October to December 2024. As seen, in 
+KER, Kozhikode district received excess rainfall (+31%) and most other districts & Mahe of 
+Puducherry received normal rainfall. However, Kollam & Ernakulam  districts became 
+deficient (-21% & -24% respectively) during the season.  
+In TN, all the districts received normal to excess  rainfall with many districts coming under 
+excess category. Krishnagiri, Tirupattur, Dharmapuri, Salem, Villupuram & Tirunelveli  
+districts received large excess rainfall (+62% to +86%).   
+In SIK also, all the districts received normal to excess rainfall with Chitradurga, Davangere, 
+Vijayanagara, Mandya & Ramanagara districts receiving large excess  rainfall (+73% to 
++135%).  
+In RYS, excepting Kurnool that received deficient rainfall ( -26%), all other districts received 
+normal to excess rainfall with Sri Satya Sai district receiving large excess rainfall of +108%.   
+SHIVAMOGGA Oct : 05th : Agumbe Emo-17, 
+KERALA & MAHE 
+ALAPPUZHA 
+Oct : 12th : Alapuzha -16; 
+Nov : 16th : Kayamkulam-15; 
+Dec : 02nd : Haripad-15, Cherthala-12, Thycauttussery-12 
+ERNAKULAM 
+Oct : 24th : Idamalayar Dam-12; 
+Dec : 02nd : C.I.A.L. Kochi-15, Perumbavur-14, Aluva-13,  
+ 
+IDUKKI 
+Oct : 27th : Peermade To-13; 
+Dec : 02nd : Peerumedu-15; 13th :  Kovilkadav-12 
+KASARGOD Dec : 03rd : Hosdurg – 20, Kudulu -16 
+KANNUR 
+Oct : 07th : Irikkur – 13; 
+Dec : 03rd : Irrikur-17, Cheruvanchery - 12 
+KOTTAYAM Dec : 02nd : Kottayam -18, Kanjirappally-16, 
+KOLLAM Dec : 13th : Aryankavu-15 
+KOZHIKODE 
+Oct : 08th : Quilandi – 22; 12th :  Vadakara -18; 
+Dec : 03rd : Vadakara-18, Kozhikode-16, Quilandi – 13, Vadakara -13 
+MALAPPURAM 
+Oct : 07th : Perinthalamanna -15; 
+Dec : 03rd : Ponnani – 17,  Thennala-17, Angadipuram -15, Perinthalamanna -13, 
+Karipur Ap.-12 
+THRISSUR 
+Dec : 02nd : Kodungallur – 19; 03rd :  Enamakkal -20,  Irinjalakuda-17, Chalakudi-15, 
+Kunnamkulam-14, Vellanikkara-13 
+PATHANAMTHITTA 
+Nov : 03rd :  Laha-12;  
+Dec : 02nd : Kurudamannil – 17, Konni-16, Ranni -16, Laha-13, Kunnathanam-12 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 61 
+ 
+In CAP, many districts ended up deficient with East Godavari district reporting largely deficient 
+rainfall of -80%. SPSR Nellore district & Yanam of Puducherry received excess rainfall of 
++28% & +25% respectively. Prakasam, Bapatla, Konaseema, Visakhapatnam, Vizianagaram, 
+Parvatipuram Manyam districts received normal rainfall. 
+ 
+ 
+ 
+Fig.4c: District-wise rainfall performance in various subdivisions during Oct-Dec 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 62 
+ 
+ 
+ 
+ 
+Fig.4c: contd. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 63 
+ 
+5. Rainfall distribution over Tamilnadu and Puducherry 
+Spatial and temporal distribution  of rainfall  over the TN subdivision during Oct -Dec 
+2024 are depicted by the district-wise rainfall distribution and area averaged daily rainfall 
+distribution over TN . Fig. 5a presents the daily rainfall distribution over the TN subdivision 
+(including Puducherry and Karaikal) during Oct -Dec 2024. The daily TN subdivisional rainfall 
+was continuously below normal during 04th-14th & 22nd-26th November.  
+State / UT & District-wise seasonal rainfall during Oct-dec 2024 are presented in Tables-
+8a&b and Fig. 4c and district -wise monthly rainfall performance is depicted in Fig. 5b. As seen, 
+excepting Kanyakumari, Thoothukudi, Virudunagar, Theni, Nilgiris, Erode, Perambalur, 
+Mayiladuthurai, Cuddalore, Puducherry, Chengalpattu & Kancheepuram districts ( 12 districts) 
+that received normal rainfall, all the other 28 districts (including Karaikal) received excess to 
+large excess  rainfall with Krishnagiri, Tirupattur, Dharmapuri, Salem, Villupuram & 
+Tirunelveli districts recording large excess  rainfall of +62% to +86 %. As such, all the 40 
+districts (including Puducherry & Karaikal), received normal to large excess  rainfall during the 
+Oct-Dec 2024 season. 
+In the monthly scale,  during October 2024, excepting Tirunelveli, Thoothukudi, 
+Tenkasi & Nagapattinam districts that became deficient, all the other 36 districts including 
+(Puducherry & Karaikal) received normal to excess  rainfall. During November 2024, 28 out of 
+40 districts ended up deficient to largely deficient  with Vellore, Tiruppatur, Dharmapuri, 
+Kallakurichi & Karur districts reporting large deficiency  (-60% to -75%). Whereas 
+Nagapattinam, Karaikal, Tiruvarur, Ramanathapuram & Tir unelveli districts recorded 
+excess to large excess  rainfall with Nagapattinam district recording large excess  rainfall of 
++78% and Chennai, Puducherry, Mayiladuthurai, Thanjavur, Pudukkottai, Sivagangai & 
+Kanyakumari districts recorded normal rainfall, all the other 28 districts became deficient. 
+ 
+Fig.5a:  Area averaged daily rainfall over TN subdivision during Oct-Dec 2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 64 
+ 
+Table-8a: State /UT wise rainfall figures of Tamilnadu, Puducherry & Karaikal during Oct-Dec 2024 
+Subdivision / State /  UT 
+Actual rainfall 
+(mm) 
+Normal rainfall 
+(mm) 
+Percentage departure 
+from normal (%) 
+TN subdivision  589.9 442.8 +33 
+Puducherry& Karaikal (UT) 1056.1 896.1 18 
+Tamil Nadu State 588.2 441.2 +33 
+Table-8b: District wise rainfall figures of Tamilnadu, Puducherry & Karaikal during Oct-Dec 2024 
+District 
+  Oct-Dec 2024 
+Actual (mm)  Normal (mm)  PDN (%) 
+ARIYALUR 617.1 501.9 +23 
+CHENGALPATTU 724.4 707.7 +2 
+CHENNAI 1077.6 809.6 +33 
+COIMBATORE 504.1 337.6 +49 
+CUDDALORE 780.8 701.5 +11 
+DHARMAPURI 508.1 314.2 +62 
+DINDIGUL 598.6 460.0 +30 
+ERODE 328.2 307.1 +7 
+KALLAKURICHI 645.1 455.5 +42 
+KANCHEEPURAM 644.5 591.7 +9 
+KANYAKUMARI 540.0 532.6 +1 
+KARAIKAL 1380.9 1014.2 +36 
+KARUR 424.1 313.2 +35 
+KRISHNAGIRI 518.7 278.7 +86 
+MADURAI 535.8 370.0 +45 
+MAYILADUTHURAI 924.6 888.1 +4 
+NAGAPATTINAM 1224.8 935.3 +31 
+NAMAKKAL 406.8 270.4 +50 
+NILGIRIS 496.1 501.3 -1 
+PERAMBALUR 492.7 432.0 +14 
+PUDUCHERRY 878.7 831.6 +6 
+PUDUKKOTTAI 556.5 385.6 +44 
+RAMANATHAPURAM 657.4 531.4 +24 
+RANIPET 608.0 406.0 +50 
+SALEM 540.1 331.7 +63 
+SIVAGANGA 617.4 422.7 +46 
+TENKASI 564.1 465.7 +21 
+THANJAVUR 743.7 579.4 +28 
+THENI 404.2 364.3 +11 
+TIRUNELVELI 862.3 514.9 +67 
+TIRUPATTUR 494.0 266.3 +86 
+TIRUPPUR 441.6 305.7 +44 
+TIRUVALLUR 843.6 623.9 +35 
+TIRUVANNAMALAI 667.8 450.4 +48 
+TIRUVARUR 894.1 725.4 +23 
+TOOTHUKUDI 407.8 441.9 -8 
+TRICHY 541.2 379.4 +43 
+VELLORE 515.7 375.8 +37 
+VILLUPURAM 877.5 531.3 +65 
+VIRUDHUNAGAR 461.6 398.5 +16 \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 65 
+ 
+ 
+ 
+ 
+Fig.5b:  District-wise rainfall distribution over the TN subdivision during Oc t, Nov & Dec 
+2024 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 66 
+ 
+During December 2024,  Kanyakumari district received deficient rainfall, Ramanathapuram 
+district - normal rainfall, Nilgiris, Coimbatore, Tiruvarur, Nagapattinam, Mayiladuthurai 
+districts and Karaikal area - excess rainfall and all the other 32 districts - large excess rainfall 
+with Krishnagiri, Dharmapuri, Tirupattur, Vellore, Ranipet, Thiruvannamalai , 
+Villupuram, Kallakurichi, Salem, Namakkal, Karur, Tirunelveli, Thenkasi & Virudunagar 
+districts recording rainfall in the range +200% to +600%. 
+ 
+6. Standardised Precipitation Index 
+ The Standardized Precipitation Index (SPI) is an index used for monitoring drought and 
+is based on precipitation. This index is negative for dry and positive for wet conditions. As the 
+dry or wet conditions become more severe, the index becomes more ne gative or positive. For 
+October to December 2024, SPI indicated  generally wet conditions over TN & SIK and mildly 
+wet & dry conditions over CAP, RYS  & KER. In TN, severely wet conditions prevailed over 
+Krishnagiri & Dharmapuri  districts and moderately wet  conditions over Kallakurichi, 
+Madurai, Namakkal, Ranipet, Salem, Sivagangai, Tenkasi, Tirunelveli, Tirupattur, 
+Tiruppur, Thiruvannamalai, Tiruchirapalli, Vellore & Villupuram district & Puducherry 
+area. Mildly wet conditions prevailed over all the other 22 districts and Karaikal area. In AP, 9 
+districts in CAP , Yanam area (of Puducherry)  & 6 districts in RYS came under mildly wet  
+category; and 9 districts in CAP & 2 districts in RYS came under mildly dry category.  In KER, 9 
+districts & Mahe area (of Puducherry) came under mildly wet category and the other 5 districts 
+came under mildly dry  category. In SIK, severely wet  conditions prevailed over Chitradurga 
+district and moderately wet  conditions over  Chikkamagaluru, Davangere, Mandya, 
+Ramanagara & Tumakuru  districts. Of the remaining 11 districts excepting Kodagu district 
+that became mildly dry, all the other 10 districts came under mildly wet category (Fig.6).   
+ 
+Fig.6: Standardised Precipitation Index for October -December 20 24 over the southern 
+peninsular India. 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 67 
+ 
+7. Large & Regional scale circulation features  
+(a) Flow pattern: The mean and anomalous wind pattern over the Indian region at 850 hPa, 500 
+hPa and 250 hPa levels during October –December 2024 are presented in Fig.8a(i)-(iii). The 250 
+hPa velocity potential & 850 hPa  stream function over the Indian region during October -
+December 2024 are presented in Fig.8b & Fig.8c respectively. 
+ 
+In October 202 4, anomalous cyclonic circulation was observed in the lower tropospheric levels 
+(850 hPa) over the South and Central Arabian Sea and adjoining southern peninsular region 
+[Fig.7a(i) & Fig.7c] and anomalous anticyclonic circulation was observed over the northwestern 
+parts of India and neighbourhood in the middle and upper tropospheric levels. [Fig.7a(i)]. There 
+was anomalous upper level divergence over the southern peninsular region, adjoining Comorin – 
+Maldives area & equatorial Indian Ocean [Fig.7b]. 
+   
+In November 202 4, at 850 hPa level, anticyclonic circulation was present  over most parts of 
+India excepting over the extreme southern parts of peninsular region wherein cyclonic circulation 
+prevailed [Fig.7c].  Anomalous anticyclone was present over the Northwestern parts India and 
+neighbourhood led to continental northerlies over the southern peninsular India in the mid levels 
+[Fig.7a(ii)]. Anomalous upper level divergence was present over the equatorial Indian Ocean and 
+Bay of Bengal region and only weak divergence was present over the Indian region at 250 hPa 
+level [Fig.7b].  
+ 
+In December 202 4, at 850 hPa level, there was anomalous cyclonic circulation over the 
+Eastcentral Arabian sea and adjoining peninsular India [Fig.7a(iii) &Fig7c]. At 500 hPa  level, 
+there were anomalous cyclonic circulations over Northwest India and neighbourhood and over  
+the South Bay of Bengal and adjoining southern peninsular India and anomalous anti cyclonic 
+circulations over the western parts of Arabian Sea and over the northern parts of Bay of Bengal 
+and neighbourhood. The anomalous cyclonic circulation over the Northwest India and 
+neighbourhood extended up  to the upper tropospheric levels . There was anomalous upper level 
+divergence over the Southeast Asian region which extended into the Bay of Bengal and adjoining 
+southeastern & eastern Indian region also. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 68 
+ 
+   
+ 
+Fig.7a(i): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during October 2024 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+    
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 69 
+ 
+ 
+ 
+ 
+Fig.7a(ii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa 
+and 250 hPa levels during Nov 2024 (Source: Climate Diagnostic Bulletin of India, IMD Pune)   
+  
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 70 
+ 
+ 
+ 
+     
+Fig.7a(iii): Mean and anomalous wind pattern over the Indian region at 850 hPa, 500 hPa and 250 
+hPa levels during December 2024 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 71 
+ 
+    
+Fig.7b: 250 hPa velocity potential (x 106 m2/s) over the Indian region during Oct , Nov & 
+Dec 2024 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 72 
+ 
+    
+Fig.7c: 850 hPa stream function (x 106 m2/s) over the Indian region during Oct , Nov & Dec 
+2024 (Source: Climate Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 73 
+ 
+(b) Monthly OLR patterns: Monthly OLR anomalies over the Indian region are shown in Fig.7d. 
+In October 2024, negative OLR anomalies were observed over the southern peninsular region.  
+In November, positive OLR anomalies were observed over  most parts of  the NEM region  
+excepting the coastal and adjoining areas of TN.  
+In December, negative OLR anomalies of about -10 W/m2 to -30 W/m2 were observed over most 
+parts of the NEM region. 
+   
+ 
+   
+Fig.7d:  OLR anomalies over the Indian region during Oct, Nov & Dec 2024 (Source: Climate 
+Diagnostic Bulletin of India, IMD Pune) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 74 
+ 
+c) Large scale features : Based on analysis and reports of various global climate monitoring 
+centres, the large scale climate parameters during  October-December 2024 were as follows: 
+(i) Neutral ENSO conditions prevailed over the equatorial Pacific region during the season.   
+(ii) Indian Ocean Dipole was negative during October & November but became neutral in 
+December 2024..  
+(iii) MJO was insignificant during the first two weeks of October, in Phase -4 during the first half 
+of the third week of October and then over the Pacific during the rest of the month. In November, 
+it was in Phase 8 -1 during the first half of the month and in Phase 2 -4 during the rest of the 
+month. In December, it was in Phase-4 during the first five days and then over the Pacific during 
+the rest of the month (Fig.7e (i)-(iii)). 
+Whereas ENSO was neither favourable nor unfavourable for good northeast monsoon , IOD was 
+not favourable during the first two months and had no influence in the third month . MJO was 
+generally unfavourable during the season excepting during the second half of November.  
+However, all the five subdivisions received deficient rainfall only in November 2024. 
+ 
+ 
+Fig.7e(i): Sea surface temperature over the equatorial Pacific Ocean  (Source: Bureau of 
+Meteorology, Australia) 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 75 
+ 
+ 
+Fig.7e(ii): Indian Ocean Dipole mode index (Source: Bureau of Meteorology, Australia) 
+ 
+Fig.7e(iii): MJO during Oct-Dec 2024  (Source: Bureau of Meteorology, Australia) 
+ 
+ 
+\nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 76 
+ 
+8. Cessation of NEM rains over peninsular India 
+Subsequent to the  Depression over the Bay of Bengal during 20 th-21st December 2024 [Section 
+3a-(v)], NEM rainfall activity continued under the influence of upper air cyclonic circulations 
+over the Southeast Arabian Sea / Equatorial Indian Ocean / South Bay of Bengal during the last 
+week of December and during the second and third weeks of January 2025 . Active / vigorous  
+monsoon conditions prevailed over TN on 28 th December 2024 & 19 th & 20 th Jan 2025; over 
+North TN on 27 th Dec 2024, over North Coastal TN on 30 th Dec 2024 & over South TN on 31 st 
+Dec 2024 & 15th Jan 2025.  
+Heavy to very heavy rainfall with  isolated extremely heavy rain occurred over Tirunelveli 
+district on 20 th Jan 2025. Oothu, Nalumukku & Kakkachi  in the ghat areas of Tirunelveli 
+district recorded extremely heavy rainfall of 23 cm, 22 cm & 21 cm respectively on that day. 
+Isolated heavy to very heavy rainfall also occurred over Tirunelveli district on 31st Dec 2024; 
+01st, 16th and 19th Jan 2025. 
+Isolated heavy rainfall occurred over Mayiladuthurai & Nagapattinam district s on 19 th; over 
+Ramanathapuram district on 20 th; over Tirunelveli district on 11 th, 15 th and 17 th and over 
+Tiruvallur district on 19th Jan 2025. 
+Subsequently, with the gradual reduction in rainfall activity,  the Northeast Monsoon rains 
+ceased over Tamilnadu, Puducherry & Karaikal, Rayalaseema, Coastal Andhra Pradesh & 
+Yanam, Kerala & Mahe and South Interior Karnataka from 27th Jan 2025. 
+ 
+9. Summary 
+During the year 202 4, the southwest monsoon withdrew from the Indian region on 15th October 
+and the Northeast monsoon (NEM) of 202 4 commenced simultaneously over the southeastern 
+parts of peninsular India on 15th October 2024 against the normal date of 20th October.  
+Of the five meteorological sub divisions (Tamilnadu, Puducherry & Karaikal (TN), Coastal 
+Andhra Pradesh & Yanam (CAP), Rayalaseema (RYS), Kerala & Mahe (KER) & South Interior 
+Karnataka (SIK) benefitted by the Northeast Monsoon, three subdivisions (TN, RYS & SIK) 
+received excess rainfall & the other two subdivisions  (KER & CAP) received normal rainfall  
+during the NEM season (October-December) 2024.  
+Active to vigorous monsoon conditions prevailed over TN on 20 days, over SIK on 16 days, over 
+KER & RYS on 13 days each and over CAP on 9 days during the season. There were 61 days of 
+isolated heavy rainfall activity with 27 days of isolated very heavy  rain including 05 days of 
+isolated extremely heavy rainfall activity over TN.   \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 77 
+ 
+Two Tropical Cyclones  –Severe Cyclonic Storm (SCS) DANA and Cyclonic Storm (CS)  
+FENGAL over the Bay of Bengal (BOB) and three Depressions (D) (one over Arabian Sea & 
+two over the BOB) affected  the Indian seas during the season. The SCS DANA during 22nd-26th 
+Oct 2024 tracked northwestwards and crossed Odisha coast.  The CS FENGAL during 25th Nov 
+– 01st Dec 2024 crossed North Tamilnadu – Puducherry coast close to Puducherry around the 
+mid-night of 30th November 2024 and caused torrential rains and extensive damages over North 
+Tamilnadu & Puducherry during 30 th November – 02nd December Dec 2024.  One Depression 
+over BOB during 15 th-16th October was associated with the commencement of the NEM rains. 
+The other 2 -Ds, 1 -over AS (13 th-15th Oct) & the other over BOB (20 th-21st Dec) did not 
+contribute significantly towards NEM rainfall.  
+However, a Low Pressure area (LOPAR) over BOB during 11th-12th November, a Well Marked 
+Low Pressure Area (WML)  over BOB during 07 th-14th Dec along with frequent upper air 
+cyclonic circulations / troughs in easterlies during the season contributed significantly towards 
+the rainfall of NEM 2024.  
+Further, the season extended into January of 2025. There was isolated heavy rainfall activity on 
+7 days including three days of isolated very heavy rain and one day of isolated extremely heavy 
+rain (on 20th Jan 2025).   
+Thereafter, with the gradual decrease in rainfall activity, the cessation of NEM 2024 rainfall over 
+the southern peninsular India was declared on 27th January 2025. 
+ 
+ 
+Acknowledgements 
+This report is a compilation of real -time observational data and analytical products 
+generated by various IMD offices including IMD New Delhi, Pune, Thiruvananthapuram, 
+Hyderabad, Bangalore  & Amaravati as well as raingauge networks of state government  
+departments. Contribution from all officials involved in generation of data and analytical 
+products used for preparation of this report is duly acknowledged.  Use of US-NCEP reanalysis 
+data, analytical product of Bureau of Meteorology, Australia and local media reports are also 
+duly acknowledged. 
+ 
+ 
+ 
+ \nNote: Kindly refer appendix-(i)-(iii) for description of terminologies Page 78 
+ 
+APPENDIX-(i):  Terminologies for Spatial rainfall distribution 
+WS - Widespread (Most places): 75 % or more number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+FWS- Fairly widespread (Many places) : 51% to 74 % number of stations of a region (sub -
+division) reporting at least 2.5 mm rainfall.  
+SCT- Scattered (at a few places): 26 % to 50% number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+ISOL- Isolated (At isolated places):  25% or less number of stations of a region (sub -division) 
+reporting at least 2.5 mm rainfall.  
+DRY:  No station of a region reported rainfall 
+APPENDIX-(ii):  Terminologies for description of intensity of rainfall 
+ 
+ 
+APPENDIX-(iii):  Description of NEM rainfall activity 
+Active: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 1½ to 4 
+times the normal with at least two stations reporting more than or equal to 3 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 2 cm elsewhere in the NEM region. 
+Vigorous: Fairly widespread to widespread sub -divisional rainfall with rainfall more than 4 
+times the normal with at least two stations reporting more than or equal to 5 cm in coastal Tamil 
+Nadu, south coastal Andhra Pradesh and 3 cm elsewhere in the NEM region. 
