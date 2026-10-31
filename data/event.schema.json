@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monsoon Impact Navigator event record",
+  "description": "Shape and evidence metadata for one curated rainfall-impact event.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "$ref": "#/$defs/event"
+  },
+  "$defs": {
+    "event": {
+      "type": "object",
+      "required": [
+        "event_id", "name", "start_date", "end_date", "analysis_window",
+        "features", "affected_districts", "source", "label_status", "label_confidence"
+      ],
+      "properties": {
+        "event_id": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "start_date": { "type": "string", "format": "date" },
+        "end_date": { "type": "string", "format": "date" },
+        "analysis_window": {
+          "type": "object",
+          "required": ["start", "end"],
+          "properties": {
+            "start": { "type": "string", "format": "date" },
+            "end": { "type": "string", "format": "date" }
+          },
+          "additionalProperties": false
+        },
+        "features": {
+          "type": "object",
+          "required": ["intensity_mm", "duration_hours"],
+          "properties": {
+            "intensity_mm": { "$ref": "#/$defs/nonNegativeNumber" },
+            "duration_hours": { "$ref": "#/$defs/nonNegativeNumber" },
+            "antecedent_7d_mm": { "$ref": "#/$defs/nonNegativeNumber" },
+            "antecedent_30d_mm": { "$ref": "#/$defs/nonNegativeNumber" },
+            "reservoir_storage_pct": { "$ref": "#/$defs/nonNegativeNumber" }
+          },
+          "additionalProperties": false
+        },
+        "affected_districts": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "source": { "type": "string", "format": "uri", "pattern": "^https?://" },
+        "additional_sources": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri", "pattern": "^https?://" }
+        },
+        "label_status": {
+          "enum": [
+            "verified_source_report", "verified_satellite_extent", "verified_government_report",
+            "pending_review", "unverified"
+          ]
+        },
+        "label_confidence": { "enum": ["low", "medium", "high"] },
+        "local_evidence": { "type": "string", "minLength": 1 },
+        "evidence_notes": { "type": "string", "minLength": 1 },
+        "evidence_page": { "type": "integer", "minimum": 1 },
+        "source_retrieved_at_utc": { "type": "string", "format": "date-time" },
+        "raw_file_sha256": { "type": "string", "pattern": "^[0-9A-Fa-f]{64}$" },
+        "analysis_buffer_days": { "type": "integer", "minimum": 0 },
+        "cyclone_window_verified_clear": { "type": "boolean" },
+        "cyclone_window_evidence": { "type": "string", "minLength": 1 },
+        "feature_method": { "type": "string", "minLength": 1 },
+        "rainfall_data_source": { "type": "string" },
+        "rainfall_retrieved_at_utc": { "type": "string" },
+        "rainfall_sha256": { "type": "string", "pattern": "^[0-9A-Fa-f]{64}$" }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "label_status": {
+                "enum": ["verified_source_report", "verified_satellite_extent", "verified_government_report"]
+              }
+            },
+            "required": ["label_status"]
+          },
+          "then": {
+            "required": [
+              "local_evidence", "evidence_notes", "evidence_page", "source_retrieved_at_utc",
+              "raw_file_sha256", "analysis_buffer_days", "cyclone_window_verified_clear",
+              "cyclone_window_evidence", "feature_method"
+            ],
+            "properties": {
+              "cyclone_window_verified_clear": { "const": true }
+            }
+          }
+        }
+      ],
+      "additionalProperties": true
+    },
+    "nonNegativeNumber": {
+      "type": "number",
+      "minimum": 0
+    }
+  }
+}

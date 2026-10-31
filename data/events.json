@@ -213,5 +213,37 @@
     "analysis_buffer_days": 2,
     "cyclone_window_verified_clear": true,
     "cyclone_window_evidence": "The event window is 1–8 November with a fixed two-day buffer (30 October–10 November). The NRSC map attributes the episode to Northeast Monsoon rain. IMD's 6 November release describes low-pressure areas; the Bay depression and later North Tamil Nadu coastal crossing occurred after this buffer (18–19 November). No named cyclone landfall is recorded in the event-plus-buffer window."
+  },
+  {
+    "event_id": "tn-rain-2010-kanyakumari-december-depression",
+    "name": "Kanyakumari heavy rain and flooding, December 2010",
+    "start_date": "2010-12-06",
+    "end_date": "2010-12-09",
+    "features": {
+      "intensity_mm": 62.9,
+      "duration_hours": 96.0
+    },
+    "affected_districts": [
+      "Kanyakumari"
+    ],
+    "source": "https://rsmcnewdelhi.imd.gov.in/uploads/report/27/27_7aaf4d_rsmc-2010.pdf#page=104",
+    "local_evidence": "data/sources/imd_rsmc_annual_report_2010.pdf",
+    "label_status": "verified_government_report",
+    "label_confidence": "medium",
+    "evidence_notes": "IMD's 2010 annual report attributes heavy to very heavy rainfall over Tamil Nadu during 6–8 December to a depression over the Bay of Bengal. It specifically reports 4,500 huts damaged and about 1,000 acres of paddy fields submerged in Kanyakumari district. The district observatory's IMD December extremes table records a 24-hour maximum of 62.9 mm on 9 December; this is a point-observatory measurement, not a district mean.",
+    "evidence_page": 104,
+    "additional_sources": [
+      "https://city.imd.gov.in/citywx/extreme/DEC/kanyakumari2.htm"
+    ],
+    "analysis_window": {
+      "start": "2010-12-06",
+      "end": "2010-12-09"
+    },
+    "source_retrieved_at_utc": "2026-10-31T17:00:10Z",
+    "raw_file_sha256": "7A626A365D743B6BB0858D42910DA2F52F7CDE59ED70AA17FABF446BB0323C72",
+    "feature_method": "Intensity is the Kanyakumari IMD observatory's 24-hour maximum of 62.9 mm dated 9 December 2010 in the official December extremes table. The four-day duration is the inclusive 6–9 December analysis-window length, not measured continuous rainfall. The impact label is taken from the IMD annual report; station rainfall and district impact labels are distinct evidence types.",
+    "analysis_buffer_days": 2,
+    "cyclone_window_verified_clear": true,
+    "cyclone_window_evidence": "The fixed two-day buffer spans 4–11 December 2010. The IMD annual report's storm chronology identifies the associated 7–8 December system as a depression; its named Severe Cyclonic Storm Jal occurred 4–8 November, outside this window. No named cyclone landfall is recorded for the event-plus-buffer window. This remains a depression-associated event, not a system-free rainfall case."
   }
 ]

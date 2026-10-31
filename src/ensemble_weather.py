@@ -97,7 +97,8 @@ def fetch_ensemble_forecasts(locations: dict[str, tuple[float, float]], days: in
         raise EnsembleWeatherError(f"district ensemble forecast unavailable: {exc}") from exc
     payloads = payload if isinstance(payload, list) else [payload]
     if len(payloads) != len(names):
-        raise EnsembleWeatherError(f"provider returned {len(payloads)} locations for {len(names)} districts")
+        raise EnsembleWeatherError(
+            f"partial district coverage: provider returned {len(payloads)} locations for {len(names)} requested; no ranking was generated")
     results = {}
     for name, point, location_payload in zip(names, coords, payloads):
         hourly = location_payload.get("hourly", {})

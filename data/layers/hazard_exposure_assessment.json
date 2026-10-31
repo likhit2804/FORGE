@@ -1,0 +1,185 @@
+{
+  "assessment_version": 1,
+  "boundary_reference": {
+    "boundary_id": "IND-ADM2-76128533",
+    "boundary_year": "2021",
+    "expected_district_count": 38,
+    "boundary_license": "Open Data Commons Open Database License 1.0",
+    "geojson_sha256": "f8569015d1e12ba00d13b73a76338d82840dab392519d6e1abcdad906603ef76"
+  },
+  "source_files": {
+    "district_boundaries": {
+      "path": "data/boundaries/tamil_nadu_districts.geojson",
+      "bytes": 1581515,
+      "sha256": "f8569015d1e12ba00d13b73a76338d82840dab392519d6e1abcdad906603ef76",
+      "source": "geoBoundaries gbOpen",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM2/geoBoundaries-IND-ADM2.geojson",
+      "licence": "Open Data Commons Open Database License 1.0",
+      "retrieved_at_utc": "2026-10-30T22:20:54+00:00",
+      "method": null
+    },
+    "district_elevation": {
+      "path": "data/layers/district_terrain.json",
+      "bytes": 62966,
+      "sha256": "5b8d384e7eecd2e74b050c2bd7952c66c1299fdfaa80cb2fdcdbccdad3648f1d",
+      "source": "Open-Meteo elevation API / Copernicus DEM GLO-90",
+      "source_url": "https://open-meteo.com/en/docs/elevation-api",
+      "licence": "not recorded in layer metadata",
+      "retrieved_at_utc": "2026-10-30T22:22:52+00:00",
+      "method": "DEM sample at each polygon representative point; not a district mean or floodplain model."
+    },
+    "population": {
+      "path": "data/layers/district_population.json",
+      "bytes": 16018,
+      "sha256": "73c2ea38f4d5ea4cbfbc1f5c4b896313524df0bc4be389be4e25b6daaa10bc56",
+      "source": "WorldPop Global 2 Population API",
+      "source_url": "https://api.worldpop.org/v2/",
+      "licence": "not recorded in layer metadata",
+      "retrieved_at_utc": "2026-10-30T22:25:15+00:00",
+      "method": null
+    },
+    "osm_features": {
+      "path": "data/layers/district_osm.json",
+      "bytes": 20117,
+      "sha256": "6d84a5e548d1ce82f31caec15507be2ca85d2b7db86b44c5319cb4397946693c",
+      "source": "OpenStreetMap contributors via Overpass API",
+      "source_url": "https://overpass-api.de/api/interpreter",
+      "licence": "Open Database License (ODbL)",
+      "retrieved_at_utc": "2026-10-31T09:03:03+00:00",
+      "method": "Query district bounding box; count unique road/waterway ways and amenity features whose OSM node or way centre lies inside the district polygon."
+    },
+    "daily_rainfall": {
+      "path": "data/processed/imd_district_daily_rainfall_2015_2024.csv",
+      "bytes": 4147489,
+      "sha256": "96729e97f66a5c587afaf51cf057bc10f9b6c5f15ab19bfd9f8c65e09b109496",
+      "source": "India Meteorological Department gridded daily rainfall (0.25 degree)",
+      "source_url": "https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html",
+      "licence": "Open Data Commons Open Database License 1.0",
+      "retrieved_at_utc": "2026-10-31T06:40:26+00:00",
+      "method": "unweighted mean of valid grid-cell-centre values inside each district polygon; if covered cells contain no valid data in a file, average valid values among the eight nearest grid centres to its representative point"
+    }
+  },
+  "coverage": {
+    "elevation": {
+      "expected_districts": 38,
+      "record_count": 38,
+      "unique_district_count": 38,
+      "missing_districts": [],
+      "unexpected_districts": [],
+      "duplicate_districts": [],
+      "coverage_fraction": 1.0
+    },
+    "population": {
+      "expected_districts": 38,
+      "record_count": 38,
+      "unique_district_count": 38,
+      "missing_districts": [],
+      "unexpected_districts": [],
+      "duplicate_districts": [],
+      "coverage_fraction": 1.0
+    },
+    "osm": {
+      "expected_districts": 38,
+      "record_count": 38,
+      "unique_district_count": 38,
+      "missing_districts": [],
+      "unexpected_districts": [],
+      "duplicate_districts": [],
+      "coverage_fraction": 1.0
+    },
+    "daily_rainfall": {
+      "row_count": 138814,
+      "distinct_dates": 3653,
+      "date_start": "2015-01-01",
+      "date_end": "2024-12-31",
+      "district_count": 38,
+      "missing_boundary_districts": [],
+      "invalid_or_negative_rows": 0
+    },
+    "osm_error_count": 0,
+    "satellite_extent_event_count": 1,
+    "satellite_extent_event_ids": [
+      "tn-rain-2021-north-inundation"
+    ]
+  },
+  "ranking_inputs": [
+    {
+      "signal": "rainfall_hazard",
+      "current_use": "active; forecast percentile and analogue rainfall features",
+      "meaning": "forecast rainfall intensity/duration with observed-rainfall event analogues",
+      "limitations": [
+        "Archived operational forecast validation is pending.",
+        "Observed rainfall reconstruction is not forecast skill."
+      ]
+    },
+    {
+      "signal": "elevation_exposure_proxy",
+      "current_use": "active; inverse rank of one representative-point elevation per district",
+      "meaning": "relative elevation at a single point from Copernicus DEM GLO-90 via Open-Meteo",
+      "limitations": [
+        "Not district mean elevation, local floodplain elevation, drainage, or inundation depth.",
+        "Spatial support is one representative point per district."
+      ]
+    },
+    {
+      "signal": "population_vulnerability_proxy",
+      "current_use": "active; WorldPop 2025 1-km district total rank",
+      "meaning": "relative resident population total by current district polygon",
+      "limitations": [
+        "Not event-time population, exposed population, or a flood footprint intersection.",
+        "The layer metadata does not record a data licence."
+      ]
+    },
+    {
+      "signal": "mapped_facility_context",
+      "current_use": "active; OSM hospitals/clinics/schools contribute 25% of vulnerability rank when full coverage exists",
+      "meaning": "count of mapped amenities assigned by the current Overpass geometry method",
+      "limitations": [
+        "OSM completeness and tagging are uneven; counts are not authoritative service capacity.",
+        "The layer records retrieval time and ODbL, but not a per-feature quality score."
+      ]
+    },
+    {
+      "signal": "road_density_isolation_proxy",
+      "current_use": "active; inverse rank of OSM road ways per 100 km2",
+      "meaning": "mapped road-way density, not road length or network connectivity",
+      "limitations": [
+        "Does not establish passability, flood closure, travel time, or access to a particular facility.",
+        "OSM coverage is incomplete and uneven."
+      ]
+    }
+  ],
+  "candidate_signals": [
+    {
+      "signal": "river_proximity",
+      "status": "not_available",
+      "why_existing_waterway_counts_are_not_a_substitute": "District counts of mapped waterway ways do not provide distance to a river, stream order, floodplain, or upstream catchment."
+    },
+    {
+      "signal": "drainage_capacity",
+      "status": "not_available",
+      "why": "No drainage network, culvert capacity, or stormwater-system layer is present."
+    },
+    {
+      "signal": "observed_inundation",
+      "status": "single_preliminary_event_label_only",
+      "coverage": "1 satellite-extent event among 11 curated events",
+      "why": "The one NRSC/ISRO extent is preliminary and ungrounded; there is no repeated, event-aligned inundation raster series."
+    },
+    {
+      "signal": "road_passability_or_travel_time",
+      "status": "not_available",
+      "why": "Static mapped road density cannot represent event-time closures, surface condition, or network travel time."
+    },
+    {
+      "signal": "cropland_exposure",
+      "status": "not_available",
+      "why": "No dated cropland/land-cover layer intersected with event inundation or rainfall footprints is present."
+    }
+  ],
+  "independent_added_value": {
+    "status": "not_evaluated",
+    "reason": "Existing population, elevation, and OSM proxies currently enter the ranking, but no independent event-holdout ablation establishes their incremental value. The impact labels are sparse and mostly report-derived.",
+    "required_evaluation": "Compare the locked baseline against one added signal at a time with the same chronological held-out events, metrics, and sample; report per-event deltas and uncertainty before enabling any new signal."
+  }
+}

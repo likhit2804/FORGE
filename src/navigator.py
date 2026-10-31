@@ -304,23 +304,27 @@ def priority_ranking(query: Query, retrieval: dict, score_weights: dict[str, flo
 
 
 def confidence(retrieval: dict, priorities: list[dict], missing_fraction: float = 0.0,
-               high_spread: bool = False, scenario_sensitive: bool = False) -> str:
+               high_spread: bool = False, scenario_sensitive: bool = False,
+               empirically_calibrated: bool = False) -> str:
     if retrieval["abstained"] or retrieval["out_of_range"] or high_spread or missing_fraction > 0.30 or scenario_sensitive:
         return "Low"
     top_support = priorities[0].get("analogue_support", 0) if priorities else 0
-    if top_support < 3 or missing_fraction > 0 or len(priorities) == 0:
+    if (not empirically_calibrated or top_support < 3 or missing_fraction > 0
+            or len(priorities) == 0):
         return "Medium"
     return "High"
 
 
 def district_confidence(retrieval: dict, row: dict, missing_fraction: float = 0.0,
-                        high_spread: bool = False, scenario_sensitive: bool = False) -> str:
+                        high_spread: bool = False, scenario_sensitive: bool = False,
+                        empirically_calibrated: bool = False) -> str:
     """Confidence for one district; callers aggregate the top-five worst case."""
     if (row.get("district_abstained", retrieval["abstained"])
             or row.get("district_out_of_range", retrieval["out_of_range"]) or high_spread
             or missing_fraction > 0.30 or scenario_sensitive):
         return "Low"
-    if row.get("analogue_support", 0) < 3 or missing_fraction > 0:
+    if (not empirically_calibrated or row.get("analogue_support", 0) < 3
+            or missing_fraction > 0):
         return "Medium"
     return "High"
 

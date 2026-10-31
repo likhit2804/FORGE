@@ -2,14 +2,24 @@
 
 An explainable, case-based retrieval prototype for rainfall-driven relief-preparation priorities in Tamil Nadu.
 
+## Requirements
+
+- Python 3.11 (see [`.python-version`](.python-version)).
+- Node.js 22.14.0 and npm (see [`.nvmrc`](.nvmrc)).
+- Git.
+
 ## Run locally
+
+Create and activate a virtual environment, then install the project and its optional geospatial/rainfall dependencies plus the test tools:
 
 ```bash
 python -m venv .venv
-.venv\\Scripts\\activate
-pip install -r requirements.txt
-pip install -e ".[geo,rainfall]"
-npm --prefix web install
+# Windows PowerShell
+.\.venv\Scripts\Activate.ps1
+# macOS/Linux: source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -e ".[geo,rainfall]" -r requirements.txt
+npm --prefix web ci
 ```
 
 For local development, run the API and React client in two terminals:
@@ -30,17 +40,39 @@ The project also includes `pyproject.toml` for standard Python tooling. Set `IMD
 
 GitHub Actions runs the provenance gate, test suite, and Python compilation on every push and pull request.
 
-Run tests:
+Run the backend tests and provenance check, then build the frontend:
 
 ```bash
-pytest
+python -m pytest -q
+python scripts/validate_events.py
+npm --prefix web run build
 ```
+
+CI runs these checks on pushes and pull requests. Use the versions in `.python-version` and `.nvmrc` for consistent local results.
 
 ## Important data note
 
-`data/events.json` contains ten curated records linked to official IMD, CWC, or NRSC/ISRO evidence. The August 2019 Nilgiris record is based on the CWC flood situation report; it is a deep-depression-associated rainfall event, not a named-cyclone event. The November 2021 North Tamil Nadu record uses preliminary ALOS-2 satellite inundation mapping, explicitly marked medium confidence because NRSC reports no ground verification. Report-derived maxima and affected-district labels are traceable to local source copies and hashes. Supplementary district rainfall and antecedent features are reproducibly derived from the IMD grid; they do not replace report-derived event maxima or impact labels. Report labels remain imperfect ground truth and are not flood polygons.
+`data/events.json` contains eleven curated records linked to official IMD, CWC, or NRSC/ISRO evidence. Each verified record is checked against its local source copy and SHA-256 by `python scripts/validate_events.py`. The December 2010 Kanyakumari case documents depression-associated rainfall, with the observed station maximum clearly distinguished from the affected-district label. The August 2019 Nilgiris record is based on the CWC flood situation report; it is a deep-depression-associated rainfall event, not a named-cyclone event. The November 2021 North Tamil Nadu record uses preliminary ALOS-2 satellite inundation mapping, explicitly marked medium confidence because NRSC reports no ground verification. Report-derived maxima and affected-district labels are traceable to local source copies and hashes. Supplementary district rainfall and antecedent features are reproducibly derived from the IMD grid; they do not replace report-derived event maxima or impact labels. Report labels remain imperfect ground truth and are not flood polygons. The retained source files total about 76 MB; their sizes, hashes, citations, and rights-review status are in [`data/sources/manifest.json`](data/sources/manifest.json). See [`data/input/README.md`](data/input/README.md) for the schema and review requirements and [`data/event_inventory.md`](data/event_inventory.md) for current coverage and gaps.
 
-Archived operational forecast inputs are not yet downloaded. The TIGGE access/licensing constraint and a retrieval/validation protocol are documented in [`data/input/forecast_archive.md`](data/input/forecast_archive.md); current hindcasts use observed event rainfall and must not be presented as forecast skill.
+Regenerate the district feature source/coverage audit with `python -m scripts.assess_hazard_exposure --output data/layers/hazard_exposure_assessment.json`. It records per-layer file hashes, source metadata, boundary coverage, proxy limitations, and candidate signals not yet available. This is a data-quality inventory, not evidence that the active population/elevation/OSM ranking proxies improve independent event evaluation. See [`data/layers/README.md`](data/layers/README.md).
+
+Archived operational forecasts are not yet downloaded, so forecast validation remains pending. Phase 3 now has a separate evaluator that requires pre-event archived runs, exact observation windows, original files with verified SHA-256 values, and recorded licences. Its input contract and current ECMWF TIGGE/ECDS retrieval protocol are in [`data/input/forecast_archive.md`](data/input/forecast_archive.md). To run it after preparing those inputs:
+
+```bash
+python scripts/evaluate_archived_forecasts.py --forecasts data/processed/archived_forecasts.csv --observations data/processed/imd_district_daily_rainfall_2015_2024.csv --output data/processed/archived_forecast_evaluation.json
+```
+
+The evaluator reports by centre and lead and keeps archived-forecast scores distinct from retrospective reconstructions. It will not mark a skill claim threshold as met until at least five eligible events are present. TIGGE data discovery is through the [ECMWF Data Store](https://ecds.ecmwf.int/datasets/tigge-forecasts); current ECDS instructions require an account and API token, and licences must be checked per selected contribution. The broader improvement roadmap is in [`PROJECT_PLAN.md`](PROJECT_PLAN.md).
+
+Phase 6 operational smoke checks, outage/recovery cases, freshness semantics, and the intended-user pilot checklist are documented in [`docs/PILOT_READINESS.md`](docs/PILOT_READINESS.md). The health endpoint checks required local file presence only; it does not certify external-feed availability or operational readiness.
+
+Confidence calibration is also pending until archived forecast errors are available. The app caps heuristic confidence at Medium and shows why a ranking is downgraded or treated as exploratory. Once Phase 3 has usable archive results, build a spread-versus-error diagnostic with:
+
+```bash
+python scripts/build_confidence_calibration.py --evaluation data/processed/archived_forecast_evaluation.json --output data/processed/confidence_calibration_candidate.json
+```
+
+The default gate is ten distinct events and 100 district-run samples for each forecast-centre/lead stratum. Passing it only produces a candidate for independent review and out-of-sample validation; it does not make ensemble spread a probability or enable High confidence.
 
 ## Full data workflow
 
@@ -71,6 +103,12 @@ Archived operational forecast inputs are not yet downloaded. The TIGGE access/li
 
    ```bash
    python -m scripts.build_event_library --rainfall-csv data/input/daily_district_rainfall.csv --labels-json data/input/event_labels.json --rainfall-source-url SOURCE_URL --output data/events_built.json
+   ```
+
+   Validate a candidate event file before replacing the curated library:
+
+   ```bash
+   python scripts/validate_events.py --events data/events_built.json
    ```
 
 3. To calculate population totals using WorldPop Global 2 and the downloaded district polygons:
@@ -124,4 +162,4 @@ Only replace `data/events.json` after checking the generated records and their p
 - A district-polygon priority map and ranking across all 38 available Tamil Nadu ADM2 polygons; polygons and markers are not flood extents.
 - Open-Meteo ensemble 24-hour rainfall quantiles by district centroid, with per-district analogue retrieval enriched by IMD gridded event rainfall. The optional IMD categorical forecast is displayed as context; categories are never converted into fabricated millimetres.
 
-The application does not predict exact flood depth, dispatch relief, route vehicles, or control reservoirs. WorldPop population, representative-point elevation, and OSM road/facility proxies prefill district context, with OSM coverage limitations shown. Live AGRISNET reservoir storage is optional context only: the source has no district association, and threshold flags are not flood warnings, release guidance, or controls. River proximity, cropland exposure, and travel-time/passability remain unmodelled. Forecast quantiles are live ensemble spreads, but forecast-error calibration is still needed before interpreting them as calibrated probabilities. The event library currently contains ten source-verified events, still below the 10–20-event target; report-based affected-district labels are uneven, and both hindcasts use observed rainfall from the held-out event rather than archived operational forecasts. Historical grids use contemporary 2021 district boundaries, so labels from before district splits require careful geographic crosswalk review.
+The application does not predict exact flood depth, dispatch relief, route vehicles, or control reservoirs. WorldPop population, representative-point elevation, and OSM road/facility proxies prefill district context, with OSM coverage limitations shown. Live AGRISNET reservoir storage is optional context only: the source has no district association, and threshold flags are not flood warnings, release guidance, or controls. River proximity, cropland exposure, and travel-time/passability remain unmodelled. Forecast quantiles are live ensemble spreads, but forecast-error calibration is still needed before interpreting them as calibrated probabilities. The event library currently contains eleven source-verified events, still below the 20-event expansion target; report-based affected-district labels are uneven, and both hindcasts use observed rainfall from the held-out event rather than archived operational forecasts. Historical grids use contemporary 2021 district boundaries, so labels from before district splits require careful geographic crosswalk review.

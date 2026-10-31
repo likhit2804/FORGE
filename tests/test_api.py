@@ -1,7 +1,76 @@
 from fastapi.testclient import TestClient
+from pathlib import Path
 
 import api
 from src.navigator import Event
+
+
+def test_health_reports_missing_local_data_and_request_id(monkeypatch, tmp_path):
+    (tmp_path / "data" / "boundaries").mkdir(parents=True)
+    (tmp_path / "data" / "layers").mkdir(parents=True)
+    (tmp_path / "data" / "events.json").write_text("[]", encoding="utf-8")
+    (tmp_path / "data" / "boundaries" / "tamil_nadu_districts.geojson").write_text(
+        "{}", encoding="utf-8")
+    monkeypatch.setattr(api, "ROOT", Path(tmp_path))
+
+    response = TestClient(api.app).get("/api/health")
+
+    assert response.status_code == 200
+    assert response.headers["X-Request-ID"]
+    assert response.json()["status"] == "degraded"
+    assert response.json()["required_data"]["feature_assessment"] == "missing"
+    assert "external feeds" in response.json()["limitations"][0]
+
+    (tmp_path / "data" / "layers" / "hazard_exposure_assessment.json").write_text(
+        "{}", encoding="utf-8")
+    recovered = TestClient(api.app).get("/api/health")
+    assert recovered.json()["status"] == "ok"
+
+
+def test_live_forecast_failure_returns_recoverable_error_and_request_id(monkeypatch):
+    monkeypatch.setattr(api, "_events", lambda: [])
+    monkeypatch.setattr(api, "_district_layers", lambda: {
+        "source_names": {"alpha": "Alpha"},
+        "centroids": {"alpha": {"latitude": 11.0, "longitude": 78.0}},
+        "exposure": {}, "vulnerability": {}, "isolation": {},
+        "osm_features": {}, "sources": {}, "geojson": None,
+    })
+
+    def unavailable(*args, **kwargs):
+        raise api.EnsembleWeatherError("partial district coverage")
+
+    monkeypatch.setattr(api, "fetch_ensemble_forecasts", unavailable)
+    response = TestClient(api.app).post("/api/run", json={
+        "mode": "live_ensemble", "intensity_mm": 300,
+    })
+
+    assert response.status_code == 502
+    assert response.headers["X-Request-ID"]
+    assert "partial district coverage" in response.json()["detail"]
+
+
+def test_live_forecast_fails_if_any_district_centroid_is_missing(monkeypatch):
+    monkeypatch.setattr(api, "_events", lambda: [])
+    monkeypatch.setattr(api, "_district_layers", lambda: {
+        "source_names": {"alpha": "Alpha", "beta": "Beta"},
+        "centroids": {"alpha": {"latitude": 11.0, "longitude": 78.0}},
+        "exposure": {}, "vulnerability": {}, "isolation": {},
+        "osm_features": {}, "sources": {}, "geojson": None,
+    })
+    called = False
+
+    def unexpected_fetch(*args, **kwargs):
+        nonlocal called
+        called = True
+        raise AssertionError("provider must not be called with incomplete district coverage")
+
+    monkeypatch.setattr(api, "fetch_ensemble_forecasts", unexpected_fetch)
+    response = TestClient(api.app).post("/api/run", json={"mode": "live_ensemble"})
+
+    assert response.status_code == 503
+    assert "Beta" in response.json()["detail"]
+    assert "no ranking was generated" in response.json()["detail"]
+    assert called is False
 
 
 def test_bootstrap_exposes_districts_events_and_geojson():

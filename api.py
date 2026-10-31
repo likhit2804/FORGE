@@ -3,11 +3,15 @@
 from __future__ import annotations
 
 import json
+import logging
+import math
 import os
-from datetime import date
+from datetime import date, datetime, timezone
 from functools import lru_cache
 from pathlib import Path
+from time import perf_counter
 from typing import Literal
+from uuid import uuid4
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -33,6 +37,7 @@ from src.reservoirs import (DEFAULT_BUFFER_CONCERN_THRESHOLD_PCT,
 
 ROOT = Path(__file__).parent
 WEB_DIST = ROOT / "web" / "dist"
+logger = logging.getLogger("monsoon_api")
 app = FastAPI(title="Monsoon Impact Navigator API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
@@ -41,6 +46,24 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["Content-Type"],
 )
+
+
+@app.middleware("http")
+async def request_logging(request, call_next):
+    request_id = uuid4().hex
+    started = perf_counter()
+    try:
+        response = await call_next(request)
+    except Exception:
+        logger.exception("api_request_failed request_id=%s method=%s path=%s",
+                         request_id, request.method, request.url.path)
+        raise
+    elapsed_ms = (perf_counter() - started) * 1000
+    log = logger.warning if response.status_code >= 500 else logger.info
+    log("api_request_complete request_id=%s method=%s path=%s status=%s duration_ms=%.1f",
+        request_id, request.method, request.url.path, response.status_code, elapsed_ms)
+    response.headers["X-Request-ID"] = request_id
+    return response
 
 
 class RunRequest(BaseModel):
@@ -78,6 +101,33 @@ def _load_events() -> list[Event]:
 @lru_cache(maxsize=1)
 def _district_layers() -> dict:
     return load_district_layers(ROOT)
+
+
+@lru_cache(maxsize=1)
+def _feature_assessment() -> dict | None:
+    path = ROOT / "data" / "layers" / "hazard_exposure_assessment.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None
+
+
+def _static_data_freshness(assessment: dict | None) -> dict:
+    now = datetime.now(timezone.utc)
+    result = {}
+    for name, source in (assessment or {}).get("source_files", {}).items():
+        timestamp = source.get("retrieved_at_utc")
+        if not timestamp:
+            result[name] = {"status": "unknown_timestamp", "kind": "static_reference"}
+            continue
+        try:
+            retrieved = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+            if retrieved.tzinfo is None:
+                retrieved = retrieved.replace(tzinfo=timezone.utc)
+            age_days = (now - retrieved.astimezone(timezone.utc)).total_seconds() / 86400
+            result[name] = {"status": "static_snapshot", "kind": "static_reference",
+                            "retrieved_at_utc": timestamp, "age_days": round(age_days, 2)}
+        except (TypeError, ValueError):
+            result[name] = {"status": "invalid_timestamp", "kind": "static_reference",
+                            "retrieved_at_utc": timestamp}
+    return result
 
 
 def _events() -> list[Event]:
@@ -131,7 +181,18 @@ def _normalised_overrides(names: list[str], values: dict[str, float], label: str
 
 @app.get("/api/health")
 def health() -> dict:
-    return {"status": "ok", "application": "Monsoon Impact Navigator"}
+    required_paths = {
+        "event_library": ROOT / "data" / "events.json",
+        "district_boundaries": ROOT / "data" / "boundaries" / "tamil_nadu_districts.geojson",
+        "feature_assessment": ROOT / "data" / "layers" / "hazard_exposure_assessment.json",
+    }
+    unavailable = [name for name, path in required_paths.items() if not path.is_file()]
+    return {"status": "degraded" if unavailable else "ok",
+            "application": "Monsoon Impact Navigator",
+            "checked_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "required_data": {name: "available" if path.is_file() else "missing"
+                              for name, path in required_paths.items()},
+            "limitations": ["Health status checks required local file presence only; it does not parse file contents or verify external feeds."]}
 
 
 @app.get("/api/bootstrap")
@@ -142,6 +203,7 @@ def bootstrap() -> dict:
     district_list = sorted(names.values()) or sorted({d for event in events for d in event.affected_districts})
     osm_path = ROOT / "data" / "layers" / "district_osm.json"
     osm_data = json.loads(osm_path.read_text(encoding="utf-8")) if osm_path.is_file() else {}
+    feature_assessment = _feature_assessment()
     return {
         "districts": [{"name": name, "key": canonical_district(name),
                        "centroid": layers.get("centroids", {}).get(canonical_district(name)),
@@ -156,6 +218,8 @@ def bootstrap() -> dict:
         "osm": {"records": len(osm_data.get("records", [])),
                 "errors": osm_data.get("errors", []), "license": osm_data.get("license"),
                 "retrieved_at_utc": osm_data.get("retrieved_at_utc")},
+        "feature_assessment": feature_assessment,
+        "data_freshness": _static_data_freshness(feature_assessment),
         "event_count": len(events),
         "limitations": [
             f"Prototype event library contains {len(events)} curated events; affected-district reports are uneven.",
@@ -170,6 +234,7 @@ def bootstrap() -> dict:
 async def run_analysis(request: RunRequest) -> dict:
     layers = _district_layers()
     events = _events()
+    feature_assessment = _feature_assessment()
     weights = _validate_weights(request.weights)
     districts = sorted(layers.get("source_names", {}).values()) or sorted(
         {district for event in events for district in event.affected_districts})
@@ -179,15 +244,30 @@ async def run_analysis(request: RunRequest) -> dict:
     forecast_scenarios_by_district = None
     ensemble_metadata = None
     if request.mode == "live_ensemble":
-        locations = {name: (point["latitude"], point["longitude"])
-                     for name in districts
-                     if (point := layers.get("centroids", {}).get(canonical_district(name)))}
-        if not locations:
-            raise HTTPException(503, "District centroid data is unavailable for live ensemble forecasts")
+        centroid_layers = layers.get("centroids", {})
+        locations = {}
+        missing_centroids = []
+        for name in districts:
+            point = centroid_layers.get(canonical_district(name))
+            latitude = point.get("latitude") if isinstance(point, dict) else None
+            longitude = point.get("longitude") if isinstance(point, dict) else None
+            if (not isinstance(latitude, (int, float)) or not math.isfinite(latitude)
+                    or not -90 <= latitude <= 90
+                    or not isinstance(longitude, (int, float)) or not math.isfinite(longitude)
+                    or not -180 <= longitude <= 180):
+                missing_centroids.append(name)
+                continue
+            locations[name] = (latitude, longitude)
+        if missing_centroids:
+            missing_text = ", ".join(missing_centroids)
+            raise HTTPException(
+                503,
+                f"Live forecast coverage is incomplete: missing or invalid district centroids for {missing_text}; no ranking was generated.")
         try:
             ensemble_metadata = await run_in_threadpool(
                 fetch_ensemble_forecasts, locations, request.forecast_days)
         except (EnsembleWeatherError, ValueError) as exc:
+            logger.warning("ensemble_source_unavailable error_type=%s", type(exc).__name__)
             raise HTTPException(502, str(exc)) from exc
         forecasts = ensemble_metadata["districts"]
         forecast_scenarios_by_district = {
@@ -221,7 +301,14 @@ async def run_analysis(request: RunRequest) -> dict:
     if not any(value > 1.0 and duration_by_district.get(name, 0) > 0
                for name, value in intensity_by_district.items()):
         return {"status": "dry_or_no_significant_rain", "central_forecast_mm": request.intensity_mm,
-                "forecast_source": forecast_source, "official_warning": "Follow official IMD and district-administration bulletins."}
+                "forecast_source": forecast_source,
+                "data_freshness": {
+                    "forecast": ("retrieved_for_this_request" if ensemble_metadata else "manual_user_input"),
+                    "static_reference_layers": _static_data_freshness(feature_assessment),
+                    **({"reservoir": "not_requested_due_to_dry_forecast"}
+                       if request.load_reservoir_context else {}),
+                },
+                "official_warning": "Follow official IMD and district-administration bulletins."}
 
     values = list(intensity_by_district.values()) or [request.intensity_mm]
     median_intensity = sorted(values)[len(values) // 2]
@@ -270,12 +357,28 @@ async def run_analysis(request: RunRequest) -> dict:
     if ranking:
         overall_confidence = max((row["confidence"] for row in ranking[:5]), key=lambda item: severity[item])
 
+    confidence_reasons = []
+    if retrieval["abstained"] or any(row.get("district_abstained") for row in ranking[:5]):
+        confidence_reasons.append("no_close_historical_analogue")
+    if retrieval["out_of_range"] or any(row.get("district_out_of_range") for row in ranking[:5]):
+        confidence_reasons.append("query_outside_event_library_range")
+    if missing_fraction > 0:
+        confidence_reasons.append("incomplete_analogue_features")
+    if spread:
+        confidence_reasons.append("high_ensemble_spread_heuristic")
+    if scenario_sensitive:
+        confidence_reasons.append("top_five_changes_across_scenarios")
+    if overlap_adjusted:
+        confidence_reasons.append("correlated_exposure_isolation_inputs_adjusted")
+    confidence_reasons.append("empirical_forecast_error_calibration_pending")
+
     reservoir = None
     if request.load_reservoir_context:
         try:
             raw_reservoir = await run_in_threadpool(fetch_reservoir_status, date.today())
             reservoir = apply_buffer_flags(raw_reservoir, request.reservoir_threshold_pct)
         except ReservoirDataError as exc:
+            logger.warning("reservoir_context_unavailable error_type=%s", type(exc).__name__)
             reservoir = {"error": str(exc), "source_url": "https://www.tnagrisnet.tn.gov.in/home/reservoir/"}
 
     english = build_advisory(ranking, retrieval, "en", overall_confidence, reservoir if reservoir and "records" in reservoir else None)
@@ -296,15 +399,42 @@ async def run_analysis(request: RunRequest) -> dict:
         sensitivity.append({"weight_set": title,
                             "top_5": [row["district"] for row in priority_ranking(central_query, retrieval, values)[:5]],
                             "weights": values})
+    data_freshness = {
+        "forecast": ({"status": "retrieved_for_this_request",
+                      "retrieved_at_utc": ensemble_metadata["retrieved_at_utc"],
+                      "age_seconds_at_response": 0}
+                     if ensemble_metadata else {"status": "manual_user_input"}),
+        "static_reference_layers": _static_data_freshness(feature_assessment),
+    }
+    if reservoir:
+        if "records" in reservoir:
+            lag = int(reservoir.get("staleness_days", 0))
+            reservoir_status = ("current_source_date" if lag == 0 else
+                                "previous_date_fallback" if lag == 1 else "stale_fallback")
+            data_freshness["reservoir"] = {
+                "status": reservoir_status, "data_date": reservoir.get("data_date"),
+                "retrieved_at_utc": reservoir.get("retrieved_at_utc"), "staleness_days": lag,
+            }
+        else:
+            data_freshness["reservoir"] = {"status": "unavailable"}
     return {
         "status": "ok", "query": {**central_query.features, "month": request.month},
         "forecast_source": forecast_source, "ensemble": ensemble_metadata,
+        "data_freshness": data_freshness,
         "forecast_scenarios": {key: {name: round(value, 2) for name, value in rows.items()}
                                for key, rows in scenario_values.items()},
         "climatology": climatology_status,
         "confidence": overall_confidence,
         "confidence_inputs": {"forecast_spread_high": spread, "missing_feature_fraction": missing_fraction,
                               "scenario_sensitive_top_five": scenario_sensitive,
+                              "empirical_calibration_status": "pending_no_archived_error_sample",
+                              "high_confidence_available": False,
+                              "confidence_reasons": confidence_reasons,
+                              "ranking_status": ("abstained_no_close_analogue" if (retrieval["abstained"] or any(
+                                  row.get("district_abstained") for row in ranking[:5]))
+                                                 else "exploratory_partial_ranking" if (missing_fraction > 0.30 or retrieval["out_of_range"]
+                                                       or any(row.get("district_out_of_range") for row in ranking[:5]))
+                                                 else "heuristic_ranking"),
                               "exposure_isolation_spearman": overlap_rho,
                               "overlap_adjustment_applied": overlap_adjusted},
         "score_weights": {"requested": weights, "applied": score_weights},
@@ -316,6 +446,7 @@ async def run_analysis(request: RunRequest) -> dict:
         "advisory": {"english": english, "tamil": tamil},
         "reservoir_context": reservoir,
         "limitations": ["Forecast scenario spread is not a calibrated error distribution.",
+                        "Confidence is capped at Medium until a model- and lead-matched archived error calibration passes review.",
                         "District-level priority is not a flood extent or operational instruction.",
                         "Reservoir storage is context only and is not linked to districts or ranking."],
     }
